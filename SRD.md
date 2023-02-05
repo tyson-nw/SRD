@@ -77,8 +77,6 @@ The [[#Game Master]] never rolls, so when a creature would need to roll add 5 to
 ### Rolling Other Dice 
 If a different die is required other than the [[#d12]] the die will be noted. This is most often done when rolling damage. There may be a bonus that is applied to this one roll and the applicable [[#Stat]] will be noted. 
 
-
-
 # Character Creation
 The character is the vessel through which the player experiences the game. To create your character you decide on your tropes then choose your ancestry, culture, background, class, and assign your stats. After deriving your [[#Deflect]], [[#HP]], [[#Proficiency Bonus]], [[#Soak]], and [[#Speed]] your character is complete and ready to play.
 
