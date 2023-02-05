@@ -295,7 +295,7 @@ You make a [[#Strength]]+[[#Athletics]] against the target's [[#Body]] to push t
 # Withdraw
 The character can make the withdraw action, as such they don't provoke [[#Movement Response]]
 
-# Bonus Action
+# Swift Act
 Bonus actions are actions that follow the main action. They could be offhand attacks, abilities, or other actions that don't rise to a full [[#Act]].
 
 # Offhand Attack
@@ -307,7 +307,7 @@ If you cast a spell with a [[#Bonus Action]] casting time, you cannot cast anoth
 # Move
 Characters can move up to their total speed in one round. That movement can be interspersed with other actions as long as the total movement is no more than their movement speed.
 
-# Minor Action
+# Minor Act
 Minor actions are saying a few words, interacting with an object, drawing a weapon, dropping an item in your hand, hand off an item to another willing creature, or other simple activity that doesn't require attention while distracted by combat.
 
 # Response
