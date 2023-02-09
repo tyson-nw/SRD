@@ -1977,7 +1977,7 @@ Control the weather within the area. As an [[#Act]] the caster can call down a l
 
 ### Counterspell
 - **Tier 3** - [[#Wizard]]
-* **Casting Time** [[#Response]]
+- **Casting Time** [[#Response]]
 - **Target** - 60ft [[#Range]]
 Make a [[#Spellcasting Roll]] against the target spell’s [[#Target Number]] and if it succeeds the original spell does not manifest.
 
@@ -2391,13 +2391,6 @@ Move an area of earth that fits within the target area, excavating, building up,
 - **Target** 10ft [[#Circle]], 60ft [[#Range]], [[#Body]]
 A beam shines down dealing 3d6 damage. Half as much on a successful defense. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st.
 
-### Message
-- **Cantrip** - [[#Wizard]]
-- **Casting Time** - [[#Swift Act]]
-- **Target**  120ft [[#Range]]
-- **Duration** 1 round
-Whisper a message to a creature within [[#Range]]. They can reply to the caster with a whisper of their own. The targets increase by one for every [[#Tier]] the caster is beyond 1st.
-
 ### Paired Portals
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
@@ -2571,7 +2564,7 @@ Speak with plants as if they have an Aptitude of -1 and are [[#Charmed]] by the 
 ### Speak with Dead
 - **Tier 2** - [[#God-Touched]]
 - **Casting Time** -  [[#Ritual]]
-* **Target** - a corpse
+- **Target** - a corpse
 - **Duration** - 1 minute, [[#Concentration]]
 Reanimate a corpse to ask questions that the corpse would know the answer to before their death. The corpse will not lie and answer to the best of its ability.
 
@@ -2596,7 +2589,7 @@ Target takes 1d6 damage. If they are already wounded the target takes 1d10 inste
 As a [[#Swift Act]] the caster teleport into an empty space the caster can see. If cast as a [[#Ritual]] increase the duration to 1 day.
 
 ### Stone Shield
-* **Tier 3** - [[#Wizard]]
+- **Tier 3** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
 - **Duration** - 1 minute
