@@ -1,38 +1,37 @@
+### Barbarian
 Barbarians channel their primal rage into strength of arms. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Focus]], [[#Weapon]], and one additional [[#Skills|Skill]]. Barbarians have a base [[#HP]] of 12. They begin with a [[#Martial]] weapon and two [[#Thrown]] weapons.
 
-# Tier 1
+#### Tier 1
 
-## Rage
-Barbarians can fly into a rage with [[#Bonus Action]] by making an Easy (Target Number 6) [[#Will]]+[[#Focus]] roll. At the beginning of each subsequent round the barbarian rolls again to continue the Rage, increasing the [[#Target Number]] by two. (If they took damage last round they have advantage on the roll). The Rage lasts until they fail their roll, they do not roll against an enemy's defense by the end of their turn, or decide to end their rage. While in a Rage the Barbarian adds their [[#Will]] to damage, has [[#Damage Resistance]], automatically succeeds on Massive Damage]] rolls, and does not go [[#Unconscious]] when reduced to 0 [[#HP]] but are [[#Dying]].
+##### Rage
+Barbarians can fly into a rage with [[#Swift Act]] by making an Easy ([[#Target Number]] 6) [[#Will]]+[[#Focus]] roll. If they took damage last round they have an Edge on the roll. When they rage, increase their [[#Burn]] by one. While in a Rage the Barbarian adds their [[#Will]] to damage, has [[#Damage Resistance]], automatically succeeds on [[#Massive Damage]] rolls, and does not go [[#Unconscious]] when reduced to 0 [[#HP]] but are [[#Dying]].  The Rage lasts until they do not roll against an enemy by the end of their turn or  they decide to end it.
 
-## Fearsome
-Barbarians can [[#Intimidate]] someone within 30ft [[#Range]] to make them [[#Frightened]] and [[#Expose]] them until the end of their next turn with a [[#Strength]]+[[#Social]] roll versus [[#Mind]] defense as a [[#Bonus Action]].
+##### Fearsome
+With a [[#Swift Act]] can [[#Intimidate]] someone within 30ft [[#Range]] with a [[#Strength]]+[[#Social]] roll verses the target's [[#Mind]] defense to make them [[#Frightened]] until the end of their next turn.
 
-# Tier 2
+#### Tier 2
 
-## Extra Attack
+##### Extra Attack
+The barbarian can make two attacks with a single [[#Act]].
 
-The barbarian can make two attacks with a single Act. At Tier 4, the barbarian can make three attacks with an Act.
+##### Brutal Followup
+Attacks that [[#Exploit]] a foe deal an additional weapon die of damage.
 
-## Brutal Followup
-When attacking an [[#exposed]] opponent, the barbarian's weapon deals an additional die of damage.
+#### Tier 3
 
-# Tier 3
+##### Primal Insight
+The barbarian has [[#Edge]] on [[#React]] rolls when not [[#Blinded]], [[#Deafened]], or [[#Unconscious]].  Their speed increases by 2 spaces.
 
-## Primal Insight
+##### Savage Blows
+Weapon attacks that hit their target [[#Expose]] the target.
 
-The barbarian has [[#Advantage]] on [[#React]] rolls when not  [[#Blinded]], [[#Deafened]], or [[#Unconscious]].  Their speed increases by +10ft.
+#### Tier 4
 
-## Savage Blows
-
-When attacking an [[#exposed]] opponent, the barbarian's weapon deal an additional die of damage.
-
-# Tier 4
-
-## Brutal Fortification
-
+##### Brutal Fortification
 The barbarian adds their [[#Will]] to their [[#Soak]];
 
-## Savage Blows
+##### Extra Attack
+The barbarian can make three attacks with a single [[#Act]].
 
-When the barbarian rolls an [[#Critical Success]] on an attack roll they deal two additional die of damage.
+##### Savage Blows
+When the barbarian rolls an [[#Critical Success]] on an attack roll they deal an additional two rolled die of damage.
