@@ -52,7 +52,7 @@ The [[#Target Number]] is what the player needs to roll for success. Here are so
 | Difficult | 10 |
 | Hard | 14 |
 | Improbable | 20 |
-|Impossible|26|
+| Impossible|26|
 
 ### 1's and 12's
 Rolling a 1 on the [[#d12]] is an always a fail. Rolling a 1 on a [[#Defenses|Defense]] is a [[#Critical Failure]], unless the roll would hit the target number, then it is just a Failure.
