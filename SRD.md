@@ -1744,7 +1744,7 @@ Target object becomes an Animated Object of similar size that the caster can com
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
-- **Duration** 8 hours
+- **Duration** - 8 hours
 The caster's [[#Deflect]] becomes 4 and add +2 to the caster's [[#Soak]]. This armor does not impose [[#Hindrance]] on [[#Enigma]] rolls. When cast at a higher Tier, add a +1 to [[#Deflect]] and +1 to [[#Soak]] for every Tier it is cast at beyond 1st. 
 
 ### Arcane Bolt
@@ -1799,13 +1799,13 @@ Target plant becomes a creature gaining the Stats and Abilities of a Tier 2 [[#P
 - **Casting Time** - [[#Act]], [[#Ritual]]
 - **Target** - 30ft [[#Range]], [[#Body]]
 - **Duration** - 1 hour
-Target becomes a - **Tier 1** beast of the caster’s choice gaining all of the stats of that creature. If the creature‘s Current [[#HP]] is reduced to 0 the spell ends. If cast as a [[#Ritual]] the spell lasts a day.
+Target becomes a Tier 1 beast of the caster’s choice gaining all of the stats of that creature. If the creature‘s Current [[#HP]] is reduced to 0 the spell ends. If cast as a [[#Ritual]] the spell lasts a day.
 
 ### Bane
 - **Tier 1** - [[#God-Touched]]
 - **Casting Time** - [[#Act]]
 - **Target** - 30ft [[#Range]], [[#Mind]]
-- **Duration** 1 minute, [[#Concentration]]
+- **Duration** - 1 minute, [[#Concentration]]
 Attackers have [[#Edge]] against all the target's defenses, and [[#Edge]] on defenses against attacks from target.
 
 ### Binding Circle
@@ -1818,8 +1818,8 @@ Creatures within the binding [[#Circle]] cannot leave the [[#Circle]] in any way
 ### Blessing
 - **Tier 1** - [[#God-Touched]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** 30ft [[#Range]]
-- **Duration** 1 hour
+- **Target** - 30ft [[#Range]]
+- **Duration** - 1 hour
 Creature gains a 1d4 to all d12 rolls. When cast at a higher Tier, target an additional creature for every Tier beyond 1st.
 
 ### Blinding Strike
@@ -1840,27 +1840,27 @@ When the spell is cast the caster blinks out of existence at the end of their tu
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
 - **Target** - [[#Touch]]
-- **Duration** 1 hour
+- **Duration** - 1 hour
 Gain an [[#Edge]] on [[#Deflect]] rolls. When cast at a higher Tier, add an additional target for every Tier beyond 1st.
 
 ### Bolster
 - **Tier 1** - [[#Dedicant]], [[#God-Touched]]
 - **Casting Time** - [[#Act]]
-- **Target** 30ft [[#Range]]
+- **Target** - 30ft [[#Range]]
 Grant the target 1d8+[[#Spellcasting Modifier]] [[#Temporary HP]]. Ends the [[#Bleeding]] condition. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
 
 ### Bond of Ward
 - **Tier 1** - [[#Dedicant]], [[#God-Touched]]
 - **Casting Time** - [[#Response]], [[#Ritual]]
-- **Target** 30ft [[#Range]]
-- **Duration** 1 hour
+- **Target** - 30ft [[#Range]]
+- **Duration** - 1 hour
 Target creature gains [[#Edge]] on defenses and [[#Damage Resistance]]. When the target takes damage the caster takes the same amount of damage. When cast at a higher Tier, add an additional creature for every Tier it is cast at beyond 1st.
 
 ### Bonfire
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 5ft [[#Sphere]], 30ft [[#Range]], [[#React]]
-- **Duration** 1 minute
+- **Target** - 5ft [[#Sphere]], 30ft [[#Range]], [[#React]]
+- **Duration** - 1 minute
 Creatures within the bonfire or that move through it that fail their [[#React]] take 1d6 damage. As a [[#Swift Act]] the caster can move the bonfire 30ft. Increase the die for every [[#Tier]] the caster is beyond 1st.
 
 ### Brand Foe
@@ -1903,9 +1903,9 @@ Lighting leaps at target dealing 6d6. The lighting continues to a creature withi
 
 ### Charming
 - **Tier 1** - [[#Wizard]]
-- **Casting time** - [[#Act]]
+- **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
-- **Duration** 1 minute
+- **Duration** - 1 minute
 Gain an [[#Edge]] on all [[#Social]] rolls. On a successful roll the target is [[#Charmed]] by the caster.
 
 ### Chaos Orb
@@ -1918,7 +1918,7 @@ Deal 3d10 to the target. When cast at a higher Tier, add an additional 2d10 for 
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
 - **Target** - [[#Touch]]
-- **Duration** 1 hour, [[#Concentration]]
+- **Duration** - 1 hour, [[#Concentration]]
 Target is made small or large sized, their gear changes size along with them. When cast at a higher Tier, target an additional creature for every Tier beyond 1st.
 
 ### Command
@@ -1958,7 +1958,7 @@ Conjure a Tier 1 [[#Elemental]] that follows the caster's commands. When cast at
 - **Cantrip** - [[#Druid]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
-- **Duration** 1 minute
+- **Duration** - 1 minute
 A torch sized flame appears in the casters hand that can be used it to light fires. As a [[#Swift Act]] the caster can fling a flame up to 30ft by rolling [[#Spellcasting Roll]] against the target's [[#Deflect]] that deals 1d6 damage. Flinging the flame does not end the spell. Increase the die for every [[#Tier]] the caster is beyond 1st.
 
 ### Conjure Steed
@@ -1977,7 +1977,7 @@ Control the weather within the area. As an [[#Act]] the caster can call down a l
 
 ### Counterspell
 - **Tier 3** - [[#Wizard]]
-- **Casting Time** [[#Response]]
+- **Casting Time** - [[#Response]]
 - **Target** - 60ft [[#Range]]
 Make a [[#Spellcasting Roll]] against the target spell’s [[#Target Number]] and if it succeeds the original spell does not manifest.
 
@@ -1991,13 +1991,12 @@ Deal 1d10 damage to the target. Increase the die for every [[#Tier]] the caster 
 - **Tier 1** -  [[#Dedicant]], [[#Druid]], [[#God-Touched]]
 - **Casting Time** 1 minute, [[#Ritual]]
 - **Target** - [[#Touch]]
-- **Duration** Instant
 Heal the 1d8+[[#Spellcasting Bonus]] worth of [[#HP]]. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
 
 ### Dancing Light
 - **Cantrip** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 120ft [[#Range]]
+- **Target** - 120ft [[#Range]]
 Summon a torch sized light within [[#Range]] that hover in the air for the duration. The caster can move the light up to 60ft within the [[#Range]] as a [[#Swift Act]]. Conjure an additional light by one for every [[#Tier]] the caster is beyond 1st.
 
 ### Darkness
@@ -2017,33 +2016,33 @@ The caster glows with true daylight. Allies have an [[#Edge]] on all rolls again
 ### Detect Magic
 - **Cantrip** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** [[#Self]]
-- **Duration** 1 minute
+- **Target** - [[#Self]]
+- **Duration** - 1 minute
 See magical [[#Aura]]'s of ongoing spells, know what spell is being cast by a creature, or the remnants of spells that were cast within 1 hour for every Tier the caster is.
 
 ### Discorperate
 - **Tier 3** - [[#Wizard]]
 - **Casting Time** - [[#React]]
 - **Target** - [[#Self]]
-- **Duration** - 1 minute [[#Concentration]]
+- **Duration** - 1 minute, [[#Concentration]]
 The caster become intangible and fades from vision, is considered under cover, and gains a 30ft hover speed. The caster can pass though solid objects and cannot be harmed by non-magical weapons. When cast at a higher Tier, increase the duration by 1 hour for every Tier beyond 3rd. If cast as a [[#Ritual]] the target becomes [[#Touch]].
 
 ### Disintegrate
 - **Tier 3** - [[#Wizard]]
-- **Casting Time**[[#Act]]
-- **Target** - 60ft [[#Range]] [[#React]]
+- **Casting Time** - [[#Act]]
+- **Target** - 60ft [[#Range]], [[#React]]
 The target’s [[#Body]] is destroyed. On a successful [[#Defense]] the target takes 10d6 damage. When cast at a higher Tier, the spell deals an additional 5d6 damage for every Tier beyond 3rd.
 
 ### Divine Armament
 - **Tier 1** - [[#God-Touched]]
 - **Casting Time** - [[#Act]]
-- **Target** 60ft [[#Range]], [[#Deflect]]
-- **Duration** 1 minute
+- **Target** - 60ft [[#Range]], [[#Deflect]]
+- **Duration** - 1 minute
 Conjure flying weapon that deals 1d6 damage that can be directed to move up to 60 feet and attack as a [[#Swift Act]]. When cast at a higher Tier, add an additional 1d6 for each tier beyond 1st.
 
 ### Divine Flame
 - **Tier 1** - [[#Dedicant]], [[#God-Touched]]
-- **Casting Time**  [[#Act]]
+- **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
 - **Duration** 1 minute, [[#Concentration]]
 The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Ranged]] attack to throw fire 60ft dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
@@ -2099,7 +2098,7 @@ Target takes no fall damage. When cast at a higher Tier, the spell can target an
 ### Fireball
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 15ft [[#Sphere]], 120ft [[#Range]], [[#React]]
+- **Target** - 15ft [[#Sphere]], 120ft [[#Range]], [[#React]]
 Deal 3d6 damage to creatures within the target area. If the [[#Spellcasting Roll]] fails to overcome the defense of the target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for every Tier beyond 1st.
 
 ### Firestorm
@@ -2207,14 +2206,14 @@ Enchant [[#Will]]+[[#Enigma]] berries. Each berry heals 1 [[#HP]] and provides n
 ### Gust of Wind
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 30ft [[#Cone]], [[#Body]]
+- **Target** - 30ft [[#Cone]], [[#Body]]
 Targets that fail their defense are knocked prone. Gasses, mists, and toxic air is dispersed or pushed.
 
 ### Grease
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 15ft [[#Sphere]], 120ft, [[#React]]
-- **Duration** 1 minute
+- **Target** - 15ft [[#Sphere]], 120ft, [[#React]]
+- **Duration** - 1 minute
 Targets within the area are covered in grease, those that fail their defense fall prone. The area becomes Difficult Terrain. The grease is flammable, deals 1d6 damage to all creatures within area and ends the spell. When cast at a higher Tier, the damage from igniting the grease increases by 1d6 for every Tier beyond 1st.
 
 ### Grow Defender
@@ -2253,7 +2252,7 @@ Target is grappled. When cast at a higher Tier, target and additional creature f
 ### Hypnotic Pattern
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 15ft [[#Sphere]], 60ft [[#Range]], [[#Mind]]
+- **Target** - 15ft [[#Sphere]], 60ft [[#Range]], [[#Mind]]
 Targets are incapacitated and charmed by the caster. If the target takes damage the target is released from the spell. When cast at a higher Tier, increase the radius of the spell by 5ft for every Tier over 2nd.
 
 ### Illusory Image
@@ -2289,11 +2288,11 @@ The target becomes [[#Invisible]] to sight until they roll against a creature. W
 - **Casting Time** - [[#React]]
 - **Target** - 60ft [[#Range]], 10ft [[#Sphere]]
 - **Duration** - 1 minute, [[#Concentration]]
-The area is encased in a translucent impenetrable wall of force with a 30ft hover speed that the caster can move as a [[#Swift Action]]. Only the caster can cast spells through the wall. Teleportation and other spells that have an effect beyond the [[#Sphere]] do not succeed. The [[#Disintegration]] spell destroys the sphere and leaves the contents unharmed. When cast at a higher Tier, the duration increases by 1 day for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes Permanent.
+The area is encased in a translucent impenetrable wall of force with a 30ft hover speed that the caster can move as a [[#Swift Action]]. Only the caster has [[#Line of Effect]] through the sphere. Teleportation and other spells cast from within the sphere that have an effect beyond the [[#Sphere]] do not succeed. The [[#Disintegration]] spell destroys the sphere and leaves the contents unharmed. When cast at a higher Tier, the duration increases by 1 day for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes Permanent.
 
 ### Jump
 - **Tier 1** - [[#Wizard]]
-- **Casting Time**
+- **Casting Time** - [[#Act]]
 - **Target** - [[#Touch]]
 - **Duration** - 1 minute
 Target can jump their movement speed in any direction as their move. It has to be taken in one movement. When cast at a higher Tier, add an additional creature for every Tier beyond 1st.
@@ -2315,27 +2314,27 @@ The target item sheds light as if it were a torch. Enchant an additional item fo
 ### Lightning Bolt
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 60ft [[#Line]], [[#React]]
+- **Target** - 60ft [[#Line]], [[#React]]
 Deal 3d6 damage to creatures within target area.  If the [[#Spellcasting Roll]] fails to overcome the defense of their target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for each Tier beyond 1st.
 
 ### Locate Object
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Ritual]]
-- **Target** 10 miles
+- **Target** - 10 miles
 Learn the direction to an object, the distance to an object, and a snapshot of the area around the object from its perspective. If the caster has had the object in their possession, it is a Simple roll, if they have seen the object it is an Easy roll, if they have seen a drawing it is a Hard roll, and if they have only heard a description it is a Desperate roll. When cast at a higher Tier, multiply the Target by 10 for each Tier beyond 1st.
 
 ### Mage Hand
 - **Cantrip** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 30ft [[#Range]]
-- **Duration** 1 minute
+- **Target** - 30ft [[#Range]]
+- **Duration** - 1 minute
 Manifests a translucent hand can lift or manipulate an item less than 5lbs within [[#Range]]. The weight it can manipulate increases by 5lbs for every [[#Tier]] the caster is beyond 1st.
 
 ### Mage Grounding
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 30ft [[#Range]], [[#Body]]
-- **Duration** 1 minute, [[#Concentration]]
+- **Target** - 30ft [[#Range]], [[#Body]]
+- **Duration** - 1 minute, [[#Concentration]]
 Target takes 2d8 damage. During each of the caster turns they can continue the spell with a [[#Swift Act]]. Subsequent rounds automatically hit. On the target's next round they must make a [[#Concentration]] roll against the damage taken to cast any spell. When cast at a higher Tier, add an additional 1d8 for each Tier beyond 1st.
 
 ### Magnificent Cart
@@ -2382,13 +2381,13 @@ With a [[#Swift Act]] the caster calls down meteors that target each enemy withi
 ### Mold Earth
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 5ft [[#Cube]], 60ft [[#Range]]
+- **Target** - 5ft [[#Cube]], 60ft [[#Range]]
 Move an area of earth that fits within the target area, excavating, building up, and shaping it. The area targeted increases by another 5ft [[#Cube]] for every [[#Tier]] the caster is beyond 1st.
 
 ### Moonbeam
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** 10ft [[#Circle]], 60ft [[#Range]], [[#Body]]
+- **Target** - 10ft [[#Circle]], 60ft [[#Range]], [[#Body]]
 A beam shines down dealing 3d6 damage. Half as much on a successful defense. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st.
 
 ### Paired Portals
@@ -2429,7 +2428,7 @@ Transform into a Tier 1 living [[#Beast]], [[#Humanoid]], [[#Monstrosity]], or [
 - **Tier 2** - [[#God-Touched]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Aura]] 15ft
-- **Duration** - 1 round [[#Concentration]]
+- **Duration** - 1 round, [[#Concentration]]
 Allies are granted [[#Edge]] on all rolls. When cast at a higher Tier,  add an additional round of duration for each Tier beyond 2nd.
 
 ### Primal Strike
@@ -2471,13 +2470,13 @@ Allies within the area gain +2 to their soak. When cast at a higher Tier, target
 ### Resurrect
 - **Tier 3** - [[#God-Touched]]
 - **Casting Time** - [[#Ritual]]
-- **Target** - a corpse
+- **Target** - [[#Touch]]
 Target is returned to life and their [[#Maximum HP]] is set to 1, all stats are reduced by 3, and no other conditions are healed or lost organs restored. Every day their [[#Maximum HP]] increases by 1 until it is fully restored. Each day one stat is restored by one point. Consumes a resurrection vessel that costs 500,000 coin to create.
 
 ### Revivify
 - **Tier 2** - [[#God-Touched]], [[#Druid]], [[#Dedicant]]
 - **Casting Time** - [[#Act]]
-- **Target** - a corpse
+- **Target** - [[#Touch]]
 Target who has died within 1 minute is restored to life and has 1 [[#HP]]. Consumes a diamond that costs 5,000 coin.
 
 ### Sanctified Barrier
@@ -2530,7 +2529,7 @@ Move up to 5 spaces of stone into a shape of the caster's choosing, either by tu
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Response]]
 - **Target** - [[#Self]]
-- **Duration** 1 round
+- **Duration** - 1 round
 Gain an [[#Edge]] on [[#Deflect]] and [[#React]] defenses.
 
 ### Shield of Faith
@@ -2564,14 +2563,14 @@ Speak with plants as if they have an Aptitude of -1 and are [[#Charmed]] by the 
 ### Speak with Dead
 - **Tier 2** - [[#God-Touched]]
 - **Casting Time** -  [[#Ritual]]
-- **Target** - a corpse
+- **Target** - [[#Touch]]
 - **Duration** - 1 minute, [[#Concentration]]
 Reanimate a corpse to ask questions that the corpse would know the answer to before their death. The corpse will not lie and answer to the best of its ability.
 
 ### Spike Field
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 10ft [[#Circle]], 60ft
+- **Target** - 10ft [[#Circle]], 60ft [[#Range]]
 - **Duration** - 1 minute, [[#Concentration]]
 Area becomes hazardous terrain that deals 1d6 damage. When cast at a higher Tier, add an additional die for each tier beyond 1st.
 
@@ -2631,7 +2630,7 @@ Create a unique teleportation circle that makes teleportation to the circle easi
 ### Thunderblast
 - **Tier 1** - [[#Druid]], [[#Dedicant]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 15ft [[#Cone]], [[#Body]]
+- **Target** - 15ft [[#Cone]], [[#Body]]
 Targets take 1d10 damage, are pushed 10ft, and knocked prone. If the [[#Spellcasting Roll]] fails to overcome the defense of the targets, the targets only take half damage. Add an additional die for each tier beyond 1st it is cast at.
 
 ### Thunderstrike
@@ -2676,7 +2675,7 @@ Meld into the ground an step out of a tree or other medium or larger sized plant
 ### Tremor
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Swift Act]]
-- **Target** 10ft [[#Circle]], 120ft [[#Range]], [[#Body]]
+- **Target** - 10ft [[#Circle]], 120ft [[#Range]], [[#Body]]
 Targets fall prone and take 1d6 damage. When cast at a higher Tier, add an additional 1d6 for each tier beyond 1st.
 
 ### True Polymorph
@@ -2689,14 +2688,14 @@ Caster can transform into a Tier 3 or lower creature gaining their Strength, For
 ### True Resurrection
 - **Tier 4** - [[#God-Touched]]
 - **Casting Time** - [[#Ritual]]
-- **Target** - 1 corpse
+- **Target** - [[#Touch]]
 Restore creature to life at full [[#HP]] with no conditions. Requires a piece of the creature’s corpse. Consumes a resurrection vessel that costs 500,000 coin to create.
 
 ### Truesight
 - **Tier 2** - [[#God-Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
-- **Duration** 1 minute
+- **Duration** - 1 minute
 Reveal invisible creatures and see illusions for what they truly are. If cast as a [[#Ritual]] increase the Duration to 1 hour.
 
 ### Unerring Bolt
@@ -2722,7 +2721,7 @@ Targets are [[#Restrained]]. When the spell is cast, and at the beginning each o
 - **Tier 3** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
 - **Target** - 30ft [[#Range]], Wall, [[#React]]
-- **Duration** 1 minute, [[#Concentration]]
+- **Duration** - 1 minute, [[#Concentration]]
 The wall acts as cover. Creatures within the wall when it manifests take 6d6 damage. Moving through the wall deals 6d6 damage. When casting at a higher Tier, the spell does an additional 4d6 damage for every Tier above 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
 
 ### Wall of Force
@@ -2749,13 +2748,13 @@ A whirlwind manifests around the caster providing full cover. Creatures within t
 ### Whisper of Life
 - **Cantrip** - [[#God-Touched]]
 - **Casting Time** - [[#Act]]
-- **Target** 60ft [[#Range]]
+- **Target** - 60ft [[#Range]]
 Target dying creature stabilizes and reset's death saves. Target another creature for every tier the caster is beyond 1st.
 
 ### Winter's Blast
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** 20ft [[#Cone]], [[#Body]]
+- **Target** - 20ft [[#Cone]], [[#Body]]
 Deal 3d6 to creatures within the target area. If they fail on overcoming the defense of their target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st at.
 
 
