@@ -168,7 +168,7 @@ Lighting leaps at target dealing 6d6. The lighting continues to a creature withi
 
 # Charming
 - **Tier 1** - [[#Wizard]]
-- **Casting time** - [[#Act]]
+- **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
 - **Duration** 1 minute
 Gain an [[#Edge]] on all [[#Social]] rolls. On a successful roll the target is [[#Charmed]] by the caster.
