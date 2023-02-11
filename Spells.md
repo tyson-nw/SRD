@@ -309,7 +309,7 @@ Conjure flying weapon that deals 1d6 damage that can be directed to move up to 6
 - **Tier 1** - [[#Dedicant]], [[#God-Touched]]
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Self]]
-- **Duration** 1 minute, [[#Concentration]]
+- **Duration** - 1 minute, [[#Concentration]]
 The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Ranged]] attack to throw fire 60ft dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
 
 # Divine Interpose
