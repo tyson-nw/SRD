@@ -671,6 +671,7 @@ Weapons are items that are used to make weapon attacks. Unless otherwise specifi
 | Whip | 1d4 | [[#Bladed]], [[#Reach]], [[#Disarming]] | 50 |
 
 ###  Tags
+Tags are aspects of the weapon that detail its use, grant [[#Features]], or otherwise effect how they are used.
 #### Ammunition
 Weapon uses ammunition that is tracked separately and may replace the damage dealt by the weapon. Ammunition breaks on misses and cannot be recovered.
 
@@ -3108,11 +3109,11 @@ Enchanted Items are treasure that add [[#Features]] to a creature that wields, w
 ## Designing an Item
 Enchanted Items shouldn't give bonuses to [[#Stats]], but grant the character new [[#Features]] or increase the damage they can do with their existing actions.
 
-### Tier
+### Item Tier
 Items have an advised tier to be distributed. These are not requirements, characters can use an item of any tier.
 
-### Ammunition
-Magical ammunition breaks and cannot be recovered when expended. Thrown weapons can be enchanted as ammunition and will not break on misses.
+### Enchanted Ammunition
+Enchanted Ammunition breaks and cannot be recovered when expended. Thrown weapons can be enchanted as ammunition and will not break on misses.
 
 ### Attuned
 Some items require a character to attune to them, the character can only have one attuned item for every Tier of the character.
@@ -3608,6 +3609,40 @@ Huge creatures occupy a 4 spaces square and [[#Threatened Space|Threaten]] creat
 
 ### Creature Type
 Each monster falls into a category. Certain spells, abilities, knowledge checks, and other things have specific effects depending on the Creature Type.
+
+#### Beast
+Creatures of the natural world are beasts.
+
+#### Construct
+Creature that have been built and animates through arcane means.
+
+#### Elemental
+Creatures made of energies from the elemental planes.
+
+#### Dragon
+Great creatures with a draconic lineage.
+
+#### Giant
+Creatures that tow over lesser beings.
+
+#### Goblinoid
+Creatures with a goblin lineage.
+
+#### Humanoid
+Creatures that have the humanesqe form that are small or medium sized.
+
+#### Monstrosity
+Creatures that have been created by magic or beasts twisted into a monstrous form.
+
+#### Outsider
+Creatures native to a plane other than the Material Plane. They are aligned with one of the cosmic forces of Law or Chaos.
+
+#### Plant
+Creatures that are plants, fungus, or derived from plants or fungus.
+
+#### Undead
+Creatures that have been reanimated by negative energy. 
+
 
 ### Challenge
 The challenge rating is a score of relative difficulty of the creature. It is a determined by a combination of Defenses, [[#HP]], and Attacks per round.
