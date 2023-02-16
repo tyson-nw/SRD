@@ -1,3 +1,6 @@
+## Background
+What did your character do before they became an adventurer?  This also can be used as an expertise when it could apply to the roll. Backgrounds are also broad [[#Expertise|Expertises]] that encompass many aspects of coming from that Background. Some backgrounds may also grant specific an [[#Expertise]].
+
 #### Acolyte
 Acolytes have studied under a series of teachers within a field of study. They gain the [[#Arcana]], [[#History]], or [[#Religion]] [[#Expertise]]. Their pack includes:
 
@@ -128,7 +131,7 @@ Sages are trained to discover secret knowledge. Their pack includes:
 * 15 Coin
 
 #### Sailor
-Sailors are trained in the knot work, sail tending, and other tasks required to sail. Their pack includes:
+Sailors are trained in knot work, sail tending, and other tasks required to sail. Their pack includes:
 * Bedroll
 * Clothing, Common
 * Mess kit

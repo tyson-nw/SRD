@@ -21,14 +21,14 @@ As a [[#Response]] to an area effect targeting a Rogue, they can move half their
 As a Response, a Rogue can replace a failed [[#React]] or [[#Deflect]] roll with a [[#Wits]]+[[#Athletics]] roll.
 
 ## Skill Mastery
-Rogues automatically succeed on rolls with a Difficult or lower target number.
+Rogues automatically succeed on [[#Skill]] rolls with a [[#Moderate]] or lower [[#Target Number]].
 
 ## Sneak Attack
 Attacks that [[#Exploit]] a foe deal an additional 6d6 damage.
 
 # Tier 4
 ## Elusive
-At Tier 4, as long as a Rogue are not [[#Unconscious]] they cannot have a [[#Hindrance]] on a [[#Defenses|Defense]] roll, nor can they be [[#Expose|Exposed]].
+As long as a Rogue are not [[#Unconscious]] they cannot have a [[#Hindrance]] on a [[#Defenses|Defense]] roll, nor can they be [[#Expose|Exposed]].
 
 ## Sneak Attack
 Attacks that [[#Exploit]] a foe deal an additional 8d6 damage.

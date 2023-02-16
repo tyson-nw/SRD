@@ -1,4 +1,4 @@
-Wizards are masters of the arcane. Their favored stats are [[#Aptitude]] and [[#Will]]. They are proficient in [[#Arcane]] [[#Enigmas]], [[#Focus]], [[#Knowledge]], and one additional skill. Wizards have a base [[#HP]] of 6. Wizards begin with a weapon with the [[#Simple]] tag, and an arcane focus or spell component pouch.
+Wizards are masters of the arcane. Their favored stats are [[#Aptitude]] and [[#Will]]. They are proficient in [[#Arcane]] [[#Enigmas]], [[#Focus]], [[#Knowledge]], and one additional skill. Wizards have a base [[#HP]] of 6. Wizards begin with a weapon with the [[#Simple]] [[#Tags|Tag]], and an arcane focus or spell component pouch.
 
 # Tier 1
 ## Arcane Initiate
@@ -8,7 +8,7 @@ Wizards channel the arcane energies that flow through the world. They [[#Spellca
 The wizard can cast any spell from their spellbook as a [[#Ritual]].
 
 ## Spellbook
-The Wizard records all the spells they know in their spellbook.  They start with two [[#Cantrips]] and as many Tier 1 spells as their [[#Aptitude]]. They can scribe a new spell from a scroll or other spellbook into their spellbook with an [[#Aptitude]]+[[#Enigma]] roll. Scribing takes one hour per [[#Spell Tier]]. The spell takes up two pages per [[#Spell Tier]] of the spell in the spellbook. And if you fail the roll, that many pages of the spellbook are ruined.
+The Wizard records all the spells they know in their Spellbook.  They start with two [[#Cantrips]] and as many Tier 1 spells as their [[#Aptitude]]. They can scribe a new spell from a scroll or other Spellbook into their Spellbook with an [[#Aptitude]]+[[#Enigma]] roll. Scribing takes one hour per [[#Spell Tier]]. The spell takes up two pages per [[#Spell Tier]] of the spell in the Spellbook. If you fail the roll, the pages the spell would have taken up are ruined. If you are copying from a Spellbook you wrote the spell in, you have an [[#Edge]] to copy it.
 
 | [[#Spell Tier]] | [[#Target Number]] |
 |:--:|:--:|
@@ -16,6 +16,7 @@ The Wizard records all the spells they know in their spellbook.  They start with
 | 2 | 10 |
 |3| 12|
 |4|14|
+
 
 
 # Tier 2
@@ -47,4 +48,4 @@ Wizards channel the arcane energies that flow through the world. They [[#Spellca
 Choose a Tier 2 spell that can now be cast as a [[#Cantrip]] at its lowest level.
 
 ## Developing Spells
-The Wizard's personal study has revealed 4 new spells they can scribe to their spellbook without a chance of failure.
+The Wizard's personal study has revealed 4 new spells they can scribe to their Spellbook without a chance of failure.

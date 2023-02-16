@@ -1,3 +1,5 @@
+## Monsters List
+
 ### Ambushtite
 [[#Small]] [[#Monstrosity]], Tier 1, [[#Challenge]] 3
 
@@ -12,19 +14,19 @@
 - **Skills** - [[#Stealth]], [[#Athletics]] 
 - **Abilities**
 	- ***False Appearance*** 
-	- **Echolocation*** Can sense creatures within 60ft without sight by hearing them.
+	- **Echolocation*** Can sense creatures within12 spaces without sight by hearing them.
 	- ***False Appearance*** While motionless it is indistinguishable from a cave formation. 
 - **Acts**
 	- ***Crush*** 8 [[#Deflect]], 5 damage. The target is [[#Grappled]] and if [[#Medium]] or smaller is [[#Blinded]]. The grapple can be broken with a 10 [[#Strength]]+[[#Athletics]] [[#Act]]. Grappled creatures are [[#Suffocating]].
 - ***Swift Act***
-	- **Darkness** 15ft [[#Aura]], [[#Concentration]], The area is filled with magical darkness blocking all light sources within it, including those from magical sources. It can do this once before a long rest.
+	- **Darkness**3 space [[#Aura]], [[#Concentration]], The area is filled with magical darkness blocking all light sources within it, including those from magical sources. It can do this once before a long rest.
 
 ### Bandit
 [[#Medium]] [[#Humanoid]] (any [[#Ancestry]]), Tier 1, [[#Challenge]] 1
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+0|+1|+1|+0|-1|-1|
+|+0|+1|+1|+0|- 1|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -32,7 +34,7 @@
 
 - **Acts**
 	- **_Shortsword_** 8 [[#Deflect]], 3 damage.
-	- ***Light Crossbow*** 7 [[#Deflect]], Ranged 60ft, 4 damage.
+	- ***Light Crossbow*** 7 [[#Deflect]], Ranged12 spaces, 4 damage.
 
 ### Bandit Captain
 [[#Medium]] [[#Humanoid]] (any [[#Ancestry]]), Tier 1, [[#Challenge]] 5
@@ -49,15 +51,15 @@
 - **Abilities**
 	- ***Silver Tongue*** - [[#Expertise]] in deceiving and leading people.
 - **Acts**
-	- ***Dagger*** 10 [[#Deflect]], [[#Thrown]] 20ft, 5 damage
+	- ***Dagger*** 10 [[#Deflect]], [[#Thrown]]4 spaces, 5 damage
 	- ***Scimitar*** 10 [[#Deflect]], 6 damage
 - **Swift Act**
-	- ***Dagger*** 10 [[#Deflect]], [[#Thrown]] 20ft, 5 damage
+	- ***Dagger*** 10 [[#Deflect]], [[#Thrown]]4 spaces, 5 damage
 - **Responses** 1
-	- ***Parry*** When an adjacent attacker the captain can see hits with a melee attack, they must re-roll the attack against 15 [[#Deflect]].
+	- ***Parry*** When an adjacent attacker the captain can see hits with a melee attack, they must make a 10 [[#Deflect]] defense or take 6 damage and have their attack canceled.
 - ***Lair Act***
 	- ***To Arms*** Another [[#Bandit]] is arrives on the battlefield as long as there are allies of the captain alive.
-	- ***Get Them*** A [[#Bandit]] within 30ft of the captain can move half their speed and [[#Act]].
+	- ***Get Them*** A [[#Bandit]] within6 spaces of the captain can move half their speed and [[#Act]].
 
 ### Bear
 [[#Large]] [[#Beast]], Tier 1, [[#Challenge]] 3
@@ -83,7 +85,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+4|+2|+1|+0|-1|-1|
+|+4|+2|+1|+0|- 1|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -100,7 +102,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+2|+1|+2|+0|-1|-1|
+|+2|+1|+2|+0|- 1|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -112,14 +114,14 @@
 	- ***Unexpected Fury*** The first attack the bugbear does in combat deals an additional 5 damage. 
 - **Acts**
 	- ***Morningstar*** 10 [[#Deflect]], [[#Reach]], 5 damage.
-	- ***Javelin*** 10 [[#Deflect]], [[#Ranged]] 60ft 5 damage.
+	- ***Javelin*** 10 [[#Deflect]], [[#Ranged]] 12 spaces 5 damage.
 
 ### Cultist
 [[#Medium]] [[#Humanoid]] (any [[#Ancestry]]), [[#Challenge]] 1
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+0|+0|+1|+0|+0|-1|
+|+0|+0|+1|+0|+0|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -144,7 +146,7 @@
 - **Skills** - [[#Enigma]]([[#Divine]]) +2
 - **Acts**
 	- ***Mace*** 7 [[#Deflect]], 3 damage.
-	- ***Purifying Flame*** 10 [[#Deflect]], 60ft [[#Range]] 4 damage.
+	- ***Purifying Flame*** 10 [[#Deflect]],12 space [[#Range]] 4 damage.
 	- ***Spellcasting*** 2 slots, [[#Target Number]] 10
 		- **[[#Bolster]]**
 		- **[[#Bane]]** - [[#Concentration]]
@@ -197,15 +199,15 @@
 
 - **Skills** - [[#Senses]], [[#Stealth]]
 - **Abilities**
-	- ***Blindsight*** Can sense creatures within 10ft without sight or sound.
+	- ***Blindsight*** Can sense creatures within 2 spaces without sight or sound.
 	- **Low Light Vision** Can see in low light as if it were bright light.
 	- ***Amphibious*** Can breath air and water.
 - **Acts**
 	- ***Bite*** 10 [[#Deflect]], 5 damage.
-	- ***Acid Breath*** 12 [[#React]], [[#Recharge]] 5-6, 15ft [[#Line]], 10 damage. Half as much on a successful roll.
+	- ***Acid Breath*** 12 [[#React]], [[#Recharge]] 5- 6,3 space [[#Line]], 10 damage. Half as much on a successful roll.
 - **Lair Acts**
-	- ***Grasping Muck*** 10 [[#Body]], 30ft [[#Range]]. Target is [[#Restrained]] until the end of their next round.
-	- ***Noxious Gas*** 10 [[#Body]], 10ft [[#Sphere]], 30ft [[#Range]]. Target is [[#Sickened]] for 1 minute. Target can re-roll the [[#Body]] defense at the end of their turn to end the condition early.
+	- ***Grasping Muck*** 10 [[#Body]],6 space [[#Range]]. Target is [[#Restrained]] until the end of their next round.
+	- ***Noxious Gas*** 10 [[#Body]], 2 space [[#Sphere]],6 space [[#Range]]. Target is [[#Sickened]] for 1 minute. Target can re-roll the [[#Body]] defense at the end of their turn to end the condition early.
 
 ### Dragon, Green wyrmling
 [[#Medium]] [[#Dragon]], Tier 1, [[#Challenge]] 6
@@ -220,15 +222,15 @@
 
 - **Skills** - [[#Senses]], [[#Stealth]]
 - **Abilities**
-	- ***Blindsight*** Can sense creatures within 10ft without sight or sound.
+	- ***Blindsight*** Can sense creatures within 2 spaces without sight or sound.
 	- **Low Light Vision** Can see in low light as if it were bright light.
 	- ***Amphibious*** Can breathe air and water
 - **Acts**
 	- ***Bite*** 10 [[#Deflect]], 5 damage.
-	- ***Poison Breath*** 12 [[#React]], [[#Recharge]] 5-6, 15ft [[#Cone]], 10 damage. Half as much on a successful roll. On a failed roll targets must make 10 [[#Body]] defense or be sickened for 1 minute. They can repeat this roll at the end of their turn.
+	- ***Poison Breath*** 12 [[#React]], [[#Recharge]] 5- 6,3 space [[#Cone]], 10 damage. Half as much on a successful roll. On a failed roll targets must make 10 [[#Body]] defense or be sickened for 1 minute. They can repeat this roll at the end of their turn.
 - **Lair Acts**
-	- ***Grasping Vines*** 10 [[#React]] 60ft [[#Range]]. Target is [[#Restrained]] until the next Lair Act. Or unless they [[#Act]] to break free against a 10 [[#Strength]]+[[#Athletics]] roll. Or the vines take 5 damage.
-	- ***Charming Scent*** 10 [[#Mind]], 30ft [[#Aura]]. Target is [[#Charmed]] by the dragon until the next Lair Act.
+	- ***Grasping Vines*** 10 [[#React]] 12 space [[#Range]]. Target is [[#Restrained]] until the next Lair Act. Or unless they [[#Act]] to break free against a 10 [[#Strength]]+[[#Athletics]] roll. Or the vines take 5 damage.
+	- ***Charming Scent*** 10 [[#Mind]],6 space [[#Aura]]. Target is [[#Charmed]] by the dragon until the next Lair Act.
 
 ### Dragon, Red wyrmling
 [[#Medium]] [[#Dragon]], Tier 1, [[#Challenge]] 6
@@ -243,14 +245,14 @@
 
 - **Skills** - [[#Senses]], [[#Social]], [[#Stealth]]
 - **Abilities**
-	- ***Blindsight*** Can sense creatures within 10ft without sight or sound.
+	- ***Blindsight*** Can sense creatures within 2 spaces without sight or sound.
 	- **Low Light Vision** Can see in low light as if it were bright light.
 - **Acts**
 	- ***Bite*** 10 [[#Deflect]], 5 damage.
-	- ***Fire Breath*** 12 [[#React]], [[#Recharge]] 5-6, 15ft [[#Cone]], 10 damage. Half as much on a successful roll.
+	- ***Fire Breath*** 12 [[#React]], [[#Recharge]] 5- 6,3 space [[#Cone]], 10 damage. Half as much on a successful roll.
 - **Lair Acts**
-	- ***Noxious Smoke*** 10 [[#Body]], 10ft [[#Sphere]], 60ft [[#Range]]. Targets are [[#Blinded]], [[#Sickened]], and have [[#Full Cover]] until the next Lair Act.
-	- **Booming Acoustics** 10 [[#Mind]], 60ft [[#Aura]]. Targets are [[#Frightened]] until the next Lair Act.
+	- ***Noxious Smoke*** 10 [[#Body]], 2 space [[#Sphere]],12 space [[#Range]]. Targets are [[#Blinded]], [[#Sickened]], and have [[#Full Cover]] until the next Lair Act.
+	- **Booming Acoustics** 10 [[#Mind]],12 space [[#Aura]]. Targets are [[#Frightened]] until the next Lair Act.
 
 ### Dragon, White wyrmling
 [[#Medium]] [[#Dragon]], Tier 1 , [[#Challenge]] 5
@@ -265,14 +267,14 @@
 
 - **Skills** - [[#Senses]], [[#Stealth]]
 - **Abilities**
-	*  ***Blindsight*** - Can sense creatures within 10 ft without sight or sound.
+	*  ***Blindsight*** - Can sense creatures within 5 spaces without sight or sound.
 	- **Low Light Vision** - Can see in low light as if it were bright light.
 - **Acts**
 	- ***Bite*** 10 [[#Deflect]], 5 damage.
-	- ***Cold Breath*** 12 [[#React]], [[#Recharge]] 5-6, 15ft [[#Cone]], 10 damage. Half as much on a successful roll.
+	- ***Cold Breath*** 12 [[#React]], [[#Recharge]] 5- 6,3 space [[#Cone]], 10 damage. Half as much on a successful roll.
 - **Lair Acts**
-	- **Blinding Flurry** 10 [[#React]], 10ft [[#Sphere]], 30ft [[#Range]]. All creatures within sphere are blinded until the end of their next turn.
-	- ***Winter Wind*** 10 [[#Body]], 10ft [[#Cube]], 30ft [[#Range]], 4 damage. Target is knocked [[#Prone]].
+	- **Blinding Flurry** 10 [[#React]], 2 space [[#Sphere]],6 space [[#Range]]. All creatures within sphere are blinded until the end of their next turn.
+	- ***Winter Wind*** 10 [[#Body]], 2 space [[#Cube]],6 space [[#Range]], 4 damage. Target is knocked [[#Prone]].
 
 
 ### Fanatic
@@ -291,15 +293,15 @@
 	- ***Fervent Devotion*** Enemies have [[#Hindrance]] rolling against the fanatic's [[#Mind]] defense
 	- ***Forbidden Knowledge*** - [[#Expertise]] in rites and rituals.
 - **Acts**
-	- ***Dagger*** 9 [[#Deflect]], [[#Thrown]] 20ft, 4 damage
-	- ***[[#Spoken Wound]]*** 11 [[#Body]], 60ft [[#Range]], 3 damage. If the target is wounded, deals 5 damage instead.
+	- ***Dagger*** 9 [[#Deflect]], [[#Thrown]]4 spaces, 4 damage
+	- ***[[#Spoken Wound]]*** 11 [[#Body]],12 space [[#Range]], 3 damage. If the target is wounded, deals 5 damage instead.
 	- ***Spellcasting*** 4 slots, [[#Target Number]] 11
 		- **[[#Bolster]]**
 		- **[[#Command]]**
 		- **[[#Shield of Faith]]**
 		- **[[#Divine Armament]]**
 - **Lair Acts**
-	- ***Warped Reality*** 11 [[#Mind]], 60ft [[#Range]]. Target has [[#Hindrance]] on rolls using [[#Wits]], [[#Aptitude]], or [[#Will]] until the end of their next round.
+	- ***Warped Reality*** 11 [[#Mind]],12 space [[#Range]]. Target has [[#Hindrance]] on rolls using [[#Wits]], [[#Aptitude]], or [[#Will]] until the end of their next round.
 	- ***Bolster the Faithful*** Allies of the fanatic gain 1d4 [[#Temporary [[#HP]]]].
 
 ### Flicker Hound
@@ -307,7 +309,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+1|+1|+2|+2|-4|-1|
+|+1|+1|+2|+2|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] |[[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -327,7 +329,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+3|+3|+0|+3|-1|+0|
+|+3|+3|+0|+3|- 1|+0|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -337,7 +339,7 @@
 - **Condition Immunities** - [[#Sickened]], [[#Petrified]] 
 - **Abilities**
 	- ***False Appearance*** While motionless the gargoyle is indistinguishable from a statue.
-	- ***Tremorsense*** Can sense creatures within 30ft on the ground.
+	- ***Tremorsense*** Can sense creatures within6 spaces on the ground.
 	- ***Multiattack*** The gargoyle can make two Claw attacks.
 - **Acts**
 	- ***Claw*** 11 [[#Deflect]], 8 damage. Target is [[#Grappled]]. The [[#Target Number]] break the grapple is 11.
@@ -387,7 +389,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+2|+1|+3|+1|-4|-3|
+|+2|+1|+3|+1|-4|- 3|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -401,7 +403,7 @@
 	- ***Web Walker*** Can move through webs, both natural and magical, freely.
 - **Acts**
 	- ***Bite*** 9 [[#Deflect]], damage 6 damage. Target must make a 10 [[#Body]] roll or be [[#Paralyzed]] and [[#Sickened]] for 1 minute.  The target can make the [[#Body]] roll again at the end of their turn to end the [[#Paralyzed]] condition.
-	- ***Web*** 10 [[#React]], [[#Recharge]] 5-6, [[#Ranged]] 30ft. Target is [[#Restrained]] by webbing. It can be escaped with a 11 [[#Strength]]+[[#Athletics]] roll. Webbing has 3 [[#HP]], if lit on fire [[#Restrained]] creature takes 3 damage and is freed.
+	- ***Web*** 10 [[#React]], [[#Recharge]] 5- 6, [[#Ranged]] 6 spaces. Target is [[#Restrained]] by webbing. It can be escaped with a 11 [[#Strength]]+[[#Athletics]] roll. Webbing has 3 [[#HP]], if lit on fire [[#Restrained]] creature takes 3 damage and is freed.
 
 ### Giant Venomous Snake
 [[#Medium]] [[#Beast]], Tier 1, [[#Challenge]] 2
@@ -423,7 +425,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+2|+0|+1|+0|-1|+1|
+|+2|+0|+1|+0|- 1|+1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -441,7 +443,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|-1|+1|+2|+1|-1|0|
+|- 1|+1|+2|+1|- 1|0|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -470,14 +472,14 @@
 
 - **Skills** - [[#Senses]] +2
 - **Acts**
-	- ***Spear*** 8 [[#Deflect]], [[#Thrown]] 30ft, 4 damage
+	- ***Spear*** 8 [[#Deflect]], [[#Thrown]] 6 spaces, 4 damage
 
 ### Hobgoblin
 [[#Medium]] [[#Humanoid]] ([[#Goblinoid]]), Tier 1 , [[#Challenge]] 3
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+1|+1|+1|+0|+0|-1|
+|+1|+1|+1|+0|+0|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -487,7 +489,7 @@
 	- ***Low Light Vision*** Can see in low light as if it were bright light.
 - **Acts**
 	- ***Longsword*** 9 [[#Deflect]], 6 damage.
-	- ***Longbow*** 9 [[#Deflect]], [[#Ranged]] 120ft, 6 damage.
+	- ***Longbow*** 9 [[#Deflect]], [[#Ranged]] 24 spaces, 6 damage.
 - **Swift Act**
 	- ***Formation Fighting*** If the longsword [[#Act]] hits its target and another hobgoblin is adjacent, deal an additional 6 damage to target.
 
@@ -510,7 +512,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|-3|+1|+2|+2|-4|-1|
+|- 3|+1|+2|+2|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -545,7 +547,7 @@
 	- ***Lance*** 11 [[#Deflect]], 8 damage
 	- ***Heavy Crossbow*** 8 [[#Deflect]], 4 damage.
 - **Swift Acts**
-	- ***Rally*** - [[#Recharge]] 3-6, an ally can immediately move half their speed and [[#Act]].
+	- ***Rally*** - [[#Recharge]] 3- 6, an ally can immediately move half their speed and [[#Act]].
 	- ***Spur on*** The knight's mount attacks an adjacent enemy and Moves.
 - **Responses** 1
 	- ***Parry***  When an adjacent attacker the knight can see hits with a melee attack, they must re-roll the attack against 16 [[#Deflect]].
@@ -555,7 +557,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+1|+1|+2|+1|-4|-1|
+|+1|+1|+2|+1|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -573,7 +575,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+3|+2|-1|+0|-2|+3|
+|+3|+2|- 1|+0|-2|+3|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -586,17 +588,17 @@
 - **Acts**
 	- ***Rotting Blow*** 11 [[#Deflect]], 6+6 damage. Target must mage a 11 [[#Body]] defense or be cursed with mummy rot. Mummy rot prevents target from gaining [[#HP]]. If target dies they turn to dust. Curse lasts until a [[#Remove Curse]] is cast, or other magic.
 - **Swift Acts**
-	- ***Dreadful Glare*** 11 [[#Mind]], 60ft [[#Range]]. Target becomes [[#Frightened]] until the end of the mummy's next turn. If the target succeeds they are immune to dreadful glare until the next long rest.
+	- ***Dreadful Glare*** 11 [[#Mind]],12 space [[#Range]]. Target becomes [[#Frightened]] until the end of the mummy's next turn. If the target succeeds they are immune to dreadful glare until the next long rest.
 - **Lair Acts**
 	- ***Blinding Dust*** 11 [[#Body]], targets [[#Blinded]] until next Lair Act.
-	- ***Sandwalker*** Mummy teleports to unoccupied square within 60ft.
+	- ***Dustwalker*** Mummy teleports to unoccupied square within12 spaces.
 
 ### Ogre
 [[#Large]] [[#Giant]], Tier 1, [[#Challenge]] 5
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+4|+3|-1|-2|-2|-2|
+|+4|+3|- 1|-2|-2|-2|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -624,7 +626,7 @@
 - **Condition Immunities** - [[#Blinded]], [[#Bleeding]], [[#Charmed]], [[#Deafened]], [[#Frightened]], [[#Grappled]], [[#Paralyzed]], [[#Prone]],  [[#Sickened]], [[#Unconscious]] 
 - **Abilities**
 	- ***Amorphous*** The ooze can move through narrow spaces. 
-	- ***Blindsight*** Can sense creatures within 60ft without seeing or hearing them.
+	- ***Blindsight*** Can sense creatures within12 spaces without seeing or hearing them.
 	- ***False Appearance*** While motionless it is indistinguishable from a oily pool or wet rock
 	- ***Corrode Metal*** Any nonmagical weapon made of metal that hits corrodes. After dealing damage the weapon is corroded. While corroded damage is rolled twice and the lower number is dealt. If a 1 is rolled the weapon is destroyed. 
 - **Acts**
@@ -635,7 +637,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+3|+3|+1|+1|-1|+2|
+|+3|+3|+1|+1|- 1|+2|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -681,7 +683,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+2|+1|+1|+1|-2|-1|
+|+2|+1|+1|+1|-2|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -690,7 +692,7 @@
 - **Skills** - [[#Stealth]]
 - **Condition Immunities** - [[#Blinded]], [[#Deafened]]
 - **Abilities**
-	- ***Blindsight*** Can sense creatures within 60ft without seeing or hearing them.
+	- ***Blindsight*** Can sense creatures within12 spaces without seeing or hearing them.
 	- ***False Appearance*** While motionless it is indistinguishable from a shrub 
 - **Acts**
 	- ***Claw*** 9 [[#Deflect]] 3 Damage.
@@ -711,7 +713,7 @@
 	- ***Outlander*** - [[#Expertise]] in surviving and moving through terrain.
 	- ***Keen Hearing and Smell*** - [[#Expertise]] with hearing and scent.
 - **Acts**
-	- ***Longbow*** 10 [[#Deflect]], [[#Ranged]] 120ft, 7 damage.
+	- ***Longbow*** 10 [[#Deflect]], [[#Ranged]] 24 spaces, 7 damage.
 	- ***Shortsword*** 10 [[#Deflect]], 5 damage.
 
 ### Shadow
@@ -719,7 +721,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|-3|+2|+1|+0|-2|-1|
+|- 3|+2|+1|+0|-2|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -740,7 +742,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+0|+2|+2|-1|-2|-3|
+|+0|+2|+2|- 1|-2|- 3|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -749,7 +751,7 @@
 - **Condition Immunities** - [[#Sickened]] 
 - **Acts**
 	- ***Shortsword*** 10 [[#Deflect]], 5 damage.
-	- ***Shortbow*** 10 [[#Deflect]], [[#Ranged]] 80ft, 5 damage.
+	- ***Shortbow*** 10 [[#Deflect]], [[#Ranged]] 16 spaces, 5 damage.
 
 ### Spy
 [[#Medium]] [[#Humanoid]] (any [[#Ancestry]]), Tier 1, [[#Challenge]] 4
@@ -780,7 +782,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|-3|+2|+3|+0|-1|+2|
+|- 3|+2|+3|+0|- 1|+2|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -791,14 +793,14 @@
 	- ***Death Burst*** When the wisp reaches 0 [[#HP]] it explodes. Adjacent creatures must make a 10 [[#React]] defense or take 4 damage.
 - **Acts**
 	- ***Claws*** 10 [[#Deflect]], 4 damage.
-	- ***Steam Breath*** 10 [[#React]], [[#Recharge]] 6, 15ft [[#Cone]], 4 damage.
+	- ***Steam Breath*** 10 [[#React]], [[#Recharge]] 6,3 space [[#Cone]], 4 damage.
 
 ### Swarm of Rats
 [[#Medium]] [[#Beast]], Tier , [[#Challenge]] 3
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|-1|-1|+0|+0|-4|+0|
+|- 1|- 1|+0|+0|-4|+0|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -817,7 +819,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+3|+2|+3|+2|-4|-1|
+|+3|+2|+3|+2|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -837,7 +839,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+1|+1|+2|+2|-4|-1|
+|+1|+1|+2|+2|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -855,7 +857,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+3|+2|+1|+2|-4|-1|
+|+3|+2|+1|+2|-4|- 1|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -872,7 +874,7 @@
 
 | [[#Strength\|Str]] | [[#Fortitude\|Fort]] | [[#Dexterity\|Dex]] | [[#Wits\|Wit]] | [[#Aptitude\|Apt]] | [[#Will]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|+1|+3|-1|-2|-4|+2|
+|+1|+3|- 1|-2|-4|+2|
 
 | [[#Body]] | [[#React]] | [[#Mind]] | [[#Deflect]] | [[#Soak]] | [[#Speed]] | [[#HP]] |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

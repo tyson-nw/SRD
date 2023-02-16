@@ -1,3 +1,6 @@
+## Culture
+A character's culture provides a base of experience, as well it forms a broad [[#Expertise]]. Characters can use their culture as a generalized [[#Expertise]] if the situation calls for it. As well, each culture can bestow a specific [[#Features|Feature]] or [[#Expertise]]. 
+
 ### Academic Citadel
 The character was raised and educated in a citadel dedicated to the preservation of knowledge.
 
@@ -5,10 +8,10 @@ The character was raised and educated in a citadel dedicated to the preservation
 The character knows the [[#Light]] or [[#Prestidigitation]] cantrip.
 
 ### Cloistered
-The character grows up in a closed community, possibly religious but not necessarily. It had limited contact with outsiders
+The character grows up in a closed community, possibly religious but not necessarily. It had limited contact with outsiders. The community has a society that represents it in the wider world.
 
 #### Society Initiate
-The character knows the ins and outs of the community that they were cloistered with. Its rituals, its hierarchy, its secret ways. They can draw on the society's resources in exchange for tasks to further the society's goals.
+The character knows the ins and outs of the society that they were cloistered with. Its rituals, its hierarchy, its secret ways. They can draw on the society's resources in exchange for tasks to further the society's goals.
 
 ### Fortress Mine
 The character was raised in mining settlements within a mountain. 
