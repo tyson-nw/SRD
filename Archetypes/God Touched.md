@@ -3,7 +3,7 @@ God Touched are called by the divine to act in the world and channel their power
 # Tier 1
 
 ## Divine Conduit
-God Touched channel spells from a [[#Divine]] source. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Enigmas]], they use a holy symbol as a [[#Spellcasting Focus]], and do not need a free hand to cast spells. They pray every morning at dawn for spells and prepare as many Tier 1 spells as their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrips]]. They have a base [[#Burn]] of 6 that resets after a Long Rest.
+God Touched channel spells from a [[#Divine]] source. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Enigmas]], they use a holy symbol as a [[#Spellcasting Focus]], and do not need a free hand to cast spells. They pray every morning at dawn for spells and prepare as many Tier 1 spells as their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrips]]. They have a base [[#Burn]] of 6 that resets after a [[#Long Rest]].
 
 ## Domain
 God Touched also have spells granted to them by their divinity. Every divinity has one or more domains that they have dominion over. God Touched channel their power through one of their divinity's Domains. Depending on the Domain they always have certain spells prepared that don't count against their prepared spells.
@@ -28,22 +28,22 @@ God Touched channel spells from a Divine source. Their [[#Spellcasting Roll]] is
 God Touched gain [[#Features]] granted to them by their deity based on their Domain.
 
 ### Arcana 
-**Spellbook** The God Touched of the arcana domain can scribe spells into a Spellbook and prepare one of them for every Tier as part of their morning ritual.
+**Spellbook** The God Touched of the arcana domain gain a spellbook that they can scribe [[#Wizard]] spells into and prepare one of them for every Tier aafter a [[#Long Rest]]. They can cast spells from their spellbook as a [[#Ritual]].
 
 ### Life
-**Font of Life** The God Touched of the Life domain can cast [[#Cure Wounds]] as an [[#Act]] and add their [[#Aptitude]] bonus for each die rolled.
+**Font of Life** When the God Touched of the Life domain casts [[#Cure Wounds]] its casting time is an  [[#Act]].
 
 ### Order
-**Call to Aid** As an [[#Act]] the God Touched of the Order Domain can command an ally to move up to half their movement and make a single commanded [[#Act]].
+**Call to Aid** As an [[#Response]] the God Touched of the Order Domain can command an ally to move up to half their movement and make a single commanded [[#Act]]. This movement does not provoke a [[#Movement Response]].
 
 ### Sun
 **Glorious Dawn** As a [[#Swift Act]] a God Touched glows with a 4 spaces aura of [[#Daylight]] for 1 minute. They have [[#Edge]] on all [[#Social]] rolls against creatures within that aura.
 
 ### Tempest
-**Call the Thunder** As a [[#Swift Act]], the if the God Touched's attack roll exceeds their  [[#Burn]] to add 2d8 damage to an attack that hit. This increases their [[#Burn]] by 1.
+**Call the Thunder** On an attack, if the God Touched's attack roll that hits exceeds their [[#Burn]] they can increase their [[#Burn]] by 1 to add 2d8 damage.
 
 ### War
-**Armament Mastery** Gain Expertise in one weapon.
+**Armament Mastery** Gain Expertise in one weapon. The God Touched can change the weapon after a [[#Long Rest]].
 
 # Tier 3
 
@@ -64,7 +64,7 @@ God Touched gain [[#Features]] granted to them by their deity based on their Dom
 **Divine Dictate** When the God Touched casts spells that make a target [[#Charmed]] their [[#Spellcasting Roll]] has an [[#Edge]].
 
 ### Sun
-**Channel of the Sun** As an act a God Touched can change the light given off by a light source they are carrying into daylight. This doubles the radius of the bright light it casts and lasts for as long as the light source lasts. They can only channel one light source at a time for as long as they carry it.
+**Channel of the Sun** The God Touched gains [[#Expertise]] on all rolls while within [[#Daylight]].
 
 ### Tempest
 **Throw the Lightning** As a Swift Act, the Tempest domain God Touched can cast Lighting Bolt as a Tier 1 spell, increasing [[#Burn]] by 1.

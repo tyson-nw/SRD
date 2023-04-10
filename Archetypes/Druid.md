@@ -1,4 +1,4 @@
-Druids are one with nature. Their favored [[#Stats]] are [[#Will]] and [[#Wits]], They are proficient in [[#Primal]] [[#Enigmas]], [[#Knowledge]], [[#Focus]], and one additional skill. Druids have a base [[#HP]] of 8. Druids begin with a [[#Simple]] weapon, leather armor, and a druidic focus they created.
+Druids are one with nature. Their favored [[#Stats]] are [[#Will]] and [[#Wits]], they are proficient in [[#Primal]] [[#Enigmas]], [[#Knowledge]], [[#Focus]], and one additional [[#Skill]]. Druids have a base [[#HP]] of 8. Druids begin with a [[#Simple]] weapon, leather armor, and a druidic focus they created.
 
 # Tier 1
 ## Primal Channel

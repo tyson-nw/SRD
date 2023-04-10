@@ -1,3 +1,5 @@
+## Spells
+
 # Animate Object
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
@@ -87,7 +89,7 @@ Attackers have [[#Edge]] against all the target's defenses, and [[#Edge]] on def
 # Binding Circle
 - **Tier 3** - [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Sphere]], [[#Mind]]
+- **Target** - 2 space [[#Circle]], [[#Mind]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Creatures within the binding [[#Circle]] cannot leave the [[#Circle]] in any way. If cast as a [[#Ritual]] the [[#Circle]] can lay inactive until activated as a [[#Response]] and the duration increases to 1 day after activated.
@@ -142,7 +144,7 @@ Target creature gains [[#Edge]] on defenses and [[#Damage Resistance]]. When the
 # Bonfire
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 1 space [[#Sphere]], 6 space [[#Range]], [[#React]]
+- **Target** - 6 space [[#Range]], 1 space [[#Sphere]], [[#React]]
 - **Duration** - 1 minute
 
 Creatures within the bonfire or that move through it that fail their [[#React]] take 1d6 damage. As a [[#Swift Act]] the caster can move the bonfire 6 spaces. Increase the die for every [[#Tier]] the caster is beyond 1st.
@@ -153,7 +155,7 @@ Creatures within the bonfire or that move through it that fail their [[#React]] 
 - **Target** - 12 space [[#Range]]
 - **Duration** - 1 minute
 
-As a [[#Response]] to hitting a foe the caster deals an additional 2d8 damage, 2d10 if the target is Undead or an Outsider. The target glows with faint light, cannot hide, cannot be invisible, and has a [[#Hindrance]] on their [[#Deflect]] defense. When casting at a higher Tier deal an addtional die of damage for every tier beyond 2nd.
+As a [[#Response]] to hitting a foe the caster deals an additional 2d8 damage. The target glows with faint light, cannot hide, cannot be invisible, and has a [[#Hindrance]] on their [[#Deflect]] defense. When casting at a higher Tier deal an addtional die of damage for every tier beyond 2nd.
 
 # Break Curse
 - **Tier 2** - [[#Dedicant]], [[#God Touched]]
@@ -179,7 +181,7 @@ The caster can end one ongoing spell the caster is aware of by making a [[#Spell
 # Call Lightning
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 12 space [[#Range]]
+- **Target** - 12 space [[#Range]], [[#React]]
 - **Duration** - 1 minute
 
 As a [[#Swift Act]], the caster calls down the lighting on a target dealing 6d8 damage. When cast at a higher Tier, add an additional 2d8 damage for every Tier beyond 2nd.
@@ -189,7 +191,7 @@ As a [[#Swift Act]], the caster calls down the lighting on a target dealing 6d8 
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Range]] 12 spaces, [[#React]]
 
-Lighting leaps at target dealing 6d6. The lighting continues to a creature within6 spaces dealing two die fewer damage for each creature it hits. When cast at a higher Tier, deal an additional 4d6 damage for every Tier beyond 4th.
+Lighting leaps at target dealing 6d6. The lighting continues to a creature within 6 spaces dealing two die fewer damage for each creature it hits. When cast at a higher Tier, deal an additional 4d6 damage for every Tier beyond 4th.
 
 # Charming
 - **Tier 1** - [[#Wizard]]
@@ -272,9 +274,9 @@ A ghostly battle trained [[#Horse]] appears with chainmail barding that will res
 - **Tier 3** - [[#Druid]], [[#God Touched]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
 - **Target** - 1 mile [[#Aura]]
-- **Duration** - 1 hour
+- **Duration** - 1 hour, [[#Concentration]]
 
-Control the weather within the area. As an [[#Act]] the caster can call down a lightning bolt that strikes a single target dealing 3d8 damage. As an [[#Act]] the caster can summon a whirlwind as [[#Sphere]] that throws creatures within its area4 spaces and dealing 3d6 damage to them and knocking them prone. When cast at a higher Tier, increase the damage die by 2 for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
+Control the weather within the area. As an [[#Swift Act]] the caster can roll their [[#Spellcasting Roll]] against a target's [[#React]] to call down a lightning bolt that strikes a single target dealing 3d8 damage. As an [[#Act]] the caster can roll their [[#Spellcasting Roll]] to summon a whirlwind as 2 space [[#Sphere]] that throws creatures within its area 4 spaces and dealing 3d6 damage to them and knocking them prone if the roll beats the target's [[#Body]] defense. When cast at a higher Tier, increase the damage die by 2 for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
 
 # Counterspell
 - **Tier 3** - [[#Wizard]]
@@ -302,12 +304,12 @@ Heal the 1d8+[[#Spellcasting Bonus]] worth of [[#HP]]. When cast at a higher Tie
 - **Casting Time** - [[#Act]]
 - **Target** - 24 space [[#Range]]
 
-Summon a torch sized light within [[#Range]] that hover in the air for the duration. The caster can move the light up to12 spaces within the [[#Range]] as a [[#Swift Act]]. Conjure an additional light by one for every [[#Tier]] the caster is beyond 1st.
+Summon a torch sized light within [[#Range]] that hover in the air for the duration. The caster can move the light up to 12 spaces within the [[#Range]] as a [[#Swift Act]]. Conjure an additional light by one for every [[#Tier]] the caster is beyond 1st.
 
 # Darkness
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 3 space [[#Sphere]], 24 space [[#Range]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]] 
 - **Duration** 10 minutes, [[#Concentration]]
 
 The area is plunged into magical darkness blocking all light sources within it, including those from magical sources.
@@ -315,7 +317,7 @@ The area is plunged into magical darkness blocking all light sources within it, 
 # Dawning Light
 - **Tier 2** - [[#Dedicant]], [[#Druid]], [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Aura]]
+- **Target** - 6 space [[#Aura]]
 - **Duration** - 1 hour
 
 The caster glows with true daylight. Allies have an [[#Edge]] on all rolls against undead or [[#Daylight]] sensitive creatures. Dispels magical Darkness if affecting target area.
@@ -326,7 +328,7 @@ The caster glows with true daylight. Allies have an [[#Edge]] on all rolls again
 - **Target** - [[#Self]]
 - **Duration** - 1 minute
 
-See magical [[#Aura]]'s of ongoing spells, know what spell is being cast by a creature, or the remnants of spells that were cast within 1 hour for every Tier the caster is.
+See ongoing spells, know what spell is being cast by a creature, or see the remnants of spells that were cast within 1 hour for every Tier the caster is.
 
 # Discorperate
 - **Tier 3** - [[#Wizard]]
@@ -357,7 +359,7 @@ Conjure flying weapon that deals 1d6 damage that can be directed to move up to 6
 - **Target** - [[#Self]]
 - **Duration** 1 minute, [[#Concentration]]
 
-The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Ranged]] attack to throw fire12 spaces dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
+The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Wits]]+[[#Weapon]] roll against a target's [[#React]] defense within 12 spaces dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
 
 # Divine Interpose
 - **Tier 1** - [[#God Touched]]
@@ -378,7 +380,7 @@ Target Outsider is forced back to its plane of origin. If cast as a [[#Ritual]] 
 # Earthquake
 - **Tier 4** - [[#God Touched]], [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 24 space [[#Aura]], [[#Durability]]
+- **Target** - 12 space [[#Aura]], [[#Durability]]
 
 Creatures are knocked prone within the area. Structures are damaged or destroyed depending on their durability Target Number.
 
@@ -401,7 +403,7 @@ Target has [[#Edge]] on rolls with one [[#Stats|Stat]] chosen when the spell is 
 # Entangle
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Circle]], 24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** 1 minute, [[#Concentration]]
 
 On a success the target is [[#Restrained]] until the spells end. Each round the caster re-rolls the attack against the effected creature's [[#Body]]. Even if a creature frees themselves or moves into the target area it is [[#Difficult Terrain]].
@@ -414,7 +416,7 @@ On a success the target is [[#Restrained]] until the spells end. Each round the 
 The caster can send a short message 25 words long to a target on the same plane. The target can respond with a 25 word message of their own. When cast at a higher Tier, add 10 words to the message for every Tier beyond 1st.
 
 # Feather Fall
-- **Tier 1** [[#Dedicant]], [[#Druid]], [[#Wizard]]
+- **Tier 1** [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Response]]
 - **Target** - 12 space [[#Range]]
 - **Duration** - 1 round
@@ -424,7 +426,7 @@ Target takes no fall damage. When cast at a higher Tier, the spell can target an
 # Fireball
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]], 24 space [[#Range]], [[#React]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 
 Deal 3d6 damage to creatures within the target area. If the [[#Spellcasting Roll]] fails to overcome the defense of the target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for every Tier beyond 1st.
 
@@ -457,7 +459,7 @@ Target is [[#Blinded]] for 1d6 rounds. When cast at a higher Tier, add an additi
 - **Target** - [[#Self]]
 - **Duration** - 1 hour, [[#Concentration]]
 
-Summon a flaming weapon that deals 2d6 damage and has the bladed, finesse, and simple [[#Tags]]. It can be used to start fires. When cast at a higher Tier, add an additional 1d6 for every Tier beyond 1st.
+Summon a flaming weapon that deals 2d6 damage and has the [[#Bladed]], [[#Finesse]], and [[#Simple]] [[#Tags]]. It can be used to start fires. When cast at a higher Tier, add an additional 1d6 for every Tier beyond 1st.
 
 # Foxfire
 - **Tier 1** - [[#Druid]]
@@ -470,7 +472,7 @@ Targets glow with dim light, revealing invisible creatures. Rolls against the ta
 # Fog
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 4 space [[#Sphere]], 12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]]
 - **Duration** - 1 hour
 
 Creatures within the fog have [[#Cover]]. When cast at a higher Tier, increase the radius of the [[#Sphere]] by one space for every Tier beyond 1st.
@@ -502,7 +504,7 @@ Targets are pushed 2 spaces away from the caster and take 4d6 damage. When cast 
 # Frightening Presence
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - 1 [[#Act]]
-- **Target** - 8 space [[#Aura]]
+- **Target** - 6 space [[#Aura]]
 - **Duration** - 1 minute, [[#Mind]]
 
 Enemies within the are frightened of the caster. When cast at a higher Tier, the [[#Aura]] radius increases by 2 spaces for every Tier beyond 2nd.
@@ -521,12 +523,12 @@ The willing target becomes gaseous, able to pass through cracks, with a6 spaces 
 - **Target** - 2 space [[#Range]]
 - **Duration** - 1 hour
 
-Open a 2 spaces by 2 spaces portal to the plane of the caster's choice that can be traversed from either side. If cast as a [[#Ritual]] the duration increases to 1 day.
+Open a 2 spaces by 2 spaces portal to the plane of the caster's choice that can be traversed from either side. If the target location has a [[#Teleportation Anchor]] the caster knows, it is a [[#Difficult]] roll. If the caster has been to the place, it is a [[#Hard]] roll. If the caster has seen a drawing it is an [[#Improbable]] roll. And if the caster has only heard a description it is an [[#Impossible]] roll.  If the roll is failed the other portal opens in a random location on the target plane. If cast as a [[#Ritual]] the duration increases to 1 day.
 
 # Geas
 - **Tier 4** [[#Dedicant]], [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Range]], [[#Mind]]
+- **Target** - 6 space [[#Range]], [[#Mind]]
 - **Duration** - 1 day
 
 Target must attempt to follow one sentence of direction. If they try to resist the instruction they take 3d8 damage.
@@ -555,7 +557,7 @@ Targets that fail their defense are knocked prone. Gasses, mists, and toxic air 
 # Grease
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]], 24 spaces, [[#React]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 - **Duration** - 1 minute
 
 Targets within the area are covered in grease, those that fail their defense fall prone. The area becomes Difficult Terrain. The grease is flammable, deals 1d6 damage to all creatures within area and ends the spell. When cast at a higher Tier, the damage from igniting the grease increases by 1d6 for every Tier beyond 1st.
@@ -574,7 +576,7 @@ A Tier 2 plant grows that is dedicated to the caster and will sacrifice itself t
 - **Target** - 3 space [[#Aura]]
 - **Duration** - 1 hour
 
-The area is hallowed against undead, undead cannot be raised within the are, and have a Hinderance on all rolls if they are within the area. If cast as a [[#Ritual]] the duration becomes 1 day and increases the Target to a12 space [[#Aura]]. Casting this spell consumes 100gp worth of incense.
+The area is hallowed against undead, undead cannot be raised within the are, and have a Hinderance on all rolls if they are within the area. If cast as a [[#Ritual]] the duration becomes 1 day and increases the Target to a12 space [[#Aura]]. Casting this spell consumes 100gp worth of quality incense.
 
 # Heal
 - **Tier 1** - [[#Druid]], [[#God Touched]]
@@ -586,7 +588,7 @@ The target is healed one of the following conditions: [[#Blinded]], [[#Bleeding]
 # Healing Aura
 - **Tier 2** - [[#Druid]], [[#God Touched]]
 - **Casting Time** - 1 minute, [[#Ritual]]
-- **Target** - 2 space [[#Aura]]
+- **Target** - 3 space [[#Aura]]
 
 Allies within the [[#Aura]] are healed 1d8+[[#Spellcasting Stat]] worth of [[#HP]]. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 2nd.
 
@@ -601,14 +603,14 @@ Target is grappled. When cast at a higher Tier, target and additional creature f
 # Hypnotic Pattern
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]],12 space [[#Range]], [[#Mind]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]], [[#Mind]]
 
 Targets are incapacitated and charmed by the caster. If the target takes damage the target is released from the spell. When cast at a higher Tier, increase the radius of the spell by 1 space for every Tier over 2nd.
 
 # Illusory Image
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Sphere]],12 space [[#Range]], [[#Mind]]
+- **Target** - 12 space [[#Range]], 2 space [[#Sphere]], [[#Mind]]
 - **Duration** - 1 minute
 
 Fill the area with illusory images that move and make noise. Interacting with the illusion allows a creature to make a [[#Mind]] Defense against the [[#Spellcasting Roll]]. When cast at a higher Tier, increase the [[#Sphere]] radius by 2 spaces for every Tier over 2nd. If cast as a [[#Ritual]] the duration becomes one hour.
@@ -627,7 +629,7 @@ The target is imprisoned in a gem worth 10,000 coin. Time does not pass for the 
 - **Target** - [[#Touch]], [[#Mind]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-The targeted weapon shines with [[#Daylight]] out to12 spaces. Allies within the [[#Aura]] have an [[#Edge]] on rolls. The weapon deals an additional 6 die of damage.
+The targeted weapon shines with [[#Daylight]] in a 12 space [[#Aura]]. Allies within the [[#Aura]] have an [[#Edge]] on rolls. The weapon deals an additional 6 dice of damage.
 
 # Invisibility
 - **Tier 2** - [[#Wizard]]
@@ -686,10 +688,10 @@ Learn the direction to an object, the distance to an object, and a snapshot of t
 # Mage Hand
 - **Cantrip** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]]
+- **Target** - 6 space [[#Range]], [[#React]]
 - **Duration** - 1 minute
 
-Manifests a translucent hand can lift or manipulate an item less than 5lbs within [[#Range]]. The weight it can manipulate increases by 5lbs for every [[#Tier]] the caster is beyond 1st.
+Manifests a translucent hand can lift or manipulate an item less than 5lbs or deal 1d4 damage to a target. The weight it can manipulate increases by 5lbs and the damage it does increases by 1d4 for every [[#Tier]] the caster is beyond 1st.
 
 # Mage Grounding
 - **Tier 1** - [[#Wizard]]
@@ -697,7 +699,7 @@ Manifests a translucent hand can lift or manipulate an item less than 5lbs withi
 - **Target** - 6 space [[#Range]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-Target takes 2d8 damage. During each of the caster turns they can continue the spell with a [[#Swift Act]]. Subsequent rounds automatically hit. On the target's next round they must make a [[#Concentration]] roll against the damage taken to cast any spell. When cast at a higher Tier, add an additional 1d8 for each Tier beyond 1st.
+Target takes 2d8 damage. During each of the caster turns they can continue the spell with a [[#Swift Act]]. Subsequent rounds automatically hit. On the target's next round they have a [[#Hindrance]] on all rolls. If the target leaves the range or gains [[#Full Cover]] the spell ends. When cast at a higher Tier, add an additional 1d8 for each Tier beyond 1st.
 
 # Magnificent Cart
 - **Tier 2** - [[#Wizard]]
@@ -710,7 +712,7 @@ A translucent hovering cart of force manifests, can carry 500lbs of cargo, and h
 # Magnificent Dwelling
 - **Tier 3** - [[#Wizard]]
 - **Casting Time** [[#Act]]
-- **Target** - 6 space [[#Range]],4 space [[#Square]]
+- **Target** - 6 space [[#Range]], 4 space [[#Square]]
 - **Duration** - 1 hour, [[#Concentration]]
 
 A building with opaque impenetrable walls of force that in a shape the caster decided manifests in empty spaces. Only invited creatures can enter or leave the dwelling and cast spells or fire ammunition through the walls. The dwelling is always at a comfortable temperature and has fresh air regardless of the external environment. When cast at a higher Tier, increase the duration by a day for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and does not require [[#Concentration]].
@@ -749,14 +751,14 @@ With a [[#Swift Act]] the caster calls down meteors that target each enemy withi
 # Mold Earth
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 1 space [[#Cube]],12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 1 space [[#Cube]]
 
-Move an area of earth that fits within the target area, excavating, building up, and shaping it. The area targeted increases by another 1 space [[#Cube]] for every [[#Tier]] the caster is beyond 1st.
+Move an area of earth that fits within the target area, excavating, building up, and shaping it. It does not move fast enough to trap someone or cause fall damage if excavated below a creature. The area targeted increases by another 1 space [[#Cube]] for every [[#Tier]] the caster is beyond 1st.
 
 # Moonbeam
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Circle]],12 space [[#Range]], [[#Body]]
+- **Target** - 12 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 
 A beam shines down dealing 3d6 damage. Half as much on a successful defense. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st.
 
@@ -771,7 +773,7 @@ Manifest a portal next to the caster and a second one in an empty space the cast
 # Planar Ally
 - **Tier 3** - [[#God Touched]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 3 space [[#Range]]
+- **Target** - 6 space [[#Range]]
 - **Duration** - 1 minute
 
 Summon an Tier 2 [[#Outsider]] to aid the caster. It will obey the caster's commands as long as it doesn't violate its alignment. When cast at a higher Tier, increase the Tier of the [[#Outsider]] per Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
@@ -806,6 +808,13 @@ Transform into a Tier 1 living [[#Beast]], [[#Humanoid]], [[#Monstrosity]], or [
 - **Duration** - 1 round, [[#Concentration]]
 
 Allies are granted [[#Edge]] on all rolls. When cast at a higher Tier,  add an additional round of duration for each Tier beyond 2nd.
+
+# Prestidigitation
+-   **Cantrip** - [[#Wizard]]
+-   **Casting Time** - [[#Act]]    
+-   **Target** - 3 space [[#Range]], 1 space [[#Cube]]
+- 
+The caster can dry, moisten, clean, snuff candles, light candles, or create a strong breeze in the area. The Cube area increases by 1 for every Tier the caster is beyond 1st.
 
 # Primal Strike
 - **Cantrip** - [[#Druid]]
@@ -845,7 +854,7 @@ The target regenerates a lost limb or organ and is restored to their [[#Maximum 
 # Reinforcing Aura
 - **Tier 2** - [[#Dedicant]]
 - **Casting Time** - [[#Swift Act]]
-- **Target** - 2 space [[#Aura]], [[#Concentration]]
+- **Target** - 3 space [[#Aura]], [[#Concentration]]
 
 Allies within the area gain +2 to their soak. When cast at a higher Tier, targets soak an additional point of damage for every Tier beyond 2nd.
 
@@ -890,7 +899,7 @@ Deal 1d6 damage to each creature in range and they are blinded for 1d6 rounds. W
 - **Target** - The same plane, [[#Target Number]]
 - **Duration** - 1 minute
 
-Perceive the area around the target person or item. If the caster personally knows the target it is an Easy roll. It the caster has seen the target, or has a piece of the target, it is a Difficult roll. If the caster has a drawing or representations of the target, or a personal item of the Target, it is a Hard roll. It the caster only has a description it is an Improbable roll. When cast at a higher tier, if the target is on another plane increase the [[#Target Number]] by 6.
+Perceive the area around the target person or item. If the caster personally knows the target it is an Easy roll. It the caster has seen the target, or has a piece of the target, it is a Difficult roll. If the caster has a drawing or representations of the target, or a personal item of the Target, it is a Hard roll. It the caster only has a description it is an Improbable roll. When cast at a higher tier, if the target is on another plane increase the [[#Difficulty Modifier]] is [[#Hard]].
 
 # Shapechange
 - **Tier 4** - [[#Wizard]]
@@ -966,17 +975,10 @@ Reanimate a corpse to ask questions that the corpse would know the answer to bef
 # Spike Field
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Circle]],12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 3 space [[#Circle]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Area becomes [[#Hazardous Terrain]] that deals 1d6 damage. When cast at a higher Tier, add an additional die for each tier beyond 1st.
-
-# Spoken Wound
-- **Cantrip** - [[#God Touched]]
-- **Casting Time** - [[#Act]]
-- **Target** - 12 space [[#Range]], [[#Body]]
-
-Target takes 1d6 damage. If they are already wounded the target takes 1d10 instead. Increase the die for every [[#Tier]] the caster is beyond 1st.
 
 # Step Sideways
 - **Tier 3** - [[#Wizard]]
@@ -997,17 +999,17 @@ Six stones manifest and circle the caster increasing setting their [[#Deflect]] 
 # Stone Spikes
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]],12 space [[#Range]], [[#React]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 
 Stone spikes manifest in the area dealing 4d6 damage and making the area [[#Difficult Terrain]]. When cast at a higher Tier, increase the radius of the [[#Sphere]] by 1 space for every Tier beyond 2nd.
 
 # Sunbeam
 - **Tier 3** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Circle]],  24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-A beam of daylight shines down dealing 8d6 damage, half as much as a successful defense. At the beginning of the caster’s turn, creatures within the beam take an additional 3d6 damage. When the spell is cast at a higher Tier, deal an additional 2d6 damage for every Tier cast at above 3rd.
+A beam of [[#Daylight]] shines down dealing 8d6 damage, half as much as a successful defense. At the beginning of the caster’s turn, creatures within the beam take an additional 3d6 damage. When the spell is cast at a higher Tier, deal an additional 2d6 damage for every Tier cast at above 3rd.
 
 # Take Flight
 - **Tier 2** - [[#Druid]], [[#Wizard]]
@@ -1015,7 +1017,7 @@ A beam of daylight shines down dealing 8d6 damage, half as much as a successful 
 - **Target** - [[#Touch]]
 - **Duration** - 1 hour
 
-The target gains a 12 space [[#Fly]] speed. If cast as a [[#Ritual]] the duration becomes 1 day. If cast at a higher Tier, the speed increases by 4 spaces for every Tier beyond 2rd.
+The target gains a 6 space [[#Fly]] speed. If cast as a [[#Ritual]] the duration becomes 1 day. If cast at a higher Tier, the speed increases by 4 spaces for every Tier beyond 2rd.
 
 # Teleport
 - **Tier 2** - [[#Wizard]]
@@ -1087,7 +1089,7 @@ Meld into the ground an step out of a tree or other medium or larger sized plant
 # Tremor
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Swift Act]]
-- **Target** - 2 space [[#Circle]], 24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 
 Targets fall prone and take 1d6 damage. When cast at a higher Tier, add an additional 1d6 for each tier beyond 1st.
 
@@ -1104,7 +1106,7 @@ Caster can transform into a Tier 3 or lower creature gaining their [[#Strength]]
 - **Casting Time** - [[#Ritual]]
 - **Target** - [[#Touch]]
 
-Restore creature to life at full [[#HP]] with no conditions. Requires a piece of the creature’s corpse. Consumes a resurrection vessel that costs 500,000 coin to create.
+Restore creature to life at full [[#HP]] and no conditions. Requires a piece of the creature’s corpse. Consumes a resurrection vessel that costs 500,000 coin to create.
 
 # Truesight
 - **Tier 2** - [[#God Touched]], [[#Wizard]]
@@ -1119,7 +1121,7 @@ Reveal invisible creatures and see illusions for what they truly are. If cast as
 - **Casting Time** - [[#Act]]
 - **Target**  - 12 space [[#Range]]
 
-Fire three separate bolts of energy, each deals 1d4 damage and automatically hits. When cast at a higher Tier, add an additional two bolts of energy for each Tier beyond 1st.
+Fire three separate bolts of energy, each deals 1d4 damage as separate attacks and automatically hits. When cast at a higher Tier, add an additional two bolts of energy for each Tier beyond 1st.
 
 # Vampiric Touch
 - **Tier 2** - [[#Wizard]]
@@ -1131,7 +1133,7 @@ Deals 3d8 damage on a hit and the caster gains that many [[#Temporary HP]]. When
 # Vinesnare
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]],3 space [[#Circle]], [[#Body]]
+- **Target** - 6 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Targets are [[#Restrained]]. When the spell is cast, and at the beginning each of their turns, restrained foes take 3d6 damage. The caster must re-roll their attack against the Target’s [[#Body]] or they escape, failing to overcome the caster's [[#Burn]] does not end the spell. The area becomes [[#Difficult Terrain]] for the duration. When cast at a higher Tier, increase the damage by 2d6 for each Tier beyond 2nd.
@@ -1139,7 +1141,7 @@ Targets are [[#Restrained]]. When the spell is cast, and at the beginning each o
 # Wall of Fire
 - **Tier 3** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall, [[#React]]
+- **Target** - 6 space [[#Range]], [[#Wall]], [[#React]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 The wall acts as cover. Creatures within the wall when it manifests take 6d6 damage. Moving through the wall deals 6d6 damage. When casting at a higher Tier, the spell does an additional 4d6 damage for every Tier above 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
@@ -1147,7 +1149,7 @@ The wall acts as cover. Creatures within the wall when it manifests take 6d6 dam
 # Wall of Force
 - **Tier 3** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall 
+- **Target** - 6 space [[#Range]], [[#Wall]] 
 - **Duration** - 1 minute, [[#Concentration]]
 
 A translucent impenetrable wall manifests that blocks [[#Line of Effect]] except for the caster's spells. The wall is destroyed when hit with [[#Disintegrate]]. When cast at a higher Tier, the duration becomes 1 hour for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
@@ -1155,15 +1157,15 @@ A translucent impenetrable wall manifests that blocks [[#Line of Effect]] except
 # Wall of Wind
 - **Tier 2** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall
+- **Target** - 6 space [[#Range]], [[#Wall]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-The wall acts as cover, and ranged weapons cannot fire through it. Creatures within the wall when it manifests are pushed out of the wall. Moving through the wall requires a [[#Strength]]+[[#Athletics]] roll against the [[#Spellcasting Roll]]. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
+The wall acts as cover, and ranged weapons cannot fire through it. Creatures within the wall when it manifests are pushed out of the wall away from the caster. Moving through the wall requires a [[#Strength]]+[[#Athletics]] roll against the [[#Spellcasting Roll]]. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
 
 # Whirlwind
 - **Tier 4** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Aura]]
+- **Target** - 3 space [[#Aura]]
 - **Duration** - 1 minute, [[#Body]]
 
 A whirlwind manifests around the caster providing full cover. Creatures within the whirlwind are thrown 12 spaces dealing 12d6 damage and knocked [[#Prone]]. If the [[#Spellcasting Roll]] fails to overcome the defense of the target they are pushed 6 spaces.
@@ -1178,6 +1180,13 @@ Target dying creature stabilizes and reset's death saves. Target another creatur
 # Winter's Blast
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** -4 space [[#Cone]], [[#Body]]
+- **Target** - 6 space [[#Cone]], [[#Body]]
 
 Deal 3d6 to creatures within the target area. If they fail on overcoming the defense of their target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st at.
+
+# Wounding Chant
+- **Cantrip** - [[#God Touched]]
+- **Casting Time** - [[#Act]]
+- **Target** - 12 space [[#Range]], [[#Body]]
+
+Target takes 1d6 damage. If they are already wounded the target takes 1d10 instead. Increase the die for every [[#Tier]] the caster is beyond 1st.

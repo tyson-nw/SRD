@@ -36,51 +36,70 @@ This is the advanced damage die.
 This is the heavy or large weapon damage die.
 ### D12
 This is they die [[#Player|Players]] roll to resolve actions.
+### D20
+The Game Master die. Used for tables, initiative, and other things that interact with cosmic forces.
 
 ## Rolls
 When you "make a roll" you roll a [[#d12]] and add a bonus. The bonus is the sum of the [[#Stat]] used for the roll, the [[#SKills|Skill]] being used for the roll, and any [[#Expertise]] that the [[#Game Master]] agrees applies to the roll. Then you compare the total roll to the [[#Target Number]]. 
 
+### Target Number
+The Target Number is what players need to roll to succeed at a task. It is chosen by the Game Master.
+
 ### Skill Rolls
-If you roll 12 on the die you succeed with a [[#Perk]] as long as the total roll is equal to or greater than the Target Number otherwise, it just succeeds. If the total of the die and the bonus is equal to or greater than the [[#Target Number]] the roll succeeds. If the total of the die and bonus is below the [[#Target Number]] you succeed with a [[#Complication]]. If you roll a 1 on the die and the total of the die and the bonus is less than the [[#Target Number]] you fail with a [[#Complication]].
+- If you roll 12 on the die you succeed with a [[#Perk]] as long as the total roll is equal to or greater than the Target Number. If you roll a 12 but the total roll is under the [[#Target Number]] it succeeds normally. 
+- If you roll a 1 on the die and the total of the die and the bonus is less than the [[#Target Number]] you fail with a [[#Complication]].
+- If the roll is anything but a 1 or 12 and total of the die plus the bonus is equal to or greater than the [[#Target Number]] the roll succeeds. 
+- If the total of the roll is below the [[#Target Number]] you succeed with a [[#Complication]]. 
+
+
+#### Perk
+Skill perks are things that push the plot forward more than just a success. Each will be individual to the particular roll you are making. When making a [[#Social]] roll against a target [[#NPC]] the target may become more friendly and willing to assist the characters. When making an [[#Athletics]] roll the character performs above and beyond the intended goal. When looking for information the character can find details above and beyond what would have been found with just a success. The Perk doesn't have to be directly related to the action that provided it, but anything that will push forward the story.
+
+#### Complication
+Skill complications are things that still push the plot forward by causing new problems for characters. A character can succeed climbing but they may knock loose boulders that rain down on their allies. When making a deal with an [[#NPC]] a character insults them. When searching for something the character finds a red herring that can lead them down a dead end path. Complications don't have to be causal, they are anything that can add a new wrinkle to the story.
 
 ### Attack Rolls
-Attacking uses a different scale of success, failure, [[#Perks]], and [[#Complications]]. On a roll of 12 on the die, if and the attack total on is greater or equal to the [[#Target Number]] an attack succeeds with a [[#Perk]], otherwise it just succeeds.  If the total of the die and the bonus is equal to or greater than the [[#Target Number]] the roll succeeds. If the roll total is below the [[#Target Number]] the attack fails. And on a roll of 1 on the die where the total is less than the [[#Target Number]] it fails with a [[#Complication]]. There are standard [[#Perks]] and [[#Complication|Complications]] for combat, but [[#Features]] may provide different ones.
+Attacking uses a different scale of success and failure with [[#Critical Successes]] and [[#Critical Failures]].
+- On a roll of 12 on the die, if and the attack total on is greater or equal to the [[#Target Number]] an attack [[#Critical Successes|Critically Succeeds]], otherwise it just succeeds.  
+- On a roll of 1 on the die where the total is less than the [[#Target Number]] it [[#Critical Failures|Critically Fails]].
+- If the total of the die and the bonus is equal to or greater than the [[#Target Number]] the roll succeeds.
+- If the roll total is below the [[#Target Number]] the attack fails. 
 
-#### Attacker Perk
+#### Critical Success
 As well as the normal damage dealt, deal the maximum damage possible for the attack’s damage die.
 
-#### Attacker Complication
+#### Critical Failure
 The attacker is [[#Exposed]].
 
 ### Defense Rolls
 Defending uses the same scale of success as attacking. On a roll of 12 on the die, if and the attack total on is greater or equal to the [[#Target Number]] an attack succeeds with a [[#Perk]], otherwise it just succeeds.  If the total of the die and the bonus is equal to or greater than the [[#Target Number]] the roll succeeds. If the roll total is below the [[#Target Number]] the attack fails. And on a roll of 1 on the die where the total is less than the [[#Target Number]] it fails with a [[#Complication]]. There are standard [[#Perks]] and [[#Complication|Complications]] for combat, but [[#Features]] may provide different ones.
 
 #### Defender Perk
-The attacker is [[#Exposed]].
+The standard Defender Perk is the attacker is [[#Exposed]].
 
 #### Defender Complication
-The character takes double damage from the attack instead of the normal damage.
+The character takes double damage from the attack instead of the normal damage. Some [[#Abilities]] and [[#Features]] may add an effect.
 
-### Target Number
-The Target Number is what the player needs to roll for success. 
 
 ### Edges and Hindrances
-Instead of gaining transient bonuses characters are granted an [[#Edge]] or [[#Hindrance]] on [[#d12]] rolls. Because players roll the dice, if NPCs gain Edge or Hindrance the players roll the inverse against their defense or attack.
+Instead of gaining temporary bonuses, characters are granted an [[#Edge]] or [[#Hindrance]] on [[#d12]] rolls. Because players roll the dice, if NPCs gain Edge or Hindrance the players roll the inverse against their defense or attack. No matter how many ways the character gains an [[#Edge]] or a [[#Hindrance]], they only roll one additional time. If the character has both an [[#Edge]] and a [[#Hindrance]] they cancel out and the character rolls normally.
 
 #### Edge
-When a character has Edge they roll the [[#d12]] twice and use the highest roll. If an [[#NPC]] has a [[#Hindrance]] on a defense the attacking character has an [[#Edge]] on all rolls against that defense.
+When a character has an Edge on a roll, they roll the [[#d12]] twice and use the highest roll. If an [[#NPC]] has a [[#Hindrance]] on a defense the attacking character has an [[#Edge]] on all rolls against that defense.
 
 #### Hindrance
-When a character has a [[#Hindrance]] they roll the [[#d12]] twice and use the lowest roll. If an [[#NPC]] has [[#Edge]] on an attack or skill the character has a [[#Hindrance]] when rolling their defense.
+When a character has a [[#Hindrance]] on a roll, they roll the [[#d12]] twice and use the lowest roll. If an [[#NPC]] has [[#Edge]] on an attack or skill the character has a [[#Hindrance]] when rolling their defense.
 
 ### Automatic Success
-If a creature has proficiency in a [[#Skills|Skill]] or an applicable [[#Expertise]] they automatically succeed all [[#Simple]] rolls. If they have both proficiency in a [[#Skills|Skill]] and an applicable [[#Expertise]] they automatically succeed on [[#Easy]] rolls.  
+If a creature has proficiency in a [[#Skills|Skill]] or an applicable [[#Expertise]] they automatically succeed all [[#Simple]] rolls. If they have both proficiency in a [[#Skills|Skill]] and an applicable [[#Expertise]] they also automatically succeed on [[#Easy]] rolls.  
 
 ### Bennies
-As a [[#Response]] a character can spend bennies to reroll a [[#d12]]. They can have a maximum of three Bennies at any time. At the beginning of a session the character starts with two. You gain bennies by expressing your character's [[#Drive]], [[#Bond]], or [[#Flaw]] in play. As well, [[#Game Master|Game Masters]] and [[#Player|Players]] (with [[#Game Master]] approval) can give bennies to another [[#Player]] for exceptional roleplay.  
+As a [[#Response]] a player can spend their character's Bennies to reroll a [[#d12]] and accept the new result. Each character can have a maximum of three Bennies at any time. At the beginning of each session each character starts with two Bennies. Characters gain a Bennie when their Player expresses the character's [[#Drive]], [[#Bond]], or [[#Flaw]] in play. As well, [[#Game Master|Game Masters]] and [[#Player|Players]] (with [[#Game Master]] approval) can give a Bennie to another [[#Player]] for exceptional roleplay.  
+
+Players, with [[#Game Master]] approval, can also spend a Bennie to add a [[#Scene Features|Scene Feature]] that the characters can interact with.
 
 ### Rolling as a NPC
-The [[#Game Master]] never rolls a [[#d12]], so when an NPC would need to roll add 5 to the applicable bonuses and that becomes the [[#Target Number]] the defender has to overcome.
+The [[#Game Master]] never rolls a [[#d12]], so when an NPC would need to roll, instead determine the [[#Target Number]] by adding 5 to any bonuses the NPC has. The Player than makes their roll against that [[#Target Number]].
 
 ### Rolling Other Dice 
 If a different die is required other than the [[#d12]] the die will be noted. This is most often done when rolling damage. There may be a bonus that is applied to this one roll and the applicable [[#Stat]] will be noted. 
@@ -129,7 +148,7 @@ What fantastical bloodline does your character come from? What Ancestry [[#Featu
 - **Driven** - Humans gain an additional [[#SKills|Skill]].
 - **Well-versed** - Humans gain an additional [[#Expertise]].
 ### Halfun Blooded
-- **Vanish into a crowd** - Halfuns can make a [[#Wits]]+[[#Stealth]] check against the [[#Mind]] defense of all creatures that cannot see the halfun to hide from them. Halfuns can [[#Hide]] behind creatures one size larger than them.
+- **Vanish** - Halfuns have an [[#Edge]] on [[#Stealth]] rolls and enemies have a [[#Hinderance]] on [[#Sense]] rolls to detect the Halfun.
 - **Small Stature** - Halfuns have a movement speed of 4 spaces. Halfuns gain [[#Cover]] when standing behind a [[#Medium]] sized or larger creature.
 ### Dwarf Blooded
 - **Dim Light Vision** - Dwarves can see in [[#Dim Light]] as if it were bright light.
@@ -148,7 +167,7 @@ A character's culture provides a base of experience, as well it forms a broad [[
 The character was raised and educated in a citadel dedicated to the preservation of knowledge.
 
 #### Arcane Knack
-The character knows the [[#Light]] or [[#Prestidigitation]] cantrip.
+The character knows the [[#Dancing Light]] or [[#Prestidigitation]] cantrip.
 
 ### Cloistered
 The character grows up in a closed community, possibly religious but not necessarily. It had limited contact with outsiders. The community has a society that represents it in the wider world.
@@ -169,10 +188,10 @@ The character was raised in harmony with nature within the woods.
 The character has [[#Expertise]] in bows.
 
 ### Nomadic
-The character was raised on the move.
+The character was raised on the move and is well versed in maintaining and managing [[#Beasts]]
 
 #### Beastmaster
-The character is adept in the ways of training [[#Beast|Beasts]] and commanding them. Training a [[#Beast]] take half as long and they have [[#Expertise]] in riding and maintaining them.
+The character is adept in the ways of training [[#Beast|Beasts]] and commanding them. Training a [[#Beast]] takes half as long and they have [[#Expertise]] in riding and maintaining [[#Beasts]].
 
 ### Outlands
 The character grew up in the wilds. 
@@ -181,14 +200,13 @@ The character grew up in the wilds.
 The character has [[#Expertise]] in living off the land and knowing the cycles of nature.
 
 ### Rural
-The character up grew in a rural environment. They are experienced in subsistence farming and all the tasks required to survive.
+The character grew up in a rural environment. They are experienced in subsistence farming and all the tasks required to survive.
 
 #### New to Town
 The character can find housing, food, and friendship in a rural setting in exchange for assistance on the unending tasks of a rural lifestyle.
 
-
 ### Urban
-The character grew up in an urban center and know how to live in one, find people, and find work.
+The character grew up in an urban center and knows how to live in one, find people, and find work.
 
 #### One of the crowd
 The character knows how to move through crowds adeptly and how to find hidden resources in an urban setting.
@@ -343,6 +361,7 @@ Soldiers are trained in both martial skills and to work together in combat. They
 * Rations, 5 days
 * Rope, 50ft
 * Tinderbox
+* Torches 5x
 * Waterskin
 * 20 Coin
 
@@ -360,23 +379,32 @@ Urchins automatically spot the ins and outs of any settlement, the blind spots, 
 ## Archetype
 The character Archetype is the primary source of Character [[#Features]]. As well they inform how the character will be optimally played.
 
-### Battle Rager
-Battle Ragers channel their primal rage into strength of arms. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Focus]], [[#Weapon]], and one additional [[#Skills|Skill]]. Battle Ragers have a base [[#HP]] of 12, and begin with a [[#Martial]] weapon and two [[#Thrown]] weapons.
+-   Berserker - Berserker channel their primal rage into strength of arms.   
+-   Dedicant - Dedicants are dedicated to an oath and through that oath they express their life.
+-   Druid - Druids are one with the Primal forces of the world.
+-   God Touched - God Touched are called by the divine to act in the world and channel their power. 
+-   Scout - Scouts are masters of the wilds.
+-   Rogue - Rogues are always watching for opportunities they can exploit.
+-   Warrior - Warriors specialize in violence.
+- Wizard - Wizards channel the arcane energies that flow through the world.
+
+### Berserker
+Berserkers channel their primal rage into strength of arms. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Focus]], [[#Weapon]], and one additional [[#Skills|Skill]]. Berserkers have a base [[#HP]] of 12, and begin with a [[#Martial]] weapon and two [[#Thrown]] weapons.
 
 #### Rage
-Battle Ragers can fly into a rage with [[#Swift Act]] by making an Easy ([[#Target Number]] 6) [[#Will]]+[[#Focus]] roll. If they took damage last round they have an Edge on the roll. When they rage, increase their [[#Burn]] by one. While in a Rage the Battle Rager adds their [[#Will]] to damage, has [[#Damage Resistance]], automatically succeeds on [[#Massive Damage]] rolls, and does not go [[#Unconscious]] when reduced to 0 [[#HP]] but are [[#Dying]].  The Rage lasts until they do not roll against an enemy by the end of their turn or  they decide to end it.
+Berserkers have a base [[#Burn]] of 6 and can fly into a rage with [[#Swift Act]] by making [[#Will]]+[[#Focus]] against their current [[#Burn]]. If they took damage last round they have an Edge on the roll. When they rage, increase their [[#Burn]] by one. While in a Rage the Berserker adds their [[#Will]] to damage, has [[#Damage Resistance]], automatically succeeds on [[#Massive Damage]] rolls, and does not go [[#Unconscious]] when reduced to 0 [[#HP]] but are [[#Dying]].  The Rage lasts until they do not roll against an enemy by the end of their turn or  they decide to end it.
 
 #### Fearsome
-With a [[#Swift Act]] the Battle Rager can [[#Intimidate]] someone within6 space [[#Range]] with a [[#Strength]]+[[#Social]] roll verses the target's [[#Mind]] defense to make them [[#Frightened]] until the end of their next turn.
+With a [[#Swift Act]] the Berserker can [[#Intimidate]] someone within a 6 space [[#Range]] with a [[#Strength]]+[[#Social]] roll verses the target's [[#Mind]] defense to make them [[#Frightened]] until the end of their next turn.
 
 ### Dedicant
-Dedicants are dedicated to an oath and through that oath they express their life. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Social]], [[#Weapon]], and one additional [[#Skill]]. Paladins have a base [[#HP]] of 10 and begin with a [[#Martial]] weapon and Chainmail.
+Dedicants are dedicated to an oath and through that oath they express their life. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Focus]], [[#Weapon]], and one additional [[#Skill]]. Dedicants have a base [[#HP]] of 10 and begin with a [[#Martial]] weapon and Chainmail.
+
+#### Rising Fervor
+The Dedicant gains Fervor each time the Dedicant deals damage.
 
 #### Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many Tier 1 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 6 that resets after a [[#Long Rest]].
-
-#### Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] against their [[#Burn]]. If it is successful, it deals an additional 2d8 damage and increases their [[#Burn]] by 2. 
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many Tier 1 spells as their [[#Will]]+[[#Proficiency Bonus]]. Their Fervor resets to 0 that resets after a [[#Short Rest]]. To cast a spell they need to spend the spell's Tier times 2 worth of Fervor.
 
 ### Druid
 Druids are one with nature. Their favored [[#Stats]] are [[#Will]] and [[#Wits]], they are proficient in [[#Primal]] [[#Enigmas]], [[#Knowledge]], [[#Focus]], and one additional [[#Skill]]. Druids have a base [[#HP]] of 8. Druids begin with a [[#Simple]] weapon, leather armor, and a druidic focus they created.
@@ -385,13 +413,13 @@ Druids are one with nature. Their favored [[#Stats]] are [[#Will]] and [[#Wits]]
 Spells are revealed to Druids through their connection with the [[#Primal]] forces of nature. Their  [[#Spellcasting Bonus]] is [[#Will]]+[[#Knowledge]] and use a Druid Focus or Apothecary Pouch as a [[#Spellcasting Focus]]. They know as many Tier 1 spells as their [[#Wits]]+[[#Knowledge]] and two [[#Cantrips]]. During a [[#Long Rest]] they can commune with nature and change the spells they know. They have a starting [[#Burn]] of 6 that resets after a Long Rest.
 
 #### Wild Shape
-A Druid can roll against their [[#Burn]] to polymorph into a Beast of Challenge up to 2, they gain the beast's [[#HP]] along with its Strength, Fortitude, and Dexterity bonuses. Their Defenses, Deflect and Soak are derived from these new bonuses. When the Wild Shaped Druid is reduced to 0 [[#HP]] they revert to their natural form and take any additional damage left over from the attack. Wildshaping increases their [[#Burn]] by 2.
+A Druid can roll against their [[#Burn]] to polymorph into a Beast of Challenge up to 2, they gain the beast's [[#HP]] along with its Strength, Fortitude, and Dexterity bonuses. Their Defenses, Deflect and Soak are derived from these new bonuses. When the Wild Shaped Druid is reduced to 0 [[#HP]] they revert to their natural form and take any additional damage left over from the attack. Wildshaping increases their [[#Burn]] by 2. The Druid can return to their normal form with a Swift Act.
 
 ### God Touched
 God Touched are called by the divine to act in the world and channel their power. Their favored [[#Stats]] are [[#Aptitude]] and [[#Will]], they are proficient in [[#Divine]] [[#Enigmas]], [[#Knowledge]], [[#Social]], and one additional [[#Skill]] . God Touched have a base [[#HP]] of 8. They begin with a [[#Simple]] weapon, Holy Symbol, and a Chain Shirt.
 
-#### Divine Conduit
-God Touched channel spells from a [[#Divine]] source. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Enigmas]], they use a holy symbol as a [[#Spellcasting Focus]], and do not need a free hand to cast spells. They pray every morning at dawn for spells and prepare as many Tier 1 spells as their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrips]]. They have a base [[#Burn]] of 6 that resets after a Long Rest.
+#### Divine Spark
+God Touched channel spells from a [[#Divine]] source. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Enigmas]], they use a holy symbol as a [[#Spellcasting Focus]], and do not need a free hand to cast spells. They pray every morning at dawn for spells and prepare as many Tier 1 spells as their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrips]]. They have a base [[#Burn]] of 6 that resets after a [[#Long Rest]].
 
 #### Domain
 God Touched also have spells granted to them by their divinity. Every divinity has one or more domains that they have dominion over. God Touched channel their power through one of their divinity's Domains. Depending on the Domain they always have certain spells prepared that don't count against their prepared spells.
@@ -408,18 +436,6 @@ God Touched also have spells granted to them by their divinity. Every divinity h
 ##### War
 - [[#Bond of Ward]]
 
-### Scout
-
-Scouts are masters of the wilds. Their favored [[#Stats]] are [[#Dexterity]] and [[#Wits]]. They are proficient in, [[#Senses]], [[#Stealth]], [[#Weapon]] and one other skill. Scouts have a base [[#HP]] of 10. They begin with a Scimitar, a Longbow with a quiver of 20 arrows or another Scimitar, and Leather Armor.
-
-#### Weapon Mastery
-A Scout chooses one weapon mastery
- - **Tight Quarters Archery** - the Scout doesn’t have disadvan [[#Tags|Tag]]e while using a ranged weapon in melee
-- **Two Weapon Master** - the Scout can use Finesse weapons to make an off-hand attack
-
-#### Wildswalker
-A Scout has [[#Expertise]] in tracking, hunting, navigating, and surviving in the wilds. They can move through [[#Difficult Terrain]] without a penalty to their speed. And they can move at full speed while hidden.
-
 ### Rogue
 Rogues are always watching for opportunities they can exploit. Their favored [[#Stats]] are [[#Dexterity]] and [[#Wits]]. They are proficient in [[#Athletics]], [[#Weapons]], [[#Social]], [[#Stealth]], and two other skills. Rogues have a base [[#HP]] of 8. Rogues begin with a Short Sword, a Dagger, and Leather Armor.
 
@@ -429,11 +445,22 @@ Rogues can make a [[#Dash]], [[#Hide]], or [[#Withdraw]] as a [[#Swift Act]].
 #### Sneak Attack 2d6
 Attacks that [[#Exploit]] a foe deal an additional 2d6 damage.
 
+### Scout
+
+Scouts are masters of the wilds. Their favored [[#Stats]] are [[#Dexterity]] and [[#Wits]]. They are proficient in, [[#Athletics]], [[#Senses]], [[#Weapon]] and one other skill. Scouts have a base [[#HP]] of 10. They begin with a Scimitar, a Longbow with a quiver of 20 arrows or another Scimitar, and Leather Armor.
+
+#### Foebinding
+As a [[#Swift Act]] a Scout can designate a foe. As long as they make no attacks against other foes or make responses to other foes, the next round they have an [[#Edge]] on weapon and [[#Senses]] rolls against that target and the target is [[#Exposed]] to the Scout.
+
+#### Wildswalker
+A Scout has [[#Expertise]] in tracking, hunting, navigating, and surviving in the wilds. They can move through [[#Difficult Terrain]] without a penalty to their speed. And they can move at full speed while hidden.
+
+
 ### Warrior
 Warriors specialize in violence. Their favored [[#Stats]] are [[#Strength]] and [[#Fortitude]]. They are proficient in [[#Athletics]], [[#Weapons]], and two additional [[#Skills]]. Warriors have a base [[#HP]] of 10 and begin with a [[#Martial]] weapon and a Chain Shirt.
 
-#### Battle Recovery
-As a [[#Swift Act]] Warriors roll their [[#Fortitude]]+[[#Focus]] and gain that many [[#Temporary [[#HP]]]]. They can do this once until they take a [[#Short Rest]].
+#### Battle Focus
+When a [[#Short Rest|Short]] or [[#Long Rest|Long]] Rest, Warriors gain 1d8 plus their [[#Fortitude]] worth of [[#Temporary HP]].
 
 #### Combat Maneuver
 When [[#Exploit|Exploiting]] a foe, the Warrior has an [[#Edge]] on their attack.
@@ -445,7 +472,7 @@ Warriors gain [[#Expertise]] in a specific weapon.
 Wizards are masters of the arcane. Their favored stats are [[#Aptitude]] and [[#Will]]. They are proficient in [[#Arcane]] [[#Enigmas]], [[#Focus]], [[#Knowledge]], and one additional skill. Wizards have a base [[#HP]] of 6. Wizards begin with a weapon with the [[#Simple]] [[#Tags|Tag]], and an arcane focus or spell component pouch.
 
 #### Arcane Initiate
-Wizards channel the arcane energies that flow through the world. They [[#Spellcasting Bonus]] is their [[#Aptitude]]+[[#Enigmas]] and they use an Arcane Focus or Spell Component Pouch as their [[#Spellcasting Focus]]. After each [[#Long Rest]] they decide what spells to prepare for the following day, up to their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrip|Cantrips]]. Wearing armor casting causes [[#Hindrance]] on [[#Enigma]] rolls. They have a starting [[#Burn]] of 6 that resets after a Long Rest.
+Wizards channel the arcane energies that flow through the world. Their [[#Spellcasting Bonus]] is their [[#Aptitude]]+[[#Enigmas]] and they use an Arcane Focus or Spell Component Pouch as their [[#Spellcasting Focus]]. After each [[#Long Rest]] they decide what spells to prepare for the following day, up to their [[#Aptitude]]+[[#Knowledge]] bonus and two [[#Cantrip|Cantrips]]. Wearing armor casting causes [[#Hindrance]] on [[#Enigma]] rolls. They have a starting [[#Burn]] of 6 that resets after a Long Rest.
 
 #### Ritual Cast
 The wizard can cast any spell from their spellbook as a [[#Ritual]].
@@ -462,7 +489,7 @@ The Wizard records all the spells they know in their Spellbook.  They start with
 
 
 ## Stats
-When creating a character distribute the following array +2, +2, +1, +1, 0, - 1 to each stat. Once you have assigned the Stats increase one by +1.
+When creating a character, distribute the following array +2, +2, +1, +1, 0, -1 to each stat. Once you have assigned the Stats increase one by +1.
 
 ### Strength
 This is the measure of brute strength that a creature has. It is used for striking, lifting, jumping, and other feats of physical exertion. If a character makes an unarmed strike they do damage equal to their Strength bonus dealing a minimum of 1 damage.
@@ -548,7 +575,7 @@ This is a creature's prowess with weapons. If a weapon has multiple [[#Tags|Tags
 * Weapons with the emplaced [[#Tags|Tag]], roll [[#Wits]]+[[#Weapons]]
 
 ## Expertise
-Expertises are additional training that your character has received. They are not tied to a specific [[#Skills|Skill]] or [[#Stats|Stat]]. You can apply an Expertise to rolls when they apply, adding the creature's proficiency to the roll. You can only add once Expertise to any one roll. The creature do not need to be proficient in a skill to use a Expertise.
+Expertises are additional training that your character has received. They are not tied to a specific [[#Skills|Skill]] or [[#Stats|Stat]]. You can apply an Expertise to rolls when they apply, adding the +2 to the roll. You can only add once Expertise to any one roll. The creature do not need to be proficient in a skill to use a Expertise.
 
 - **Animal Handling** - Controlling and training animals.
 - **Arcana** - Education in the arcane. Including knowledge of Monstrosities, Elementals, and Outsiders.
@@ -566,20 +593,21 @@ Expertises are additional training that your character has received. They are no
 ### Creating Expertises
 Expertises are short descriptions of a realm of experience. They should not be too specific, but not as broad as the Expertises gained from [[#Culture]] or [[#Background]] or [[#Archetype]].
 
-## Defenses
-There are three Defenses, each derived from a total of two [[#Stats]].
+## Derived Stats
 
-### Body
+### Defenses
+There are Four Defenses, each derived from a total of two [[#Stats]].
+
+#### Body
 [[#Strength]] and [[#Fortitude]] combine to make up a creature's Body defense. This is used to resist poison, [[#Massive Damage]], and other attacks on the creature's health.
 
-### React
+#### React
 [[#Dexterity]] and [[#Wits]] combine to make up a creature's React defense. This is used to avoid attacks or other hazards.
 
-### Mind
+#### Mind
 [[#Aptitude]] and [[#Will]] combine to make up a creature's Mind defense. This is used to resist attempts to bend their will, confuse them, or otherwise attack the creatures psyche.
 
-## Derived Stats
-### Deflect
+#### Deflect
 A character's Deflect is their [[#React]] defense plus any [[#Deflection]] modifier provided by the armor or shield they are wearing.
 
 ### Soak
@@ -644,11 +672,11 @@ Weapons are items that are used to make weapon attacks. Unless otherwise specifi
 | Flail | 1d8 | [[#Blunt]], [[#Martial]], [[#Disarming]] | 200 |
 | Greatclub | 1d8 | [[#Blunt]], [[#Heavy]], [[#Simple]], [[#Slam]] | 75 |
 | Glaive | 1d8 | [[#Bladed]], [[#Finesse]], [[#Two-Handed]], [[#Martial]], [[#Reach]] | 100 |
-| Greataxe | 1d8 | [[#Bladed]], [[#Martial]], [[#Versatile]] 1d10 | 400 |
+| Greataxe | 1d8 | [[#Bladed]], [[#Martial]], [[#Heavy]] | 400 |
 | Greatsword | 1d10 | [[#Bladed]], [[#Martial]], [[#Heavy]], [[#Two-Handed]] | 500 |
 | Handaxe | 1d6 | [[#Bladed]], [[#Fine]], [[#Simple]], [[#Thrown]]4 spaces | 40 |
 | Hand crossbow | 1d6 | [[#Ammunition]], [[#Piercing]], [[#Mechanical]], [[#Martial]], [[#Ranged]] 6 spaces | 100 |
-| Halberd | 1d10 | [[#Bladed]], [[#Two-Handed]], [[#Heavy]], [[#Martial]], [[#Reach]] | 150 |
+| Halberd | 1d10 | [[#Bladed]], [[#Two-Handed]], [[#Heavy]], [[#Martial]], [[#Reach]] 2 spaces | 150 |
 | Javelin | 1d6 | [[#Piercing]], [[#Simple]], [[#Thrown]] 12 spaces | 40 |
 | Lance | 1d8 | [[#Piercing]], [[#Heavy]], [[#Martial]], [[#Mounted]], [[#Charging]] 1d8 | 100 |
 | Long bow | 1d10 | [[#Ammunition]], Piecing, [[#Heavy]], [[#Martial]], [[#Two-Handed]], [[#Ranged]] 24 spaces | 200 |
@@ -656,7 +684,7 @@ Weapons are items that are used to make weapon attacks. Unless otherwise specifi
 | Mace | 1d6 | [[#Blunt]], [[#Simple]] | 100 |
 | Maul | 1d10 | [[#Blunt]], [[#Heavy]], [[#Martial]], [[#Slam]], [[#Two-Handed]] | 200 |  
 | Morningstar | 1d6 | [[#Piercing]], [[#Martial]] | 200 |
-| Pike | 1d8 | [[#Charging]] 1d8 [[#Piercing]], [[#Two-Handed]], [[#Reach]] | 100 |
+| Pike | 1d8 | [[#Charging]] 1d10 [[#Piercing]], [[#Two-Handed]], [[#Reach]] 2 spaces | 100 |
 | Quarterstaff | 1d6 | [[#Blunt]], [[#Versatile]] 1d8 | 20 |
 | Rapier | 1d6 | [[#Piercing]], [[#Finesse]], [[#Martial]] | 400 |
 | Scimitar | 1d6 | [[#Finesse]], [[#Bladed]], [[#Martial]] | 300 |
@@ -665,10 +693,10 @@ Weapons are items that are used to make weapon attacks. Unless otherwise specifi
 | Spear | 1d6 | [[#Piercing]], [[#Simple]], [[#Thrown]] 6 spaces, [[#Versatile]] 1d8 | 40 |
 | Shortbow | 1d8 | [[#Ammunition]], [[#Piercing]], [[#Martial]], [[#Mounted]], [[#Ranged]] 16 spaces | 175 |
 | Shortsword | 1d6 | [[#Finesse]], [[#Piercing]], [[#Martial]] | 200 |
-| Trident | 1d6 | [[#Piercing]], [[#Thrown]] 6 spaces, [[#Versatile]] 1d8 | 80 |
-| War pick |1d8 | [[#Piercing]] | 150 |
+| Trident | 1d6 | [[#Disarming]], [[#Piercing]], [[#Thrown]] 6 spaces, [[#Versatile]] 1d8 | 80 |
+| War pick |1d8 | [[#Martial]], [[#Piercing]] | 150 |
 | War hammer | 1d8 | [[#Blunt]] , [[#Slam]] | 150 |
-| Whip | 1d4 | [[#Bladed]], [[#Reach]], [[#Disarming]] | 50 |
+| Whip | 1d4 | [[#Bladed]], [[#Reach]] 3 spaces, [[#Disarming]] | 50 |
 
 ###  Tags
 Tags are aspects of the weapon that detail its use, grant [[#Features]], or otherwise effect how they are used.
@@ -676,7 +704,7 @@ Tags are aspects of the weapon that detail its use, grant [[#Features]], or othe
 Weapon uses ammunition that is tracked separately and may replace the damage dealt by the weapon. Ammunition breaks on misses and cannot be recovered.
 
 #### Bladed
-Deals damage by cutting a target.
+Deals damage by cutting a target. If the attack [[#Exploit|Exploits]] a target, the target gains the [[#Bleeding]] condition
 
 #### Blunt
 Blunt weapons rely on impact to do damage. The wielder may choose to do non-lethal damage when they hit. If the attack would drop the target to 0 [[#HP]] or below, they have 1 [[#HP]] and are [[#Unconscious]]. 
@@ -697,10 +725,10 @@ Can be used to attack as a [[#Swift Act]] in the off-hand.
 Can use [[#Dexterity]] instead of [[#Strength]] when making a weapon attack.
 
 #### Heavy
-Requires a [[#Strength]] modifier of +2, +3 for creatures with small stature. Otherwise, the wielder have [[#Hindrance]] on attack rolls.
+Requires a [[#Strength]] modifier of +2, +3 for creatures with small stature. Otherwise, the wielder has a [[#Hindrance]] on attack rolls.
 
 #### Heavy armor
-Requires a Strength of +3 to wear. Otherwise the wearer has a [[#Hindrance]] on attack, [[#Deflect]], and [[#React]] rolls.
+Requires a Strength of +3 to wear. Otherwise the wearer has a [[#Hindrance]] on attack rolls.
 
 #### Light armor
 Simple armor with no requirements.
@@ -721,7 +749,7 @@ Can be used when mounted even if other [[#Tags]] would prevent it.
 The wearer has a [[#Hindrance]] on [[#Stealth]] rolls while wearing it.
 
 #### Piercing
-Deals damage by piercing the target.
+Deals damage by piercing the target.  If the attack [[#Exploit|Exploits]] a target, add your proficiency modifier to damage.
 
 #### Ranged
 Can be fired at a single target up to the listed distance or beyond the listed distance up to three times the listed distance with a [[#Hindrance]].  Uses [[#Dexterity]] for rolls and bonus damage. If the attacker is adjacent to an enemy they have a [[#Hindrance]].
@@ -736,7 +764,7 @@ Does not require proficiency in [[#Weapon]] to use without [[#Hindrance]].
 Can be used in an [[#Offhand Attack]] to deal 1d4 damage.
 
 #### Slam
-If the target is [[#Expose|Exposed]], on a hit the attacker can choose to push them 2 spaces away.
+f the attack Exploits a target, the wielder can choose to push the target 2 spaces.
 
 #### Thrown
 Can make a [[#Ranged Attack]] against a target within the listed distance or a [[#Melee Attack]] using [[#Strength]]+[[#Weapons]] roll. Can be thrown at a target up to three times the listed distance with [[#Hindrance]]. When attacking foes within reach, the attack defaults to a melee attack.
@@ -798,14 +826,14 @@ Training a pet for combat takes time. If purchasing one multiply the cost of the
 # Running the Game
 
 ## When to Roll
-The [[#Game Master]] should only call for rolls if the outcome of the roll will push the story forward or create an opportunity for additional roleplay. Keep in mind the characters’ [[#Automatic Success]] at [[#Simple]] and [[#Easy]] tasks. When a player comes up with a clever solution that would be easy to pull off, or argue their point with eloquence, the [[#Game Master]] can declare they succeed without a roll. If the Game Master doesn’t think their idea rises to the level an [[#Automatic Success]], they should earn a [[#Bennie]] from the effort.
+The [[#Game Master]] should only call for a roll if the outcome of the roll would push the story forward or create an opportunity for additional roleplay. Keep in mind the characters’ [[#Automatic Success]] at [[#Simple]] and [[#Easy]] tasks depending on their [[#Skills]] and [[#Expertise|Expertises]]. When a player comes up with a clever solution that would be easy to pull off, or argue their point with eloquence, the [[#Game Master]] can declare they succeed without a roll. If the Game Master doesn’t think their idea rises to the level an [[#Automatic Success]], they should earn a [[#Bennie]] for the effort.
 
-When calling for a roll the Game Master should explain the consequences of a success on the roll, what failure will cause, and potential [[#Complication]]s. The [[#Perk]] of a roll can be held back as a surprise for the players.
+When calling for a roll the Game Master should explain the consequences of a success on the roll, the consequences of a failure, and potential [[#Complication|Complications]]. The potential [[#Perk]] can be held back as a surprise for the players.
 
 Players will often offer to roll to achieve a task. Before they do, the Game Master should ask what they are trying to achieve before the player rolls. The Game Master needs to know what the desired result is before they can determine the [[#Difficulty]] of the action and what the appropriate [[#Complication]] and [[#Perk]] is before the roll. Also, the [[#Player]] may have one idea of what they can achieve that contradicts what the [[#Game Master]] thinks. It is best to resolve that ambiguity before the roll is made.
 
 ### Difficulty
-Once you decide a roll is necessary you need to set the difficulty. The difficulty should be tailored to the task at hand, not the Tier of the characters. While higher Tier characters will have increased bonuses from [[#Skills]] and [[#Expertise|Expertises]] the difficulty should stay the same based on the challenge of the task regardless of Tier. However, the difficulty should not change based on the potential consequences of a roll. Just because jumping over a fissure is Easy, but depending on the depth the consequences of failure can still be dire.
+Once you decide a roll is necessary you need to set the difficulty. The difficulty should be tailored to the task at hand, not the Tier of the characters. While higher Tier characters will have increased bonuses from [[#Skills]] and [[#Expertise|Expertises]] the difficulty should stay the same based on the challenge of the task regardless of Tier. However, the difficulty should not change based on the potential consequences of a roll. Jumping over a small fissure may be [[#Easy]], but depending on the depth the consequences for failure can be dire. 
 
 | Difficulty | [[#Target Number]] | [[#Difficulty Modifier]] |
 |:--:|:--:|:--:|
@@ -817,138 +845,143 @@ Once you decide a roll is necessary you need to set the difficulty. The difficul
 | Impossible | 24 | +16 |
 
 #### Simple
-Anyone with a passing familiarity with the task can achieve it. The [[#Target Number]] is 4, and the [[#Difficulty Modifier]] is -2.
+Anyone with a passing familiarity with the task can achieve it. The [[#Target Number]] is 4.
 
 #### Easy
-Anyone trained in the task can successfully achieve it. The [[#Target Number]] is 4, and the [[#Difficulty Modifier]] is +0.
+Anyone trained in the task can successfully achieve it. The [[#Target Number]] is 4.
 
 #### Moderate
-This takes some effort to achieve, but can be achieved with time and focus. The [[#Target Number]] is 10, and the [[#Difficulty Modifier]] is +4.
+This takes some effort to achieve, but can be achieved with time and focus.
 
 #### Hard
-Even with time and focus it requires a steady hand, extensive training, or luck. The [[#Target Number]] is 14, and the [[#Difficulty Modifier]] is +8.
+Even with time and focus it requires a steady hand, extensive training, or luck.
 
 #### Improbable
-Only those with mastery of a task can push themselves this far to hope to achieve this level of outcome. The [[#Target Number]] is 18, and the [[#Difficulty Modifier]] is +12.
+Only those with mastery of a task can push themselves this far to hope to achieve this level of outcome. The [[#Target Number]] is 18.
 
 #### Impossible
-This is the realm of gods and immortals. Only the highest tier characters can hope to succeed at these tasks. The [[#Target Number]] is 24, and the [[#Difficulty Modifier]] is +16.
-
-### Difficulty Modifier
-Sometimes the Target Number is already set and how the players want to approach the problem changes the difficulty. For example, they want to convince an NPC to help them. That would be an Easy [[#Will]]+[[#Social]] roll against the target’s [[#Mind]] defense, except as part of their request they have insulted something the NPC holds dear and now the NPC dislikes them. Now the task has become [[#Moderate]], so the [[#Game Master]] adds a +4 to the [[#Target Number]]. Or the characters included a bribe in their request, now the request becomes [[#Simple]] changing the [[#Target Number]] by -2.
-
-### Perk
-Perks are additional benefits beyond succeeding at a task. This could be revealing a new resource, providing a new opportunity or other thing that will not just progress the story but allow the character to leap forward.
-
-### Complication
-Complications are new problems that arise when a character attempts a task. They could be a change to the scene, the addition of a new foe, a change in the tenor of an interaction, or other new problems for the players to solve.
+This is the realm of gods and immortals. Only the highest tier characters can hope to succeed at these tasks. The [[#Target Number]] is 24.
 
 ### Complex Roll
-Some tasks are not achievable by a single character using a single Stat+Skill check. In this case, the Game Master decides on three Stat+Skill rolls necessary to complete the task. Some of the available Stat+Skill rolls may have alternative rolls the player can make. And the players can always suggest adding an [[#Expertise]] that might apply, but it is up to the Game Master to allow it. Three different characters need to complete each of the three checks. Depending on how many checks succeed, determines if the overall task succeeds or fails, in addition to what s [[#Perks]] or [[#Complications]] there may be.
+Some tasks are not achievable by a single character using a single [[#Stat]]+[[#Skill]] roll. In this case, the Game Master decides on three [[#Stat]]+[[#Skill]] rolls necessary to complete the task, and askes they players to decide which characters will make the roll. Some of the available [[#Stat]]+[[#Skill]] rolls may have alternative rolls the player can make. And the players can always suggest adding an [[#Expertise]] that might apply, but it is up to the Game Master to allow it. Three different characters need to complete each of the three checks. The number of checks that succeed determines if the overall task succeeds or fails, as well as whether [[#Perk|Perks]] or [[#Complication|Complications]] applies.
 
-- **Three Successes** - succeed with a Perk.
-- **Two Successes** - succeed in the task.
-- **One Success** - success with a [[#Complication]]
-- **No Successes** - failing with a [[#Complication]] the task
+- **Three Successes** - succeeds with a [[#Perk]].
+- **Two Successes** - succeed the task.
+- **One Success** - succeeds the task with a [[#Complication]]
+- **No Successes** - fails the task with a [[#Complication]]
 
-A single character can make more than one roll, but they gain a [[#Hindrance]] for every roll beyond the 1st. A character can assist another character who is rolling, granting the rolling character an [[#Edge]] on their roll.
+Usually, each roll is attempted by a different character. A single character can attempt more than one roll, but they gain a [[#Hindrance]] with every roll beyond the first. A character can assist another character who is rolling, granting the rolling character an [[#Edge]] on their roll.
 
-Some examples of complex tasks are:
+Some examples of Complex Rolls are:
 
 #### Escaping through a crowd
-The party can disappear into a crowd with a Complex Roll of spotting pursuers and openings with a [[#Wits]]+[[#Senses]] roll, lead the group from cover to cover with a [[#Dexterity]]+[[#Stealth]] roll or maneuver the crowd between the party and the pursuers with a [[#Dexterity]]+[[#Social]] roll, and to move quickly with a [[#Strength]]+[[#Athletics]] roll or move nimbly with a [[#Dexterity]]+[[#Athletics]] roll against the [[#React]] defense of their pursuers to shake them. As a [[#Perk]] the party can maneuver their pursuers to the place of their choosing. As a [[#Complication]], they run into a different group of enemies. On failure the party is tracked by their enemy.
+The party can disappear into a crowd with a Complex Roll of spotting pursuers and openings with a [[#Wits]]+[[#Senses]] roll; leading the group from cover to cover with a [[#Dexterity]]+[[#Stealth]] roll or maneuver the crowd between the party and the pursuers with a [[#Dexterity]]+[[#Social]] roll; and moving quickly with a [[#Strength]]+[[#Athletics]] roll or moving nimbly with a [[#Dexterity]]+[[#Athletics]] roll against the [[#React]] defense of their pursuers to shake them. As a [[#Perk]] the party can maneuver their pursuers to the place of their choosing. As a [[#Complication]], they run into a different group of enemies. On failure the party is tracked by their enemy.
 
 #### Runaway carriage
-The party can stop a runaway carriage with a [[#Moderate]] Complex Roll of taking control of the reins with a [[#Strength]]+[[#Athletics]] or recover the fallen reins [[#Dexterity]]+[[#Athletics]], maneuver the vehicle [[#Wits]]+[[#Pilot]], control the animals with a [[#Will]]+[[#Social]] with a [[#Target Number]] of 10. As [[#Perk]] they bring the carriage under control without stopping. As a [[#Complication]], one of the characters is thrown from the carriage taking 3d6 damage. On failure the beasts don't stop until the carriage breaks and all the passengers take 3d6 damage.
+The party can stop a runaway carriage with a [[#Moderate]] Complex Roll of taking control of the reins with a [[#Strength]]+[[#Athletics]] or recovering the fallen reins [[#Dexterity]]+[[#Athletics]]; maneuvering the vehicle [[#Wits]]+[[#Pilot]]; and controlling the animals with a [[#Will]]+[[#Social]] with a [[#Target Number]] of 10. As [[#Perk]] they bring the carriage under control without stopping. As a [[#Complication]], one of the passengers is thrown from the carriage taking 3d6 damage. On failure the beasts don't stop until the carriage breaks and all the passengers take 3d6 damage.
 
 #### Tracking a creature. 
-The party can track a creature through the wilds with a shared challenge of reading trail signs of the target's passing with a [[#Wits]]+[[#Knowledge]], spot trail signs and movement in the brush with a [[#Wits]]+[[#Senses]], and move on the target without giving their position away with a [[#Dexterity]]+[[#Stealth]] or rushing to overtake them with a [[#Strength]]+[[#Athletics]] against a [[#Target Number]] of [[#Moderate]] [[#Target Number]], unless the target is moving stealthily then it is 6 + the creature's [[#Wits]]+[[#Stealth]], whichever is higher. As a [[#Perk]] they are able to catch the creature totally unaware. As a[[#Complication]], the target has lured the party into an ambush. On a failure the target slips their grasp and as a [[#Complication]] a hostile creature is stalking the party.
+The party can track a creature through the wilds with a shared challenge of reading trail signs of the target's passing with a [[#Wits]]+[[#Knowledge]]; spotting trail signs and movement in the brush with a [[#Wits]]+[[#Senses]]; and either sneaking on the target without giving their position away with a [[#Dexterity]]+[[#Stealth]] or rushing to overtake them with a [[#Strength]]+[[#Athletics]] against a [[#Target Number]] of [[#Moderate]] [[#Target Number]], unless the target is moving stealthily then it is 6 + the creature's [[#Wits]]+[[#Stealth]], whichever is higher. As a [[#Perk]] they are able to catch the creature totally unaware. As a[[#Complication]], the target has lured the party into an ambush. On a failure the target slips their grasp and as a [[#Complication]] a hostile creature is stalking the party.
 
 ## Combat
 
 ### Initiative
-When combat initiates the GM rolls the [[#d20]]. If the roll is 10 or higher the characters take their [[#Turn]] first. If it is less than 10, the enemy takes their [[#Turn]] first. Once both sides have taken their [[#Turn|Turns]] the [[#Lair Acts]] and [[#Environmental Events]] happen.
+When combat initiates the GM rolls the [[#d20]]. If the roll is 10 or higher the characters take their [[#Turn]] first. If it is less than 10, the enemy takes their [[#Turn]] first. Once both sides have taken their [[#Turn|Turns]] the [[#Lair Acts]] and [[#Environmental Events]], if any, happen.
 
 ### Turn
-During their side’s turn each creature can move, make one [[#Act]], make one [[#Swift Act]], and make one [[#Minor Action]]. They can take them at any time during their side’s turn in any order. Players are encouraged to coordinate their actions. They are playing professional combatants and can behave accordingly.
+During their side’s turn each creature can move, make one [[#Act]], make one [[#Swift Act]], and make one [[#Minor Action]]. They can take them at any time during their side’s turn in any order, and break up their movement between actions. Players are encouraged to coordinate their actions. They are playing professional combatants and can behave accordingly.
 
 ### Round
 Once each side has taken a turn, any [[#Lair Acts]] or [[#Environmental Effects]] happen at this time. The total time elapsed is 6 seconds per round.
 
 ### Spaces
-Spaces are an abstraction of space for the creatures to move through. This assumes that play takes place on a battle map with a grid of some sort. If you are not using a battle mat see [[#Theater of the Mind]] on how to work with spaces. They are either 1 space or 2 meters depending on your Game Master’s preference. [[#Tiny]] creatures exist in a space, but do not take up a space. [[#Small]] and [[#Medium]] creatures take up a single Space. This both includes the area they fill but also the area needed to [[#Act]] freely. [[#Large]] creatures take up a two-by-two square of spaces. [[#Huge]] creatures take up a three-by-three square of spaces. [[#Gargantuan]] take up more spaces than can easily be represented on a battlefield. They are treated as an aspect of the terrain and are immune to being moved against their will.
+Spaces are an abstraction of space for the creatures to move through. This assumes that play takes place on a battle map with a grid of some sort. If you are not using a battle mat see [[#Theater of the Mind]] on how to work with spaces. They are either 5ft space or 2 meters depending on your Game Master’s preference. [[#Tiny]] creatures exist in a space, but do not take up a space. [[#Small]] and [[#Medium]] creatures take up a single Space. This both includes the area they fill but also the area needed to take actions without interference. [[#Large]] creatures take up a two-by-two square of spaces. [[#Huge]] creatures take up a three-by-three square of spaces. [[#Colossal]] creatures take up more spaces than can easily be represented on a battlefield. They are treated as an aspect of the terrain and are immune to being moved against their will.
 
-### Move Through
-A creature can move through an allied creature's space. When moving through an enemy’s space, the area is considered Difficult Terrain. If a creature ends their turn within another creature's space they are [[#Sharing a Space]] if they are allied, and [[#Squeeze]] if they are enemies.
-
-### Share a Space
-Two allied creatures can share the same space. While they are in the same space both creatures have a [[#Hindrance]] on [[#Athletics]], [[#Enigma]], and [[#Weapon]] rolls. As well, both creatures have a [[#Hindrance]] on [[#React]] and [[#Deflect]] defenses. Both creatures are [[#Expose|Exposed]].
-
-### Squeeze
-To opposing creatures can squeeze into a space. While they share a space they both have a [[#Hindrance]] on [[#Athletics]], [[#Enigma]], and [[#Weapon]] rolls, except for Weapon rolls with weapons with the [[#Fine]] [[#Tags|Tag]]. As well, both creatures have a [[#Hindrance]] on [[#React]] and [[#Deflect]] defenses. Both creatures are [[#Expose|Exposed]].
+### Sharing a Space
+Two creatures can share the same space. While they are in the same space both creatures have a [[#Hindrance]] on [[#Athletics]], [[#Enigma]], and [[#Weapon]] rolls. As well, both creatures have a [[#Hindrance]] on [[#React]] and [[#Deflect]] defenses. Both creatures are [[#Expose|Exposed]].
 
 ### Adjacent
-Creatures who's occupied space touches another creature’s occupied space are considered Adjacent.
+Creatures whose occupied space touches another creature’s occupied space are considered Adjacent.
 
 ### Threatened Spaces
-The spaces that a creature can reach with a wielded weapon are considered threatened. Moving out of a threatened space will provoke a Movement Response unless the creature makes an Evade Act.
+A creature threatens spaces with their melee weapon. Each melee weapon can threaten adjacent spaces. If the weapon has the [[#Reach]] [[#Tags|Tag]] it also threatens spaces listed with the [[#Tags|Tag]]. Moving out of a threatened space will provoke a [[#Movement Response]] unless the creature makes an [[#Evade|Evades]].
 
 ### Expose
 Exposing a target makes them vulnerable to attacks that [[#Exploit]]. Some conditions Expose a creature to specific attackers. 
 
 #### Flanking
-When allied creatures are opposite of each other with the target in the middle, the target is exposed to their flanking attackers.
+When allied creatures are opposite of each other with the target in the middle, the target is Exposed to their flanking attackers.
 
 ### Exploit
-Some abilities require a target to be exposed to exploit. 
+Some [[#Features]] require a target to be exposed to exploit. An attack cannot expose and exploit in the same [[#Act]].
+
+### Forced Movement
+A creature can be forced to move by a controlling creature. Forced movement can trigger a [[#Movement Response]]. Moving over [[#Difficult Terrain]] requires spending two spaces of movement for each space moved as normal. When moving through [[#Hazardous Terrain]] the moved creature is affected as if they moved themselves.
+
+#### Push
+When pushing a target they can only be pushed directly away from the controlling creature.
+
+#### Pull
+When pulling a target they move in the shortest path towards the controlling creature.
+
+#### Shift
+When shifting a target the controlling creature can move them in any direction.
+
 
 ### Actions in combat
 #### Act
 Acts are the primary actions made in combat. They do the most, hit the hardest, or have the most spectacular effects.
 
 ##### Attack
-A [[#Character]] makes a [[#Weapons]]+[[#Stats|Stat]] (as appropriate for that weapon) roll against a target's [[#React]] defense. If the [[#Character]] succeeds, the attack connects and it deals damage according to the weapon's [[#Tags]]. Some weapon [[#Tags]] provide [[#Features]] that can be used instead of making an attack. Using those [[#Features]] is treated like an attack.
+A [[#Character]] makes a [[#Weapons]]+[[#Stats|Stat]] (as appropriate for that weapon) roll against a target's [[#Deflect]] defense. If the [[#Character]] succeeds, the attack connects and it deals damage according to the weapon's [[#Tags]]. Some weapon [[#Tags]] provide [[#Features]] that can be used instead of making an attack. Using those [[#Features]] is treated like an attack.
 
-A [[#NPC]] declares their intent to attack a [[#Character]] and the [[#Character]] makes a [[#React]] defense against the attack's [[#Target Number]]. If the [[#Character]] succeeds the attack misses.  
+A [[#NPC]] declares their intent to attack a [[#Character]] and the [[#Character]] makes a [[#React]] defense against  the to the attack's [[#Target Number]]. If the [[#Character]] succeeds the attack misses.  
 
 ##### Cast a spell
-To cast a spell the Player rolls [[#Spellcasting Roll]] against the target's defense listed in the spell. If a creature casts a spell of Tier 1 or higher they can no longer cast a spell as a [[#Swift Act]].
+To cast a spell the Player rolls [[#Spellcasting Roll]] against the their current [[#Burn]] and if successful, the roll is compared to target's defense listed in the spell.
 
 ##### Dash
-The creature can move up to their speed.
+Without a roll, a creature can move up to their speed, in addition to their normal movement.
 
 ##### Dodge
-The creature have an [[#Edge]] on all [[#React]] rolls until their next turn.
+Without a roll, a creature has an [[#Edge]] on all [[#React]] and [[#Deflect]] rolls until the beginning of their next turn.
 
 ##### Grab
-The creature makes a [[#Strength]]+[[#Athletics]] roll against the target's [[#React]] to give the target creature the [[#Grappled]] condition. As an [[#Act]], grappled creature can roll their [[#Strength]]+[[#Athletics]] or [[#Strength]]+[[#Dexterity]] against the grabbing creature's [[#Strength]]+[[#Athletics]] to escape the grab. While holding a grappled enemy the grabbing creature can move at half the creature's speed.
+In order to Grab, the creature makes a [[#Strength]]+[[#Athletics]] roll against the target's [[#React]] to give the target creature the [[#Grabbed]] condition. While grabbing a target the grabbing creature can move half their speed, taking the grabbed creature along with them.
+
+As an [[#Act]], a [[#Grabbed]] grappled creature can roll their [[#Strength]]+[[#Athletics]] or [[#Dexterity]]+[[#Athletics]] against the grabbing creature's [[#Strength]]+[[#Athletics]] to escape the grab.
 
 ##### Help
-While adjacent to a foe threatened by an ally, a creature can help that ally hit easier. The enemy is [[#Expose|Exposed]] until the beginning of the helper's next turn.
+Without a roll, while threatening a foe, a creature can help an ally hit easier. The enemy is [[#Expose|Exposed]] until the beginning of the helper's next turn.
 
 ##### Hide
-While in full cover  a creature makes a [[#Wits]]+[[#Stealth]] check against the enemy creatures that cannot see the creature, then moves at least half of their movement they become [[#Hidden]]. Their position won't be noticed until the enemy creature makes the [[#Swift Act]] [[#Scan the Battlefield]] or the hidden creature deals damage, casts a spell, or otherwise calls attention to themselves.
+A character can attempt to become hidden by making a Wits+Stealth check while in Full Cover from their potential observers. The Gamemaster compares the result against the Mind defense of any actual observers. If the character is successful, the observers lose track of the character’s position. If the hidden character deals damage, casts a spell, or otherwise calls attention to themselves, they will be revealed. Their position won't be noticed until the enemy creature makes a [[#Swift Act]] to [[#Scan the Battlefield]] or the hidden creature deals damage, casts a spell, or otherwise calls attention to themselves.
 
 ##### Shove
-A creature makes a [[#Strength]]+[[#Athletics]] against the [[#Body]] of a target no more than one size category larger to push the target 2 spaces and knock them prone.
+A creature can Shove another creature if they're [[#Adjacent]] or [[#Sharing a Space]]. A creature makes a [[#Strength]]+[[#Athletics]] against the [[#Body]] of a target no more than one size category larger to push the target up to 2 spaces away and knock them prone.
 
 ##### Evade
-The creature doesn't provoke [[#Movement Response]] when moving through spaces.
+Without a roll, a creature doesn't provoke [[#Movement Response]] when moving through spaces.
 
 #### Swift Act
-Swift Acts are actions that follow the main action. They could be offhand attacks, abilities, or other actions that don't rise to a full [[#Act]].
+Swift Acts are actions that can become swiftly. They could be offhand attacks, abilities, or other actions that don't rise to a full [[#Act]].
 
 ##### Offhand Attack
-If a creature has a weapon with the [[#Fine]] [[#Features|Feature]] it can be used to make an Offhand Attack.
+A weapon with the [[#Fine]] [[#Tags|Tag]] it can be used to make an Offhand Attack.
 
 ##### Cast a Spell
-If a creature casts a spell with a [[#Swift Act]] casting time, they cannot cast another spell this round, other than a [[#Cantrip]].
+Some spells can be cast as a [[#Swift Act]]. This restricts the complexity of magic they can cast in the same turn. If a creature casts a spell with a [[#Swift Act]] casting time, they cannot cast another spell this turn of Tier 1 or highter. Similarly a creature cannot cast a spell as a Swift Act if they already cast a spell of Tier 1 or higher this turn.
 
 ##### Commanding a Pet or Mount
-Without a command a pet or mount will attempt to preserve its life by [[#Dodge|Dodging]] and staying in place if not threatened, or [[#Evade|Evading]] and moving out of combat if they are. If commanded, they will either stay put and [[#Dodge]] or move where commanded while [[#Evade|Evading]]. If the mount or pet is battle-trained you can additionally order your pet to attack a designated foe.
+A creature can command a pet or mount to move, and also [[#Dodge]] or [[#Evade]] as part of the same [[#Swift Act]]. If the pet or mount is battle-trained, it may be commanded to [[#Attack]] instead of [[#Dodge]] or [[#Evade]].
+
+Without a command a pet or mount will attempt to preserve its life by [[#Dodge|Dodging]] and staying in place if not threatened, or [[#Evade|Evading]] and moving out of combat if they are. If commanded, they will either stay put and [[#Dodge]] or move where commanded while [[#Evade|Evading]].
 
 ##### Scan the Battlefield
 A creature makes a [[#Wits]]+[[#Senses]] roll to reveal hidden enemies, [[#Scene Features]] they can take advantage of, or [[#Environmental Events]] that are poised to occur granting the an [[#Edge]] on resisting them.
+
+#### Minor Act
+Minor Acts are saying a few words, interacting with an object, drawing a weapon, dropping an item in the creature's hand, handing off an item to another willing creature, or other simple activity that doesn't require attention while distracted by combat.
 
 #### Move Act
 [[#Creatures]] can move up to their total speed in one round. That movement can be interspersed with other actions as long as the total movement is no more than their movement speed.
@@ -956,14 +989,14 @@ A creature makes a [[#Wits]]+[[#Senses]] roll to reveal hidden enemies, [[#Scene
 ##### Rising from Prone
 Rising from prone uses half of the creature's speed.
 
-#### Minor Act
-Minor Acts are saying a few words, interacting with an object, drawing a weapon, dropping an item in the creature's hand, handing off an item to another willing creature, or other simple activity that doesn't require attention while distracted by combat.
+##### Move Through
+A creature can move through another creature's space. When moving through an enemy’s space, the area is considered [[#Difficult Terrain]]. If a creature ends their turn within another creature's space they are [[#Sharing a Space]].
 
 #### Response
-Creatures respond to another creature's action during the other side's turn. A creature has a single response they can take before their next turn unless otherwise specified.
+As an immediate reaction to another creature's action. A creature has a single response they can take each round unless otherwise specified.
 
 ##### Movement Response 
-When a creature moves out of a [[#Threatened Space]] without making a [[#withdraw]] act, the creature threatening that space can make an melee weapon attack on that creature.
+When a creature moves out of a [[#Threatened Space]] without [[#Evade|Evading]], the creature threatening that space can make an melee weapon attack on that creature.
 
 ### Defending
 When a Character is attacked or otherwise the target of a spell or ability, the [[#Player]] rolls a [[#d12]] and adds the appropriate [[#Defense]] bonus against a [[#Target Number]] set by the attack.
@@ -974,18 +1007,15 @@ When dealing damage, the source of the damage has a damage die listed. Roll that
 ### Damage Resistance
 If a creature has Damage Resistance they take half damage, rounded down, before applying their [[#Soak]].
 
-### Massive Damage
-If a creature takes more than half of their [[#Maximum HP]] in a single attack they need to make a [[#Body]] roll against the total damage taken. If they fail, they drop to 0 [[#HP]] and begin [[#Dying]]. Creatures that take more than their [[#Maximum HP]] before applying [[#Soak]] drop to 0 [[#HP]] and begin [[#Dying]].
-
 ## Dying
 When a creature reaches 0 [[#HP]] they fall [[#Unconscious]] and begin dying. 
 
 ### Stabilization Roll
-Every round on a dying creature's turn they make a 1d12 Stabilization roll against a [[#Target Number]] of 6. If they succeed they gain one success, and on a [[#Critical Success]] they gain an additional success. If they fail they gain one failure, and on a [[#Critical Failure]] they gain an additional failure. Taking any amount of damage while Dying gives the creature on failure.  
+Every round on a dying creature's turn they make a 1d12 Stabilization roll against a [[#Target Number]] of 6. If they succeed they gain one success, if they roll a 12 on the die, they gain an additional success. If they fail they gain one failure, and if they roll a 1 on the die, they gain an additional failure. Taking any amount of damage while Dying gives the creature on failure.  
 
 After three successes they stabilize and cease to be dying at 0 [[#HP]].  After three failures they die. 
 
-Healing at least 1 [[#HP]] stabilizes the creature. Another creature can make an [[#Aptitude]]+[[#Knowledge]] roll with any medical Expertise to stabilize a dying creature. Gaining [[#Temporary [[#HP]]]] while having 0 [[#HP]] does not stabilize a creature, but it does make them conscious.
+Healing at least 1 [[#HP]] stabilizes the creature. As an [[#Act]], another creature can make an [[#Aptitude]]+[[#Knowledge]] roll (adding any relevant medical Expertise) to stabilize a dying creature. Gaining [[#Temporary [[#HP]]]] while having 0 [[#HP]] does not stabilize a creature, but it does make them conscious.
 
 ## Healing Damage
 During a [[#Short Rest]] a character can make an [[#Aptitude]]+[[#Knowledge]] roll (applying any medical [[#Expertise]]) against the creature's current HP to heal a target 1d6 [[#HP]], this can only be done to a target once taking a [[#Long Rest]]. Taking a [[#Long Rest]] heals [[#HP]] equal to the character's [[#Body]] modifier + 1d6, always healing at least one [[#HP]].  Otherwise, a spell or item can be used to heal.
@@ -994,13 +1024,13 @@ During a [[#Short Rest]] a character can make an [[#Aptitude]]+[[#Knowledge]] ro
 Conditions are temporary effects that change a creature's capabilities. The source of the condition will have rules on how the condition ends. And there are abilities and spells that can end conditions immediately.
 
 ### Blinded
-The character cannot see and as such have Hindrance on [[#React]] rolls, [[#Deflect]] rolls and [[#Senses]] rolls. Characters have an [[#Edge]] on attack rolls against creatures who are Blinded. Attacks made by a Blinded creatures have a [[#Hindrance]]. [[#Stealth]] rolls have [[#Edge]] against Blinded creatures. Blind creatures are [[#Expose|Exposed]].
+The creature cannot see and as such has a [[#Hindrance]] [[#Attack]] rolls, as well as [[#React]] rolls, [[#Deflect]] rolls and [[#Senses]] rolls. Other creatures have an [[#Edge]] on attack rolls and [[#Stealth]] rolls against Blinded creatures. Blind creatures are [[#Expose|Exposed]].
 
 ### Bleeding
-The creature loses one [[#HP]] at the start of their turn until they are healed at least 1 [[#HP]] or as an [[#Act]] a creature makes an [[#Aptitude]]+[[#Knowledge]] roll (applying any medical [[#Expertise]]) with a [[#Target number]] of 8.
+The creature loses one [[#HP]] at the start of their turn until they are healed at least 1 [[#HP]]. As an [[#Act]] a creature can stop a target from Bleeding with an [[#Easy]] [[#Aptitude]]+[[#Knowledge]] roll (applying any medical [[#Expertise]]). If the creature is at 0 HP they no longer have the bleeding condition but are dying as normal.
 
 ### Charmed
-The charmed creature cannot attack the creature that charmed it. The charmed creature has a [[#Hindrance]] on rolls that use [[#Will]] or their [[#Mind]] defense when interacting with the creature that charmed it. Charmed creatures are [[#Expose|Exposed]] to the creature that charmed it.
+The charmed creature cannot attack the creature that charmed it. The charmed creature has a [[#Hindrance]] on rolls that use [[#Will]] or their [[#Mind]] defense when interacting with the creature that charmed it. Charmed creatures are [[#Expose|Exposed]].
 
 ### Deafened
 The character cannot hear and as such as a [[#Hindrance]] on [[#React]] rolls, [[#Social]] rolls, and [[#Senses]] rolls. [[#Stealth]] rolls have [[#Edge]] against deafened creatures. Deafened creatures are [[#Expose|Exposed]].
@@ -1008,14 +1038,14 @@ The character cannot hear and as such as a [[#Hindrance]] on [[#React]] rolls, [
 ### Frightened
 The creature cannot move towards the source of their fear. Frightened characters have a [[#Hindrance]] on all rolls while they can sense the source of their fear. Characters that inspire fear have an [[#Edge]] on rolls targeting their [[#Mind]] defense. Frightened creatures are [[#Expose|Exposed]].
 
-### Grappled
-The grappled creature's speed is reduced to 0 and attacks with weapons that don't have the [[#Fine]] [[#Tags|Tag]] have a [[#Hindrance]]. Grappled creatures are [[#Expose|Exposed]].
+### Grabbed
+The Grabbed creature's speed is reduced to 0 and their attacks have a [[#Hindrance]] unless using a weapon with the [[#Fine]] [[#Tags|Tag]]. Grabbed creatures are [[#Expose|Exposed]].
 
 ### Incapacitated
 The creature cannot [[#Act]], make a [[#Swift Act]], make a [[#Response]], or move. Incapacitated  creatures are [[#Expose|Exposed]].
 
 ### Paralyzed
-A creature is [[#Incapacitated]] and cannot speak. They automatically fail [[#React]] defenses. Melee attacks against the paralyzed creature are a [[#Critical Success]]. Paralyzed creatures are [[#Expose|Exposed]].
+The creature cannot [[#Act]], make a [[#Swift Act]], make a [[#Response]], move, or speak.  They automatically fail [[#React]] and [[#Deflect]] rolls. Melee attacks against the paralyzed creature are [[#Critical Success|Critical Successes]]. Paralyzed creatures are [[#Expose|Exposed]].
 
 ### Petrified
 Petrified creatures and their held items are changed to an inanimate substance. They are [[#Paralyzed]], have [[#Damage Resistance]], and are immune to poison, disease, and aging. Poisons and diseases are not neutralized, just suspended. Petrified  creatures are [[#Expose|Exposed]].
@@ -1024,13 +1054,13 @@ Petrified creatures and their held items are changed to an inanimate substance. 
 Prone creatures can only crawl using two spaces of movement for every space traveled. Standing up spends half their movement speed. The prone creature has a [[#Hindrance]] on attack rolls. Melee attacks against the prone creature have an [[#Edge]]. Prone creatures are [[#Expose|Exposed]] to melee attacks.
 
 ### Restrained
-Restrained creatures total speed becomes 0. The restrained creature has a [[#Hindrance]] on their [[#React]] defense. The restrained creature has a [[#Hindrance]] on all attacks. Restrained creatures are [[#Expose|Exposed]].
+Restrained creatures total speed is reduced to 0. They have a [[#Hindrance]] on their [[#React]] and [[#Deflect]] rolls. The restrained creature has a [[#Hindrance]] on all attacks. Restrained creatures are [[#Expose|Exposed]].
 
 ### Sickened
 Sickened creatures have a [[#Hindrance]] on all [[#d12]] rolls.
 
 ### Unconscious
-Unconscious creatures are [[#Paralyzed]] and [[#Prone]]. Unconscious creatures are [[#Expose|Exposed]].
+The creature is [[#Prone]] and cannot [[#Act]], make a [[#Swift Act]], make a [[#Response]], move, or speak.  They automatically fail [[#React]] and [[#Deflect]] rolls. Unconscious creatures are [[#Expose|Exposed]].
 
 ## The Scene
 
@@ -1248,84 +1278,101 @@ Finally, the opportunity to express the character’s drive and advance it. This
 As the story progresses the characters improve.
 
 ## Tier
-There are four tiers of play. It is advised that characters move to a new tier after a handful of adventures. The precise amount of adventures is up to the Game Master.
+There are four tiers of play. It is advised that characters move to a new tier after a handful of adventures. The precise amount of adventures is up to the Game Master, but two to four adventures at each tier are recommended.
 
-|Tiers| Proficiency Bonus | Additional Specialties| Recommended Adventures |
-|:--:|:--:|:--:| :--: |
-| 1 | +1 | 0 | 0-2 |
-| 2 | +2 | 1 | 3- 6 |
-| 3 | +3 | 2 | 7- 10 |
-| 4 | +4 | 3 | 11+ |
+|Tiers| Proficiency Bonus | Additional Experises|
+|:--:|:--:|:--:| 
+| 1 | +1 | 0 | 
+| 2 | +2 | 1 | 
+| 3 | +3 | 2 | 
+| 4 | +4 | 3 | 
 
-The character's [[#HP]] increases by their class' base [[#HP]] plus their [[#Fortitude]] modifier. You can choose a new [[#Expertise]] either from the list of [[#Expertise|Expertises]], or create your own. 
+When advancing to the next Tier, the character's [[#HP]] increases by their class' base [[#HP]] plus their [[#Fortitude]] modifier. The player can choose a new [[#Expertise]] either from the list of [[#Expertise|Expertises]], or create your own. 
 
 ## Advanced Archetypes
 A character's Archetype provides new [[#Features]] with each tier. If a [[#Features|Feature]] has the same name as one from a previous Tier, replace the old [[#Features|Feature]] with the new [[#Features|Feature]].
 
-### Advanced Battle Rager
+### Advanced Berserker
 
 #### Tier 2
+Choose three Tier 2 [[#Features]].
 
 ##### Extra Attack
-The Battle Rager can make two attacks with a single [[#Act]].
+The Berserker can make two attacks with a single [[#Act]].
 
-##### Brutal Followup
-Attacks that [[#Exploit]] a foe deal an additional weapon die of damage.
+##### Bolstering Strike
+If an attack roll surpasses the Berserker's current [[#Burn]], the Berserker can increase their [[#Burn]] by 1 to gain [[#Temporary HP]] equal to the damage done by the attack.
+
+##### Crushing Blow
+Attacks that [[#Exploit]] a foe also knock the target prone.
+
+##### Frightening Rage
+When entering a rage, enemy creatures within 3 spaces of the Berserker are [[#Frightened]] until the end of their next turn.
 
 #### Tier 3
+Choose two Tier 2 or 3 [[#Features]]
+
+##### Brutal Followup
+Attacks that [[#Exploit]] a foe also deal an additional weapon die of damage.
 
 ##### Primal Insight
-The Battle Rager has [[#Edge]] on [[#React]] rolls when not [[#Blinded]], [[#Deafened]], or [[#Unconscious]].  Their speed increases by 2 spaces.
+The Berserker has [[#Edge]] on [[#React]] rolls when not [[#Blinded]], [[#Deafened]], or [[#Unconscious]].  Their speed increases by 2 spaces.
 
 ##### Unbalancing Blows
-Weapon attacks that hit their target [[#Expose]] the target.
+While raging, all attacks that hit their target [[#Expose]] the target.
+
+##### Terrifying Strike
+On a [[#Critical Hit]] enemy creatures within 3 spaces are [[#Frightened]] until the end of their next turn.
 
 #### Tier 4
+Choose two Tier 3 or 4 [[#Features]]
 
 ##### Brutal Fortification
 The Battle Rager adds their [[#Will]] to their [[#Soak]];
 
-##### Extra Attack
+##### Rapid Attack
 The Battle Rager can make three attacks with a single [[#Act]].
 
 ##### Overwhelming Blows
-As an [[#Attacker Perk]], deal an additional two weapon die of damage
-
+As on a [[#Critical Success]], deal an additional two weapon die of damage
 
 ### Advanced Dedicant
 
 #### Tier 2
 
 ##### Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1 and 2 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 4 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1 and 2 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
 
 ##### Extra Attack
 At [[#Tier]] 2, as an [[#Act]] a Dedicant can attack twice.
 
+##### Focused Fervor
+Every time the Dedicant makes an attack they gain one Fervor.
+
 ##### Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases their burn by 1. By increasing the Dedicant's burn by 2 they can add an additional 2d8 to their smite damage.
+On a successful hit, the Dedicant spend 2 [[#Fervor]] to do an additional 2d8 damage.
 
 #### Tier 3
 
 ##### Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many of Tiers 1, 2, and 3 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 5 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1, 2, and 3 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
+
+##### Reactive Fervor
+When the Dedicant takes damage from an enemy, increase [[#Fervor]] by 1.
 
 ##### Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases their burn by 1. By increasing the Dedicant's burn by 3 they can add an additional 3d8 to their Smite damage.
-
-##### Rebuke Foe
-As an [[#Attack Perk]] the target is [[#Frightened]] of the Dedicant until the end of their next turn.
+On a successful hit, the Dedicant spend 3 [[#Fervor]] to do an additional 4d8 damage.
 
 #### Tier 4
 
 ##### Channel Oath
-Dedicants channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do  not need a free hand to cast spells. They know as many Tier 1, 2, 3, and 4 spells as their [[#Will]]+[[#Focus]]. They have a base [[#Burn]] of 0 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1, 2, 3, and 4 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
 
-##### Extra Attack
+##### Rapid Attack
 As an [[#Act]] the Dedicant can attack three times.
 
 ##### Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases the Dedicant's burn by 1. By increasing the Dedicant's burn by 4 they can add an additional 4d8 to their smite damage.
+On a successful hit, the Dedicant spend 4 [[#Fervor]] to do an additional 6d8 damage.
 
 ### Advanced Druids
 
@@ -1362,22 +1409,22 @@ God Touched channel spells from a Divine source. Their [[#Spellcasting Roll]] is
 God Touched gain [[#Features]] granted to them by their deity based on their Domain.
 
 ###### Arcana 
-**Spellbook** The God Touched of the arcana domain can scribe spells into a Spellbook and prepare one of them for every Tier as part of their morning ritual.
+**Spellbook** The God Touched of the arcana domain gain a spellbook that they can scribe [[#Wizard]] spells into and prepare one of them for every Tier aafter a [[#Long Rest]]. They can cast spells from their spellbook as a [[#Ritual]].
 
 ###### Life
-**Font of Life** The God Touched of the Life domain can cast [[#Cure Wounds]] as an [[#Act]] and add their [[#Aptitude]] bonus for each die rolled.
+**Font of Life** When the God Touched of the Life domain casts [[#Cure Wounds]] its casting time is an  [[#Act]].
 
 ###### Order
-**Call to Aid** As an [[#Act]] the God Touched of the Order Domain can command an ally to move up to half their movement and make a single commanded [[#Act]].
+**Call to Aid** As an [[#Response]] the God Touched of the Order Domain can command an ally to move up to half their movement and make a single commanded [[#Act]]. This movement does not provoke a [[#Movement Response]].
 
 ###### Sun
 **Glorious Dawn** As a [[#Swift Act]] a God Touched glows with a 4 spaces aura of [[#Daylight]] for 1 minute. They have [[#Edge]] on all [[#Social]] rolls against creatures within that aura.
 
 ###### Tempest
-**Call the Thunder** As a [[#Swift Act]], the if the God Touched's attack roll exceeds their  [[#Burn]] to add 2d8 damage to an attack that hit. This increases their [[#Burn]] by 1.
+**Call the Thunder** On an attack, if the God Touched's attack roll that hits exceeds their [[#Burn]] they can increase their [[#Burn]] by 1 to add 2d8 damage.
 
 ###### War
-**Armament Mastery** Gain Expertise in one weapon.
+**Armament Mastery** Gain Expertise in one weapon. The God Touched can change the weapon after a [[#Long Rest]].
 
 #### Tier 3
 
@@ -1398,7 +1445,7 @@ God Touched gain [[#Features]] granted to them by their deity based on their Dom
 **Divine Dictate** When the God Touched casts spells that make a target [[#Charmed]] their [[#Spellcasting Roll]] has an [[#Edge]].
 
 ###### Sun
-**Channel of the Sun** As an act a God Touched can change the light given off by a light source they are carrying into daylight. This doubles the radius of the bright light it casts and lasts for as long as the light source lasts. They can only channel one light source at a time for as long as they carry it.
+**Channel of the Sun** The God Touched gains [[#Expertise]] on all rolls while within [[#Daylight]].
 
 ###### Tempest
 **Throw the Lightning** As a Swift Act, the Tempest domain God Touched can cast Lighting Bolt as a Tier 1 spell, increasing [[#Burn]] by 1.
@@ -1432,38 +1479,10 @@ God Touched gain [[#Features]] granted to them by their deity based on their Dom
 ###### War
 **Command Liturgy** As an Swift Act a God Touched can command an ally to move up to half of their movement, without provoking a [[#Movement Response]], and make a single attack.
 
-### Advanced Scout
-
-#### Tier 2
-
-##### Confident Strider
-The Scout can actively check for [[#Terrain Hazards]] or [[#Environmental Events]] while moving at full speed.
-
-##### Foebinding
-As a [[#Swift Act]] a Scout can designate a foe. As long as they make no attacks against other foes or make responses to other foes, the next round they have an [[#Edge]] on weapon and [[#Senses]] rolls against that foe.
-
-#### Tier 3
-
-##### Foehammering
-The Scout adds their proficiency modifier to damage on designated foes.
-
-##### Threatspotter
-The Scout gains [[#Expertise]] in spotting traps, ambushes, and other hazards.
-
-##### Wildworn Skin
-The Scout adds their proficiency modifier to their soak.
-
-#### Tier 4
-
-##### Uncanny senses
-The Scout gains Blindsense6 spaces.
-
-##### Denial Attack
-As a [[#Response]] to their designated foe's [[#Act]] the Scout can make a single attack. If the damage is over the target's mind defense, the foe fails that act.
-
 ### Advanced Rogue
 
 #### Tier 2
+Rouges gain Sneak Attack and one other Tier 2 [[#Features]].
 
 ##### Sneak Attack
 Attacks that [[#Exploit]] a foe deal an additional 4d6. 
@@ -1471,10 +1490,14 @@ Attacks that [[#Exploit]] a foe deal an additional 4d6.
 ##### Evasion
 As a [[#Response]] to an area effect targeting a Rogue, they can move half their speed without provoking a [[#Movement Response]]. If a Rogue ends this move outside the area they take no damage.
 
-#### Tier 3
+##### Feint
+As a [[#Swift Act]] the Rogue can make a [[#Dexterity]]+[[#Stealth]] roll against a target’s [[#Mind]]. On a success the target is [[#Exposed]].
 
-##### Uncanny Dodge
-As a Response, a Rogue can replace a failed [[#React]] or [[#Deflect]] roll with a [[#Wits]]+[[#Athletics]] roll.
+#### Tier 3
+Rouges gain Sneak Attack and two other Tier 2 or 3 [[#Features]].
+
+##### Darting Movements
+Rogues doesn't provoke a [[#Movement Response]].
 
 ##### Skill Mastery
 Rogues automatically succeed on [[#Skill]] rolls with a [[#Moderate]] or lower [[#Target Number]].
@@ -1482,16 +1505,69 @@ Rogues automatically succeed on [[#Skill]] rolls with a [[#Moderate]] or lower [
 ##### Sneak Attack
 Attacks that [[#Exploit]] a foe deal an additional 6d6 damage.
 
+##### Uncanny Dodge
+As a Response, a Rogue can replace a failed [[#React]] or [[#Deflect]] roll with a [[#Wits]]+[[#Athletics]] roll.
+
 #### Tier 4
+Rogues gain Sneak Attack and two other Tier 3 or 4 [[#Features]].
+
 ##### Elusive
 As long as a Rogue are not [[#Unconscious]] they cannot have a [[#Hindrance]] on a [[#Defenses|Defense]] roll, nor can they be [[#Expose|Exposed]].
+
+##### Fast Hands
+The Rogue can make an [[#Act]] or [[#Swift Act]] without the act being seen or making the Rouge no longer [[#Hidden]]. 
 
 ##### Sneak Attack
 Attacks that [[#Exploit]] a foe deal an additional 8d6 damage.
 
+### Advanced Scout
+
+#### Tier 2
+Choose three Tier 2 [[#Features]].
+
+##### Confident Strider
+The Scout can actively check for [[#Terrain Hazards]] or [[#Environmental Events]] while moving at full speed.
+
+##### Exploiting Attack
+The Scout deals an additional 2d6 damage when [[#Exploit|Exploiting]] a foe.
+
+##### Tight Quarters Archery
+The Scout doesn’t have a [[#Hindrance]] while using a ranged weapon in melee.
+
+##### Two Weapon Master
+The Scout can use [[#Finesse]] weapons to make an [[#Offhand Attack]].
+
+##### Threatspotter
+The Scout gains [[#Expertise]] in spotting traps, ambushes, and other hazards.
+
+#### Tier 3
+Chose three Tier 2 or 3 [[#Features]].
+##### Fade
+The scout can hide as a [[#Swift Act]] and move at full speed while [[#Hidden]].
+
+##### Interception
+The Scout can attack as a [[#Response]] to the designated foe’s movement and if the attack hits, the foe’s speed becomes 0.
+
+##### Wildworn Skin
+The Scout adds their [[#Proficiency Bonus]] to their [[#Soak]].
+
+#### Tier 4
+Choose three Tier 3 or 4 [[#Features]]
+
+##### Denial Attack
+As a [[#Response]] to their designated foe's [[#Act]] the Scout can make a single attack. If the damage is over the target's mind defense, the foe fails that act.
+
+##### Uncanny senses
+The Scout gains Blindsense6 spaces.
+
+##### Unerring strike
+The scout has an [[#Edge]] on all attacks against [[#Exposed]] foes.
+
+
 ### Advanced Warrior
 
 #### Tier 2
+Warriors gain three Tier 2 features.
 
 ##### Battlefield Stride
 The Warrior can [[#Evade]] as a [[#Swift Act]].
@@ -1500,29 +1576,43 @@ The Warrior can [[#Evade]] as a [[#Swift Act]].
 As an [[#Act]] a Warrior can attack twice.
 
 ##### Martial Insight
-Warriors gain [[#Expertise]] in a specific weapon.
+The Warrior gains [[#Expertise]] in a specific weapon.
+
+##### Outstanding Threat
+As an [[#Act]], a Warrior can make a [[#Strength]]+[[#Social]] roll against the [[#Mind]] defense of foes within 6 spaces. On success, allies do not provoke [[#Movement Response|Movement Responses]] until the beginning of the warrior’s next turn.
+
+##### Sweeping Blow
+As an [[#Act]] a Warrior can make a single attack roll against all targets within their melee weapon’s reach.
 
 #### Tier 3
+Warriors gain Tier 2 or 3 features.
 
 ##### Action Surge
-Warriors can make a second [[#Act]] on their turn, they can do this once until taking a [[#Short Rest]].
+A Warrior can make a second [[#Act]] on their turn, they can do this once until taking a [[#Short Rest]].
 
-##### Extra Attacks
+##### Halt
+When a Warrior makes a [[#Movement Response]] and hits, the target’s speed reduces to 0.
+
+##### Rapid Attacks
 As an [[#Act]] a Warrior can attack three times.
 
-##### Martial Expertise
-Warriors gain [[#Expertise]] in a specific weapon.
+##### Stalwart
+Give your [[#Deflect]] and [[#Soak]] to an adjacent ally as a [[#Response]].
 
 #### Tier 4
+Warriors gain two Tier 3 or 4 [[#Features]].
 
-##### Extra Attacks
-As an [[#Act]] a Warrior can attack four times.
+##### Extra Response
+The Warrior gains a second [[#Response]] between their turns.
+
+##### Frenetic Attacks
+As an [[#Act]] the Warrior can attack four times.
 
 ##### Martial Mastery
-Warriors gain [[#Expertise]] in a specific weapon.
+The Warrior gains [[#Expertise]] in a specific weapon.
 
-##### Stalwart
-Give your Deflect and Soak to an adjacent ally.
+##### Rallying Shout
+As a [[#Swift Act]] the Warrior can grant their [[#Proficiency Bonus]] to all allies that can hear the Warrior. This can only be done once until the Warrior takes a [[#Short Rest]].
 
 ### Advanced Wizard
 
@@ -1863,6 +1953,7 @@ Permanent spells have ongoing effects that doesn't end until the caster dispels 
 - [[#Teleportation Anchor]]
 - [[#Thunderblast]]
 - [[#Unerring Bolt]]
+- [[#Winter's Blast]]
 
 ### Tier 2
 - [[#Animate Object]]
@@ -2008,7 +2099,7 @@ Attackers have [[#Edge]] against all the target's defenses, and [[#Edge]] on def
 ### Binding Circle
 - **Tier 3** - [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Sphere]], [[#Mind]]
+- **Target** - 2 space [[#Circle]], [[#Mind]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Creatures within the binding [[#Circle]] cannot leave the [[#Circle]] in any way. If cast as a [[#Ritual]] the [[#Circle]] can lay inactive until activated as a [[#Response]] and the duration increases to 1 day after activated.
@@ -2063,7 +2154,7 @@ Target creature gains [[#Edge]] on defenses and [[#Damage Resistance]]. When the
 ### Bonfire
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 1 space [[#Sphere]], 6 space [[#Range]], [[#React]]
+- **Target** - 6 space [[#Range]], 1 space [[#Sphere]], [[#React]]
 - **Duration** - 1 minute
 
 Creatures within the bonfire or that move through it that fail their [[#React]] take 1d6 damage. As a [[#Swift Act]] the caster can move the bonfire 6 spaces. Increase the die for every [[#Tier]] the caster is beyond 1st.
@@ -2074,7 +2165,7 @@ Creatures within the bonfire or that move through it that fail their [[#React]] 
 - **Target** - 12 space [[#Range]]
 - **Duration** - 1 minute
 
-As a [[#Response]] to hitting a foe the caster deals an additional 2d8 damage, 2d10 if the target is Undead or an Outsider. The target glows with faint light, cannot hide, cannot be invisible, and has a [[#Hindrance]] on their [[#Deflect]] defense. When casting at a higher Tier deal an addtional die of damage for every tier beyond 2nd.
+As a [[#Response]] to hitting a foe the caster deals an additional 2d8 damage. The target glows with faint light, cannot hide, cannot be invisible, and has a [[#Hindrance]] on their [[#Deflect]] defense. When casting at a higher Tier deal an addtional die of damage for every tier beyond 2nd.
 
 ### Break Curse
 - **Tier 2** - [[#Dedicant]], [[#God Touched]]
@@ -2100,7 +2191,7 @@ The caster can end one ongoing spell the caster is aware of by making a [[#Spell
 ### Call Lightning
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 12 space [[#Range]]
+- **Target** - 12 space [[#Range]], [[#React]]
 - **Duration** - 1 minute
 
 As a [[#Swift Act]], the caster calls down the lighting on a target dealing 6d8 damage. When cast at a higher Tier, add an additional 2d8 damage for every Tier beyond 2nd.
@@ -2110,7 +2201,7 @@ As a [[#Swift Act]], the caster calls down the lighting on a target dealing 6d8 
 - **Casting Time** - [[#Act]]
 - **Target** - [[#Range]] 12 spaces, [[#React]]
 
-Lighting leaps at target dealing 6d6. The lighting continues to a creature within6 spaces dealing two die fewer damage for each creature it hits. When cast at a higher Tier, deal an additional 4d6 damage for every Tier beyond 4th.
+Lighting leaps at target dealing 6d6. The lighting continues to a creature within 6 spaces dealing two die fewer damage for each creature it hits. When cast at a higher Tier, deal an additional 4d6 damage for every Tier beyond 4th.
 
 ### Charming
 - **Tier 1** - [[#Wizard]]
@@ -2193,9 +2284,9 @@ A ghostly battle trained [[#Horse]] appears with chainmail barding that will res
 - **Tier 3** - [[#Druid]], [[#God Touched]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
 - **Target** - 1 mile [[#Aura]]
-- **Duration** - 1 hour
+- **Duration** - 1 hour, [[#Concentration]]
 
-Control the weather within the area. As an [[#Act]] the caster can call down a lightning bolt that strikes a single target dealing 3d8 damage. As an [[#Act]] the caster can summon a whirlwind as [[#Sphere]] that throws creatures within its area4 spaces and dealing 3d6 damage to them and knocking them prone. When cast at a higher Tier, increase the damage die by 2 for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
+Control the weather within the area. As an [[#Swift Act]] the caster can roll their [[#Spellcasting Roll]] against a target's [[#React]] to call down a lightning bolt that strikes a single target dealing 3d8 damage. As an [[#Act]] the caster can roll their [[#Spellcasting Roll]] to summon a whirlwind as 2 space [[#Sphere]] that throws creatures within its area 4 spaces and dealing 3d6 damage to them and knocking them prone if the roll beats the target's [[#Body]] defense. When cast at a higher Tier, increase the damage die by 2 for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
 
 ### Counterspell
 - **Tier 3** - [[#Wizard]]
@@ -2223,12 +2314,12 @@ Heal the 1d8+[[#Spellcasting Bonus]] worth of [[#HP]]. When cast at a higher Tie
 - **Casting Time** - [[#Act]]
 - **Target** - 24 space [[#Range]]
 
-Summon a torch sized light within [[#Range]] that hover in the air for the duration. The caster can move the light up to12 spaces within the [[#Range]] as a [[#Swift Act]]. Conjure an additional light by one for every [[#Tier]] the caster is beyond 1st.
+Summon a torch sized light within [[#Range]] that hover in the air for the duration. The caster can move the light up to 12 spaces within the [[#Range]] as a [[#Swift Act]]. Conjure an additional light by one for every [[#Tier]] the caster is beyond 1st.
 
 ### Darkness
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 3 space [[#Sphere]], 24 space [[#Range]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]] 
 - **Duration** 10 minutes, [[#Concentration]]
 
 The area is plunged into magical darkness blocking all light sources within it, including those from magical sources.
@@ -2236,7 +2327,7 @@ The area is plunged into magical darkness blocking all light sources within it, 
 ### Dawning Light
 - **Tier 2** - [[#Dedicant]], [[#Druid]], [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Aura]]
+- **Target** - 6 space [[#Aura]]
 - **Duration** - 1 hour
 
 The caster glows with true daylight. Allies have an [[#Edge]] on all rolls against undead or [[#Daylight]] sensitive creatures. Dispels magical Darkness if affecting target area.
@@ -2247,7 +2338,7 @@ The caster glows with true daylight. Allies have an [[#Edge]] on all rolls again
 - **Target** - [[#Self]]
 - **Duration** - 1 minute
 
-See magical [[#Aura]]'s of ongoing spells, know what spell is being cast by a creature, or the remnants of spells that were cast within 1 hour for every Tier the caster is.
+See ongoing spells, know what spell is being cast by a creature, or see the remnants of spells that were cast within 1 hour for every Tier the caster is.
 
 ### Discorperate
 - **Tier 3** - [[#Wizard]]
@@ -2278,7 +2369,7 @@ Conjure flying weapon that deals 1d6 damage that can be directed to move up to 6
 - **Target** - [[#Self]]
 - **Duration** 1 minute, [[#Concentration]]
 
-The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Ranged]] attack to throw fire12 spaces dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
+The caster's weapon bursts into flame and deals an additional 1d8 damage. The caster can make a [[#Wits]]+[[#Weapon]] roll against a target's [[#React]] defense within 12 spaces dealing 1d8 damage. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 1st.
 
 ### Divine Interpose
 - **Tier 1** - [[#God Touched]]
@@ -2299,7 +2390,7 @@ Target Outsider is forced back to its plane of origin. If cast as a [[#Ritual]] 
 ### Earthquake
 - **Tier 4** - [[#God Touched]], [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 24 space [[#Aura]], [[#Durability]]
+- **Target** - 12 space [[#Aura]], [[#Durability]]
 
 Creatures are knocked prone within the area. Structures are damaged or destroyed depending on their durability Target Number.
 
@@ -2322,7 +2413,7 @@ Target has [[#Edge]] on rolls with one [[#Stats|Stat]] chosen when the spell is 
 ### Entangle
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Circle]], 24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** 1 minute, [[#Concentration]]
 
 On a success the target is [[#Restrained]] until the spells end. Each round the caster re-rolls the attack against the effected creature's [[#Body]]. Even if a creature frees themselves or moves into the target area it is [[#Difficult Terrain]].
@@ -2335,7 +2426,7 @@ On a success the target is [[#Restrained]] until the spells end. Each round the 
 The caster can send a short message 25 words long to a target on the same plane. The target can respond with a 25 word message of their own. When cast at a higher Tier, add 10 words to the message for every Tier beyond 1st.
 
 ### Feather Fall
-- **Tier 1** [[#Dedicant]], [[#Druid]], [[#Wizard]]
+- **Tier 1** [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Response]]
 - **Target** - 12 space [[#Range]]
 - **Duration** - 1 round
@@ -2345,7 +2436,7 @@ Target takes no fall damage. When cast at a higher Tier, the spell can target an
 ### Fireball
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]], 24 space [[#Range]], [[#React]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 
 Deal 3d6 damage to creatures within the target area. If the [[#Spellcasting Roll]] fails to overcome the defense of the target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for every Tier beyond 1st.
 
@@ -2378,7 +2469,7 @@ Target is [[#Blinded]] for 1d6 rounds. When cast at a higher Tier, add an additi
 - **Target** - [[#Self]]
 - **Duration** - 1 hour, [[#Concentration]]
 
-Summon a flaming weapon that deals 2d6 damage and has the bladed, finesse, and simple [[#Tags]]. It can be used to start fires. When cast at a higher Tier, add an additional 1d6 for every Tier beyond 1st.
+Summon a flaming weapon that deals 2d6 damage and has the [[#Bladed]], [[#Finesse]], and [[#Simple]] [[#Tags]]. It can be used to start fires. When cast at a higher Tier, add an additional 1d6 for every Tier beyond 1st.
 
 ### Foxfire
 - **Tier 1** - [[#Druid]]
@@ -2391,7 +2482,7 @@ Targets glow with dim light, revealing invisible creatures. Rolls against the ta
 ### Fog
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 4 space [[#Sphere]], 12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]]
 - **Duration** - 1 hour
 
 Creatures within the fog have [[#Cover]]. When cast at a higher Tier, increase the radius of the [[#Sphere]] by one space for every Tier beyond 1st.
@@ -2423,7 +2514,7 @@ Targets are pushed 2 spaces away from the caster and take 4d6 damage. When cast 
 ### Frightening Presence
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - 1 [[#Act]]
-- **Target** - 8 space [[#Aura]]
+- **Target** - 6 space [[#Aura]]
 - **Duration** - 1 minute, [[#Mind]]
 
 Enemies within the are frightened of the caster. When cast at a higher Tier, the [[#Aura]] radius increases by 2 spaces for every Tier beyond 2nd.
@@ -2442,12 +2533,12 @@ The willing target becomes gaseous, able to pass through cracks, with a6 spaces 
 - **Target** - 2 space [[#Range]]
 - **Duration** - 1 hour
 
-Open a 2 spaces by 2 spaces portal to the plane of the caster's choice that can be traversed from either side. If cast as a [[#Ritual]] the duration increases to 1 day.
+Open a 2 spaces by 2 spaces portal to the plane of the caster's choice that can be traversed from either side. If the target location has a [[#Teleportation Anchor]] the caster knows, it is a [[#Difficult]] roll. If the caster has been to the place, it is a [[#Hard]] roll. If the caster has seen a drawing it is an [[#Improbable]] roll. And if the caster has only heard a description it is an [[#Impossible]] roll.  If the roll is failed the other portal opens in a random location on the target plane. If cast as a [[#Ritual]] the duration increases to 1 day.
 
 ### Geas
 - **Tier 4** [[#Dedicant]], [[#God Touched]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Range]], [[#Mind]]
+- **Target** - 6 space [[#Range]], [[#Mind]]
 - **Duration** - 1 day
 
 Target must attempt to follow one sentence of direction. If they try to resist the instruction they take 3d8 damage.
@@ -2476,7 +2567,7 @@ Targets that fail their defense are knocked prone. Gasses, mists, and toxic air 
 ### Grease
 - **Tier 1** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]], 24 spaces, [[#React]]
+- **Target** - 24 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 - **Duration** - 1 minute
 
 Targets within the area are covered in grease, those that fail their defense fall prone. The area becomes Difficult Terrain. The grease is flammable, deals 1d6 damage to all creatures within area and ends the spell. When cast at a higher Tier, the damage from igniting the grease increases by 1d6 for every Tier beyond 1st.
@@ -2495,7 +2586,7 @@ A Tier 2 plant grows that is dedicated to the caster and will sacrifice itself t
 - **Target** - 3 space [[#Aura]]
 - **Duration** - 1 hour
 
-The area is hallowed against undead, undead cannot be raised within the are, and have a Hinderance on all rolls if they are within the area. If cast as a [[#Ritual]] the duration becomes 1 day and increases the Target to a12 space [[#Aura]]. Casting this spell consumes 100gp worth of incense.
+The area is hallowed against undead, undead cannot be raised within the are, and have a Hinderance on all rolls if they are within the area. If cast as a [[#Ritual]] the duration becomes 1 day and increases the Target to a12 space [[#Aura]]. Casting this spell consumes 100gp worth of quality incense.
 
 ### Heal
 - **Tier 1** - [[#Druid]], [[#God Touched]]
@@ -2507,7 +2598,7 @@ The target is healed one of the following conditions: [[#Blinded]], [[#Bleeding]
 ### Healing Aura
 - **Tier 2** - [[#Druid]], [[#God Touched]]
 - **Casting Time** - 1 minute, [[#Ritual]]
-- **Target** - 2 space [[#Aura]]
+- **Target** - 3 space [[#Aura]]
 
 Allies within the [[#Aura]] are healed 1d8+[[#Spellcasting Stat]] worth of [[#HP]]. When cast at a higher Tier, add an additional 1d8 for every Tier beyond 2nd.
 
@@ -2522,14 +2613,14 @@ Target is grappled. When cast at a higher Tier, target and additional creature f
 ### Hypnotic Pattern
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]],12 space [[#Range]], [[#Mind]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]], [[#Mind]]
 
 Targets are incapacitated and charmed by the caster. If the target takes damage the target is released from the spell. When cast at a higher Tier, increase the radius of the spell by 1 space for every Tier over 2nd.
 
 ### Illusory Image
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Sphere]],12 space [[#Range]], [[#Mind]]
+- **Target** - 12 space [[#Range]], 2 space [[#Sphere]], [[#Mind]]
 - **Duration** - 1 minute
 
 Fill the area with illusory images that move and make noise. Interacting with the illusion allows a creature to make a [[#Mind]] Defense against the [[#Spellcasting Roll]]. When cast at a higher Tier, increase the [[#Sphere]] radius by 2 spaces for every Tier over 2nd. If cast as a [[#Ritual]] the duration becomes one hour.
@@ -2548,7 +2639,7 @@ The target is imprisoned in a gem worth 10,000 coin. Time does not pass for the 
 - **Target** - [[#Touch]], [[#Mind]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-The targeted weapon shines with [[#Daylight]] out to12 spaces. Allies within the [[#Aura]] have an [[#Edge]] on rolls. The weapon deals an additional 6 die of damage.
+The targeted weapon shines with [[#Daylight]] in a 12 space [[#Aura]]. Allies within the [[#Aura]] have an [[#Edge]] on rolls. The weapon deals an additional 6 dice of damage.
 
 ### Invisibility
 - **Tier 2** - [[#Wizard]]
@@ -2607,10 +2698,10 @@ Learn the direction to an object, the distance to an object, and a snapshot of t
 ### Mage Hand
 - **Cantrip** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]]
+- **Target** - 6 space [[#Range]], [[#React]]
 - **Duration** - 1 minute
 
-Manifests a translucent hand can lift or manipulate an item less than 5lbs within [[#Range]]. The weight it can manipulate increases by 5lbs for every [[#Tier]] the caster is beyond 1st.
+Manifests a translucent hand can lift or manipulate an item less than 5lbs or deal 1d4 damage to a target. The weight it can manipulate increases by 5lbs and the damage it does increases by 1d4 for every [[#Tier]] the caster is beyond 1st.
 
 ### Mage Grounding
 - **Tier 1** - [[#Wizard]]
@@ -2618,7 +2709,7 @@ Manifests a translucent hand can lift or manipulate an item less than 5lbs withi
 - **Target** - 6 space [[#Range]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-Target takes 2d8 damage. During each of the caster turns they can continue the spell with a [[#Swift Act]]. Subsequent rounds automatically hit. On the target's next round they must make a [[#Concentration]] roll against the damage taken to cast any spell. When cast at a higher Tier, add an additional 1d8 for each Tier beyond 1st.
+Target takes 2d8 damage. During each of the caster turns they can continue the spell with a [[#Swift Act]]. Subsequent rounds automatically hit. On the target's next round they have a [[#Hindrance]] on all rolls. If the target leaves the range or gains [[#Full Cover]] the spell ends. When cast at a higher Tier, add an additional 1d8 for each Tier beyond 1st.
 
 ### Magnificent Cart
 - **Tier 2** - [[#Wizard]]
@@ -2631,7 +2722,7 @@ A translucent hovering cart of force manifests, can carry 500lbs of cargo, and h
 ### Magnificent Dwelling
 - **Tier 3** - [[#Wizard]]
 - **Casting Time** [[#Act]]
-- **Target** - 6 space [[#Range]],4 space [[#Square]]
+- **Target** - 6 space [[#Range]], 4 space [[#Square]]
 - **Duration** - 1 hour, [[#Concentration]]
 
 A building with opaque impenetrable walls of force that in a shape the caster decided manifests in empty spaces. Only invited creatures can enter or leave the dwelling and cast spells or fire ammunition through the walls. The dwelling is always at a comfortable temperature and has fresh air regardless of the external environment. When cast at a higher Tier, increase the duration by a day for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and does not require [[#Concentration]].
@@ -2670,14 +2761,14 @@ With a [[#Swift Act]] the caster calls down meteors that target each enemy withi
 ### Mold Earth
 - **Cantrip** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 1 space [[#Cube]],12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 1 space [[#Cube]]
 
-Move an area of earth that fits within the target area, excavating, building up, and shaping it. The area targeted increases by another 1 space [[#Cube]] for every [[#Tier]] the caster is beyond 1st.
+Move an area of earth that fits within the target area, excavating, building up, and shaping it. It does not move fast enough to trap someone or cause fall damage if excavated below a creature. The area targeted increases by another 1 space [[#Cube]] for every [[#Tier]] the caster is beyond 1st.
 
 ### Moonbeam
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Circle]],12 space [[#Range]], [[#Body]]
+- **Target** - 12 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 
 A beam shines down dealing 3d6 damage. Half as much on a successful defense. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st.
 
@@ -2692,7 +2783,7 @@ Manifest a portal next to the caster and a second one in an empty space the cast
 ### Planar Ally
 - **Tier 3** - [[#God Touched]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 3 space [[#Range]]
+- **Target** - 6 space [[#Range]]
 - **Duration** - 1 minute
 
 Summon an Tier 2 [[#Outsider]] to aid the caster. It will obey the caster's commands as long as it doesn't violate its alignment. When cast at a higher Tier, increase the Tier of the [[#Outsider]] per Tier beyond 3rd. If cast as a [[#Ritual]] the duration increases to 1 day.
@@ -2727,6 +2818,13 @@ Transform into a Tier 1 living [[#Beast]], [[#Humanoid]], [[#Monstrosity]], or [
 - **Duration** - 1 round, [[#Concentration]]
 
 Allies are granted [[#Edge]] on all rolls. When cast at a higher Tier,  add an additional round of duration for each Tier beyond 2nd.
+
+### Prestidigitation
+-   **Cantrip** - [[#Wizard]]
+-   **Casting Time** - [[#Act]]    
+-   **Target** - 3 space [[#Range]], 1 space [[#Cube]]
+- 
+The caster can dry, moisten, clean, snuff candles, light candles, or create a strong breeze in the area. The Cube area increases by 1 for every Tier the caster is beyond 1st.
 
 ### Primal Strike
 - **Cantrip** - [[#Druid]]
@@ -2766,7 +2864,7 @@ The target regenerates a lost limb or organ and is restored to their [[#Maximum 
 ### Reinforcing Aura
 - **Tier 2** - [[#Dedicant]]
 - **Casting Time** - [[#Swift Act]]
-- **Target** - 2 space [[#Aura]], [[#Concentration]]
+- **Target** - 3 space [[#Aura]], [[#Concentration]]
 
 Allies within the area gain +2 to their soak. When cast at a higher Tier, targets soak an additional point of damage for every Tier beyond 2nd.
 
@@ -2811,7 +2909,7 @@ Deal 1d6 damage to each creature in range and they are blinded for 1d6 rounds. W
 - **Target** - The same plane, [[#Target Number]]
 - **Duration** - 1 minute
 
-Perceive the area around the target person or item. If the caster personally knows the target it is an Easy roll. It the caster has seen the target, or has a piece of the target, it is a Difficult roll. If the caster has a drawing or representations of the target, or a personal item of the Target, it is a Hard roll. It the caster only has a description it is an Improbable roll. When cast at a higher tier, if the target is on another plane increase the [[#Target Number]] by 6.
+Perceive the area around the target person or item. If the caster personally knows the target it is an Easy roll. It the caster has seen the target, or has a piece of the target, it is a Difficult roll. If the caster has a drawing or representations of the target, or a personal item of the Target, it is a Hard roll. It the caster only has a description it is an Improbable roll. When cast at a higher tier, if the target is on another plane increase the [[#Difficulty Modifier]] is [[#Hard]].
 
 ### Shapechange
 - **Tier 4** - [[#Wizard]]
@@ -2887,17 +2985,10 @@ Reanimate a corpse to ask questions that the corpse would know the answer to bef
 ### Spike Field
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Act]], [[#Ritual]]
-- **Target** - 2 space [[#Circle]],12 space [[#Range]]
+- **Target** - 12 space [[#Range]], 3 space [[#Circle]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Area becomes [[#Hazardous Terrain]] that deals 1d6 damage. When cast at a higher Tier, add an additional die for each tier beyond 1st.
-
-### Spoken Wound
-- **Cantrip** - [[#God Touched]]
-- **Casting Time** - [[#Act]]
-- **Target** - 12 space [[#Range]], [[#Body]]
-
-Target takes 1d6 damage. If they are already wounded the target takes 1d10 instead. Increase the die for every [[#Tier]] the caster is beyond 1st.
 
 ### Step Sideways
 - **Tier 3** - [[#Wizard]]
@@ -2918,17 +3009,17 @@ Six stones manifest and circle the caster increasing setting their [[#Deflect]] 
 ### Stone Spikes
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 3 space [[#Sphere]],12 space [[#Range]], [[#React]]
+- **Target** - 12 space [[#Range]], 3 space [[#Sphere]], [[#React]]
 
 Stone spikes manifest in the area dealing 4d6 damage and making the area [[#Difficult Terrain]]. When cast at a higher Tier, increase the radius of the [[#Sphere]] by 1 space for every Tier beyond 2nd.
 
 ### Sunbeam
 - **Tier 3** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 2 space [[#Circle]],  24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-A beam of daylight shines down dealing 8d6 damage, half as much as a successful defense. At the beginning of the caster’s turn, creatures within the beam take an additional 3d6 damage. When the spell is cast at a higher Tier, deal an additional 2d6 damage for every Tier cast at above 3rd.
+A beam of [[#Daylight]] shines down dealing 8d6 damage, half as much as a successful defense. At the beginning of the caster’s turn, creatures within the beam take an additional 3d6 damage. When the spell is cast at a higher Tier, deal an additional 2d6 damage for every Tier cast at above 3rd.
 
 ### Take Flight
 - **Tier 2** - [[#Druid]], [[#Wizard]]
@@ -2936,7 +3027,7 @@ A beam of daylight shines down dealing 8d6 damage, half as much as a successful 
 - **Target** - [[#Touch]]
 - **Duration** - 1 hour
 
-The target gains a 12 space [[#Fly]] speed. If cast as a [[#Ritual]] the duration becomes 1 day. If cast at a higher Tier, the speed increases by 4 spaces for every Tier beyond 2rd.
+The target gains a 6 space [[#Fly]] speed. If cast as a [[#Ritual]] the duration becomes 1 day. If cast at a higher Tier, the speed increases by 4 spaces for every Tier beyond 2rd.
 
 ### Teleport
 - **Tier 2** - [[#Wizard]]
@@ -3008,7 +3099,7 @@ Meld into the ground an step out of a tree or other medium or larger sized plant
 ### Tremor
 - **Tier 1** - [[#Druid]]
 - **Casting Time** - [[#Swift Act]]
-- **Target** - 2 space [[#Circle]], 24 space [[#Range]], [[#Body]]
+- **Target** - 24 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 
 Targets fall prone and take 1d6 damage. When cast at a higher Tier, add an additional 1d6 for each tier beyond 1st.
 
@@ -3025,7 +3116,7 @@ Caster can transform into a Tier 3 or lower creature gaining their [[#Strength]]
 - **Casting Time** - [[#Ritual]]
 - **Target** - [[#Touch]]
 
-Restore creature to life at full [[#HP]] with no conditions. Requires a piece of the creature’s corpse. Consumes a resurrection vessel that costs 500,000 coin to create.
+Restore creature to life at full [[#HP]] and no conditions. Requires a piece of the creature’s corpse. Consumes a resurrection vessel that costs 500,000 coin to create.
 
 ### Truesight
 - **Tier 2** - [[#God Touched]], [[#Wizard]]
@@ -3040,7 +3131,7 @@ Reveal invisible creatures and see illusions for what they truly are. If cast as
 - **Casting Time** - [[#Act]]
 - **Target**  - 12 space [[#Range]]
 
-Fire three separate bolts of energy, each deals 1d4 damage and automatically hits. When cast at a higher Tier, add an additional two bolts of energy for each Tier beyond 1st.
+Fire three separate bolts of energy, each deals 1d4 damage as separate attacks and automatically hits. When cast at a higher Tier, add an additional two bolts of energy for each Tier beyond 1st.
 
 ### Vampiric Touch
 - **Tier 2** - [[#Wizard]]
@@ -3052,7 +3143,7 @@ Deals 3d8 damage on a hit and the caster gains that many [[#Temporary HP]]. When
 ### Vinesnare
 - **Tier 2** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]],3 space [[#Circle]], [[#Body]]
+- **Target** - 6 space [[#Range]], 3 space [[#Circle]], [[#Body]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 Targets are [[#Restrained]]. When the spell is cast, and at the beginning each of their turns, restrained foes take 3d6 damage. The caster must re-roll their attack against the Target’s [[#Body]] or they escape, failing to overcome the caster's [[#Burn]] does not end the spell. The area becomes [[#Difficult Terrain]] for the duration. When cast at a higher Tier, increase the damage by 2d6 for each Tier beyond 2nd.
@@ -3060,7 +3151,7 @@ Targets are [[#Restrained]]. When the spell is cast, and at the beginning each o
 ### Wall of Fire
 - **Tier 3** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall, [[#React]]
+- **Target** - 6 space [[#Range]], [[#Wall]], [[#React]]
 - **Duration** - 1 minute, [[#Concentration]]
 
 The wall acts as cover. Creatures within the wall when it manifests take 6d6 damage. Moving through the wall deals 6d6 damage. When casting at a higher Tier, the spell does an additional 4d6 damage for every Tier above 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
@@ -3068,7 +3159,7 @@ The wall acts as cover. Creatures within the wall when it manifests take 6d6 dam
 ### Wall of Force
 - **Tier 3** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall 
+- **Target** - 6 space [[#Range]], [[#Wall]] 
 - **Duration** - 1 minute, [[#Concentration]]
 
 A translucent impenetrable wall manifests that blocks [[#Line of Effect]] except for the caster's spells. The wall is destroyed when hit with [[#Disintegrate]]. When cast at a higher Tier, the duration becomes 1 hour for every Tier beyond 3rd. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
@@ -3076,15 +3167,15 @@ A translucent impenetrable wall manifests that blocks [[#Line of Effect]] except
 ### Wall of Wind
 - **Tier 2** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Range]], Wall
+- **Target** - 6 space [[#Range]], [[#Wall]]
 - **Duration** - 1 minute, [[#Concentration]]
 
-The wall acts as cover, and ranged weapons cannot fire through it. Creatures within the wall when it manifests are pushed out of the wall. Moving through the wall requires a [[#Strength]]+[[#Athletics]] roll against the [[#Spellcasting Roll]]. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
+The wall acts as cover, and ranged weapons cannot fire through it. Creatures within the wall when it manifests are pushed out of the wall away from the caster. Moving through the wall requires a [[#Strength]]+[[#Athletics]] roll against the [[#Spellcasting Roll]]. If cast as a [[#Ritual]] the duration becomes [[#Permanent]] and no longer requires [[#Concentration]].
 
 ### Whirlwind
 - **Tier 4** - [[#Druid]]
 - **Casting Time** - [[#Act]]
-- **Target** - 6 space [[#Aura]]
+- **Target** - 3 space [[#Aura]]
 - **Duration** - 1 minute, [[#Body]]
 
 A whirlwind manifests around the caster providing full cover. Creatures within the whirlwind are thrown 12 spaces dealing 12d6 damage and knocked [[#Prone]]. If the [[#Spellcasting Roll]] fails to overcome the defense of the target they are pushed 6 spaces.
@@ -3099,12 +3190,19 @@ Target dying creature stabilizes and reset's death saves. Target another creatur
 ### Winter's Blast
 - **Tier 1** - [[#Druid]], [[#Wizard]]
 - **Casting Time** - [[#Act]]
-- **Target** -4 space [[#Cone]], [[#Body]]
+- **Target** - 6 space [[#Cone]], [[#Body]]
 
 Deal 3d6 to creatures within the target area. If they fail on overcoming the defense of their target, the target takes half damage. When cast at a higher Tier, add an additional 2d6 for each tier beyond 1st at.
 
+### Wounding Chant
+- **Cantrip** - [[#God Touched]]
+- **Casting Time** - [[#Act]]
+- **Target** - 12 space [[#Range]], [[#Body]]
+
+Target takes 1d6 damage. If they are already wounded the target takes 1d10 instead. Increase the die for every [[#Tier]] the caster is beyond 1st.
+
 # Enchanted Items
-Enchanted Items are treasure that add [[#Features]] to a creature that wields, wears, or holds it.
+Enchanted Items are treasures that adds [[#Features]] to a creature that wields, wears, or holds it.
 
 ## Designing an Item
 Enchanted Items shouldn't give bonuses to [[#Stats]], but grant the character new [[#Features]] or increase the damage they can do with their existing actions.
@@ -4696,3 +4794,31 @@ Creatures that have been reanimated by negative energy.
 - [[#Dragon, Red wyrmling]]
 - [[#Mummy]]
 
+### Tier 2
+#### Challenge 4
+#### Challenge 5
+#### Challenge 6
+#### Challenge 7
+#### Challenge 8
+#### Challenge 9
+#### Challenge 10
+- Adult Dragon
+### Tier 3
+#### Challenge 6
+#### Challenge 7
+#### Challenge 8
+#### Challenge 9
+#### Challenge 10
+#### Challenge 11
+#### Challenge 12
+- Elder Dragon
+
+### Tier 4
+#### Challenge 10
+#### Challenge 11
+#### Challenge 12
+#### Challenge 13
+#### Challenge 14
+#### Challenge 15
+#### Challenge 16
+- Ancient Dragon

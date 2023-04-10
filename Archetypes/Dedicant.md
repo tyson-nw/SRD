@@ -1,42 +1,45 @@
-Dedicants are dedicated to an oath and through that oath they express their life. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Social]], [[#Weapon]], and one additional [[#Skill]]. Paladins have a base [[#HP]] of 10 and begin with a [[#Martial]] weapon and Chainmail.
+Dedicants are dedicated to an oath and through that oath they express their life. Their favored [[#Stats]] are [[#Strength]] and [[#Will]]. They are proficient in [[#Athletics]], [[#Focus]], [[#Weapon]], and one additional [[#Skill]]. Dedicants have a base [[#HP]] of 10 and begin with a [[#Martial]] weapon and Chainmail.
 
 # Tier 1
 
-## Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many Tier 1 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 6 that resets after a [[#Long Rest]].
+## Rising Fervor
+The Dedicant gains Fervor each time the Dedicant deals damage.
 
-## Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] against their [[#Burn]]. If it is successful, it deals an additional 2d8 damage and increases their [[#Burn]] by 2. 
+## Channel Oath
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Bonus]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many Tier 1 spells as their [[#Will]]+[[#Proficiency Bonus]]. Their Fervor resets to 0 that resets after a [[#Short Rest]]. To cast a spell they need to spend the spell's Tier times 2 worth of Fervor.
 
 # Tier 2
 
 ## Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1 and 2 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 4 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1 and 2 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
 
 ## Extra Attack
 At [[#Tier]] 2, as an [[#Act]] a Dedicant can attack twice.
 
+## Focused Fervor
+Every time the Dedicant makes an attack they gain one Fervor.
+
 ## Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases their burn by 1. By increasing the Dedicant's burn by 2 they can add an additional 2d8 to their smite damage.
+On a successful hit, the Dedicant spend 2 [[#Fervor]] to do an additional 2d8 damage.
 
 # Tier 3
 
 ## Channel Oath
-Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do not need a free hand to cast spells. They know as many of Tiers 1, 2, and 3 spells as their [[#Will]]+[[#Proficiency Bonus]]. They have a base [[#Burn]] of 5 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1, 2, and 3 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
+
+## Reactive Fervor
+When the Dedicant takes damage from an enemy, increase [[#Fervor]] by 1.
 
 ## Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases their burn by 1. By increasing the Dedicant's burn by 3 they can add an additional 3d8 to their Smite damage.
-
-## Rebuke Foe
-As an [[#Attack Perk]] the target is [[#Frightened]] of the Dedicant until the end of their next turn.
+On a successful hit, the Dedicant spend 3 [[#Fervor]] to do an additional 4d8 damage.
 
 # Tier 4
 
 ## Channel Oath
-Dedicants channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and do  not need a free hand to cast spells. They know as many Tier 1, 2, 3, and 4 spells as their [[#Will]]+[[#Focus]]. They have a base [[#Burn]] of 0 that resets after a [[#Long Rest]].
+Dedicant channel the power of their oath to shape the world. Their [[#Spellcasting Roll]] is [[#Will]]+[[#Focus]], can use their weapon as a [[#Spellcasting Focus]] (or a holy symbol if their oath is religious), and does not need a free hand to cast spells. They know as many of Tiers 1, 2, 3, and 4 spells as their [[#Will]] plus twice their [[#Proficiency Bonus]]. 
 
-## Extra Attack
+## Rapid Attack
 As an [[#Act]] the Dedicant can attack three times.
 
 ## Smite
-On a successful hit, the Dedicant can roll their [[#Will]]+[[#Focus]] to do an additional 2d8 damage.  Smiting increases the Dedicant's burn by 1. By increasing the Dedicant's burn by 4 they can add an additional 4d8 to their smite damage.
+On a successful hit, the Dedicant spend 4 [[#Fervor]] to do an additional 6d8 damage.

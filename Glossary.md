@@ -296,7 +296,7 @@ Requires a Strength of +3 to wear. Otherwise the wearer has a [[#Hindrance]] on 
 Simple armor with no requirements.
 
 # Martial
-Requires [[#Weapon]] [[#SKills|Skill]] otherwise the wielder has a [[#Hindrance]] on attack, [[#Deflect]], and [[#React]] rolls.
+Requires [[#Weapon]] [[#Skills|Skill]] otherwise the wielder has a [[#Hindrance]] on attack rolls.
 
 # Mechanical
 Requires a [[#Swift Act]] to reload. Uses [[#Wits]] for rolls and damage bonus.

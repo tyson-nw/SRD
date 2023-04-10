@@ -148,6 +148,7 @@ Soldiers are trained in both martial skills and to work together in combat. They
 * Rations, 5 days
 * Rope, 50ft
 * Tinderbox
+* Torches x5
 * Waterskin
 * 20 Coin
 

@@ -5,7 +5,7 @@
 - **Driven** - Humans gain an additional [[#SKills|Skill]].
 - **Well-versed** - Humans gain an additional [[#Expertise]].
 ### Halfun Blooded
-- **Vanish into a crowd** - Halfuns can make a [[#Wits]]+[[#Stealth]] check against the [[#Mind]] defense of all creatures that cannot see the halfun to hide from them. Halfuns can [[#Hide]] behind creatures one size larger than them.
+- **Vanish** - Halfuns have an [[#Edge]] on [[#Stealth]] rolls and enemies have a [[#Hinderance]] on [[#Sense]] rolls to detect the Halfun.
 - **Small Stature** - Halfuns have a movement speed of 4 spaces. Halfuns gain [[#Cover]] when standing behind a [[#Medium]] sized or larger creature.
 ### Dwarf Blooded
 - **Dim Light Vision** - Dwarves can see in [[#Dim Light]] as if it were bright light.
