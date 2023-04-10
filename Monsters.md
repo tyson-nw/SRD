@@ -1,5 +1,3 @@
-## Monsters List
-
 ### Ambushtite
 [[#Small]] [[#Monstrosity]], Tier 1, [[#Challenge]] 3
 

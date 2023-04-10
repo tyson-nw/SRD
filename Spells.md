@@ -1,5 +1,3 @@
-## Spells
-
 # Animate Object
 - **Tier 2** - [[#Wizard]]
 - **Casting Time** - [[#Act]]
@@ -810,10 +808,10 @@ Transform into a Tier 1 living [[#Beast]], [[#Humanoid]], [[#Monstrosity]], or [
 Allies are granted [[#Edge]] on all rolls. When cast at a higher Tier,  add an additional round of duration for each Tier beyond 2nd.
 
 # Prestidigitation
--   **Cantrip** - [[#Wizard]]
--   **Casting Time** - [[#Act]]    
--   **Target** - 3 space [[#Range]], 1 space [[#Cube]]
-- 
+- **Cantrip** - [[#Wizard]]
+- **Casting Time** - [[#Act]]    
+- **Target** - 3 space [[#Range]], 1 space [[#Cube]]
+
 The caster can dry, moisten, clean, snuff candles, light candles, or create a strong breeze in the area. The Cube area increases by 1 for every Tier the caster is beyond 1st.
 
 # Primal Strike
