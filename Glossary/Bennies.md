@@ -1,0 +1,3 @@
+As a [[Response]] a player can spend their character's Bennies to reroll a [[D12]] and use the higher result. Each character can have a maximum of three Bennies at any time. At the beginning of each session each character starts with two Bennies. Characters gain a Bennie when their Player expresses the character's [[Drive]], [[Bond]], or [[Flaw]] in play. As well, [[Game Master|Game Masters]] and [[Player|Players]] (with [[Game Master]] approval) can give a Bennie to another [[Player]] for exceptional roleplay.  
+
+Players, with [[Game Master]] approval, can also spend a Bennie to add a [[Scene Features|Scene Feature]] that the characters can interact with.

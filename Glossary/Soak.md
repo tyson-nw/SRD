@@ -1,0 +1,1 @@
+A character's soak is their [[Fortitude]] + the [[Soak Bonus]] granted by their worn armor or shield. It is used to reduce the amount of damage taken, to a minimum of 1 damage.

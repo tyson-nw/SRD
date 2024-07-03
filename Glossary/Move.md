@@ -1,0 +1,3 @@
+[[Creatures]] can move up to t6 spaces in one round, unless a [[Features|Feature]] states otherwise. That movement can be interspersed with other actions as long as the total movement is no more than their movement speed. If a character rises from prone it uses half of the creature's speed.
+
+A creature can move through another creature's space. When moving through an enemy’s space, the area is considered [[Difficult Terrain]]. If a creature ends their turn within another creature's space they are [[Sharing a Space]].

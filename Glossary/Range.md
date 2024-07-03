@@ -1,0 +1,1 @@
+Targets a single creature within range against their listed defense. If no defense is listed it automatically succeeds.

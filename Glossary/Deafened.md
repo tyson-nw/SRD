@@ -1,0 +1,1 @@
+The character cannot hear and as such as a [[Hindrance]] on [[React]],  [[Senses]], and [[Social]] [[Rolls]]. [[Stealth]] rolls have [[Edge]] against deafened creatures. Deafened creatures are [[Expose|Exposed]].

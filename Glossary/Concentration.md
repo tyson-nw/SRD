@@ -1,0 +1,1 @@
+Some spells require ongoing concentration to maintain. A creature can only concentrate on one spell. When a concentrating character takes damage they need to make a [[Will]]+[[Focus]] roll against a [[Target Number]] equal to the damage dealt. If they fail the roll the spell ends.

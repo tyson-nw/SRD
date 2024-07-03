@@ -1,0 +1,1 @@
+The creature cannot make an [[Action]], [[Maneuver]], [[Response]], or [[Interaction]]. Incapacitated  creatures are [[Expose|Exposed]].

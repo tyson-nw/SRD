@@ -1,0 +1,1 @@
+Requires two hands to wield. Wielders have an [[Edge]] to resist disarming.

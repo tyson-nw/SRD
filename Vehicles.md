@@ -1,0 +1,4 @@
+### Vehicles
+Vehicles, like creatures, have the seven [[Stats]]: [[Strength]], [[Fortitude]], [[Dexterity]], [[Deflect]], [[Durability]], [[Soak]], and [[Maximum HP]], but no mental [[Stats]] so cannot act on their own (unless they are sentient) and must be commanded by a creature making a [[Maneuver]]. If the vehicle is moving it requires a [[Chase Maneuvers#Hold Steady|Hold Steady]] [[Maneuver]] to maintain speed and direction. Commanding a vehicle requires a [[Wits]]+[[Pilot]] roll with the [[Target Number]] set by the [[Difficulty]] of the [[Action]].
+
+Weapons built into the vehicle have the [[Emplaced]] tag and require an [[Action]] to operate. If they also have the [[Mechanical]] [[Tags|Tag]] they require a [[Maneuver]] to reload.

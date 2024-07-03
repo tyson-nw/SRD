@@ -1,0 +1,3 @@
+Every [[Round]] a creature can fall up to 20 spaces. For each space the creature falls that [[Round]] they take 1d6 of damage.
+##### Catch Ally Response
+Creatures adjacent to a falling creature can attempt to catch them with a [[Strength]]+[[Athletics]] with a [[Moderate]] + the spaces the creature has fallen [[Target Number]]. If the creatures are tied together the catching creature has an [[Edge]] on catching the falling creature, but on a Failure the catching creature also begins falling.

@@ -1,0 +1,1 @@
+Can strike targets up to 2 spaces away, unless otherwise stated.

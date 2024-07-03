@@ -1,0 +1,1 @@
+This is determined by the tier of play. Tier 1 characters have a proficiency bonus of +1 and higher tiers have correspondingly higher bonuses.

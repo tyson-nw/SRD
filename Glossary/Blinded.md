@@ -1,0 +1,1 @@
+The creature cannot see and as such has a [[Hindrance]] on [[Deflect]],  [[Enigmas]], [[React]], [[Senses]], [[Weapons]]  [[Rolls]]. Other creatures have an [[Edge]] on [[Rolls]] that target the Blinded creature. Blind creatures are [[Expose|Exposed]].

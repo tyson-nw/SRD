@@ -1,0 +1,1 @@
+A character's Deflect is their [[React]] defense plus any [[Deflection Bonus]] provided by the armor or shield they are wearing.

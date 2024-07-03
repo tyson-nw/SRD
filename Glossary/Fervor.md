@@ -1,0 +1,1 @@
+Fervor allows a character to activate features, including casting spells, without relying on an outside source using an [[Enigma]]. Fervor is accrued during scenes and spent to activate [[Features]] based on the feature cost. Fervor resets to 0 during a [[Short Rest]] or [[Long Rest]].

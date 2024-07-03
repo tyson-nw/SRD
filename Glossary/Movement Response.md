@@ -1,0 +1,1 @@
+When a creature moves out of a ,melee weapon  [[Threatened Space]] without [[Evade|Evading]], the creature threatening that space can make a melee weapon attack on that creature.

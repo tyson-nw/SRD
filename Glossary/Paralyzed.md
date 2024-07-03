@@ -1,0 +1,1 @@
+The creature cannot make an [[Action]], [[Maneuver]],  [[Response]], [[Interaction]], or speak.  They automatically fail [[React]] and [[Deflect]] rolls. Attacks against a Paralyzed creature gain a [[Perk]] . Paralyzed creatures are [[Expose|Exposed]].

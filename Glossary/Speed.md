@@ -1,0 +1,1 @@
+Creatures have a movement speed of 6 spaces on the ground unless otherwise stated by a [[Features|Feature]]. As a [[Maneuver]] the creature can move up to their speed in one round.

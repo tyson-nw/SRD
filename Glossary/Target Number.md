@@ -1,0 +1,1 @@
+The Target Number is what players need to roll to succeed at a task. It is chosen by the Game Master.

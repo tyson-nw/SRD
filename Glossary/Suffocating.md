@@ -1,0 +1,1 @@
+A creature can suffocate for a number of rounds equal to their [[Body]] defense. After that they begin making [[Dying#Stabilization Roll|Stabilization Rolls]] as if they are [[Dying]].

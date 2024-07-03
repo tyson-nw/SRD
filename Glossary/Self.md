@@ -1,0 +1,1 @@
+The spell effects the caster alone

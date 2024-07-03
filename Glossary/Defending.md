@@ -1,0 +1,1 @@
+When a Character is attacked or otherwise the target of a spell or [[Features|Feature]], the [[Player]] rolls a [[d12]] and adds the appropriate [[Defenses|Defense]] bonus against a [[Target Number]] set by the attack.

@@ -1,0 +1,1 @@
+Acts are the primary actions made in combat. They do the most, hit the hardest, or have the most spectacular effects.

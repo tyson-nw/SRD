@@ -1,0 +1,1 @@
+Creatures of the natural world are beasts.

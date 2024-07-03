@@ -1,0 +1,1 @@
+Some items require a character to attune to them, the character can only have one attuned item for every Tier of the character.

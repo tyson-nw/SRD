@@ -1,0 +1,1 @@
+When pulling a target they move in the shortest path towards the controlling creature.

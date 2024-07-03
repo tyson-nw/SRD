@@ -1,0 +1,1 @@
+Deals damage by cutting a target. As a [[Perk]] the target gains the [[Bleeding]] condition

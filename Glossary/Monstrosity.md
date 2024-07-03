@@ -1,0 +1,1 @@
+Creatures that have been created by magic or beasts twisted into a monstrous form.

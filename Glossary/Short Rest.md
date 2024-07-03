@@ -1,0 +1,1 @@
+Short Rests are an hour of relaxation without serious exertion, making [[Rolls]]. or taking damage. Some [[Features]] and [[Enchanted Items]] reset on a Short Rest.

@@ -1,0 +1,3 @@
+In order to Grab, the creature makes a [[Strength]]+[[Athletics]] roll against the target's [[React]] to give the target creature the [[Grabbed]] condition. While grabbing a target the grabbing creature can move half their speed, taking the grabbed creature along with them.
+
+As an [[Action]], a [[Grabbed]] creature can roll their [[Strength]]+[[Athletics]] or [[Dexterity]]+[[Athletics]] against the grabbing creature's [[Strength]]+[[Athletics]] to escape the grab.

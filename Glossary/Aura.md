@@ -1,0 +1,1 @@
+The radius of the spell extends around the caster's space.

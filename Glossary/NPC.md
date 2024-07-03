@@ -1,0 +1,1 @@
+Creatures that the Game Master controls. They use [Target Numbers](app://obsidian.md/Target%20Numbers) instead of [Rolls](app://obsidian.md/Rolls).

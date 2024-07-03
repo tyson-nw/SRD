@@ -1,0 +1,1 @@
+By default the attacker is [[Expose|Exposed]] until the beginning of the defender's next turn. Defender [[Features]] may provide a different Perk the player can apply.

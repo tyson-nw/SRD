@@ -1,0 +1,1 @@
+These are non-portable weapons that require concerted effort beyond that of an individual to move or are built into a location or vehicle.

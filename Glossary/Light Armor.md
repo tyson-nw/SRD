@@ -1,0 +1,1 @@
+Simple armor with no requirements.

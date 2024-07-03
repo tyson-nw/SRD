@@ -1,0 +1,1 @@
+The Grabbed creature's speed is reduced to 0 and their attacks have a [[Hindrance]] unless using a weapon with the [[Tags#Fine|Fine Tag]]. Grabbed creatures are [[Expose|Exposed]].

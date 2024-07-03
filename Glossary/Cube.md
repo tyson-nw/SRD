@@ -1,0 +1,1 @@
+The spell fills an area where each side is the size listed, effecting all creatures in its area.

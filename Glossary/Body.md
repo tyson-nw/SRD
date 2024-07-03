@@ -1,0 +1,1 @@
+[[Strength]] and [[Fortitude]] combine to make up a creature's Body defense. This is used to resist poison and other attacks on the creature's health.

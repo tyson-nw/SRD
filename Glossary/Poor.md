@@ -1,0 +1,1 @@
+Poor is the minimal amount a person needs to house, clothe in Common Clothes, and feed a person. [[Social]] [[Rolls]] with [[Wealthy]] and [[Noble]] individuals has a [[Hindrance]]. Costs 10 Coin per week of [[Downtime]] to maintain. 

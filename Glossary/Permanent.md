@@ -1,0 +1,1 @@
+Permanent spells have ongoing effects that doesn't end until the caster dispels them or [[Break Spell]] is cast on them.

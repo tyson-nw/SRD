@@ -1,0 +1,1 @@
+Occasionally two characters have to roll off. When they do, the lowest roll becomes the [[Target Number]] and the [[Perk|Perks]] or [[Complication|Complications]] of the winner apply. 

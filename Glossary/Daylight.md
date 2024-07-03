@@ -1,0 +1,1 @@
+Daylight is natural light from the sun. Its Low Light is still considered daylight.

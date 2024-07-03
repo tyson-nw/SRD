@@ -1,0 +1,1 @@
+The spell manifests 1 space wide, 2 spaces tall, and 6 spaces long unless otherwise stated in the description.

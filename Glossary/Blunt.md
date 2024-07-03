@@ -1,0 +1,1 @@
+Blunt weapons rely on impact to do damage. The wielder may choose to do non-lethal damage when they hit. If the attack would drop the target to 0 [[HP]] or below, they have 1 [[HP]] and are [[Unconscious]]. As a [[Perk]] the wielder choses which of the target's stats to [[Blighted|Blight]].

@@ -1,0 +1,1 @@
+The wearer has a [[Hindrance]] on [[Stealth]] rolls while wearing it.

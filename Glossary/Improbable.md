@@ -1,0 +1,1 @@
+Only those with mastery of a task can push themselves this far to hope to achieve this level of outcome. The [[Target Number]] is 18.

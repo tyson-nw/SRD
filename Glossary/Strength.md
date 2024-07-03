@@ -1,0 +1,1 @@
+This is the measure of brute strength that a creature has. It is used for striking, lifting, jumping, and other feats of physical exertion. If a character makes an unarmed strike they do damage equal to their Strength bonus dealing a minimum of 1 damage.

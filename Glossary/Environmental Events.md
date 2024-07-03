@@ -1,0 +1,1 @@
+At the end of the [[Round]], Environmental Events trigger. They may be traps going off, an environmental hazard happens like a landslide, steam burst, or other hazardous event. They have a [[Target Number]] to avoid. Some times succeeding on the defense roll against Environmental Events may still do damage on a successful defense roll. 

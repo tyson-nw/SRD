@@ -1,0 +1,1 @@
+Requires a Strength of +3 to wear. Otherwise the wearer has a [[Hindrance]] on attack and [[React]] rolls.

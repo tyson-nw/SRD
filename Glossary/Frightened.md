@@ -1,0 +1,1 @@
+The creature cannot move towards the source of their fear. Frightened characters have a [[Hindrance]] on all rolls while they can sense the source of their fear. Characters that inspire fear have an [[Edge]] on rolls targeting their [[Mind]] defense. Frightened creatures are [[Expose|Exposed]].

@@ -1,0 +1,1 @@
+A round has four phases, the Character's [[Turn]], the Foe's Turns, [[Lair Action|Lair Actions]], and [[Environmental Events]]. The total time elapsed in a Round is 6 seconds. At the beginning of the first round the Players roll [[Initiative]] to determine if they act in the first Round's Character turn.

@@ -1,0 +1,1 @@
+[[NPC|NPCs]] attacks will have a [[Features|Feature]] that changes the Defense Complication.

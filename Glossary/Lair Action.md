@@ -1,0 +1,1 @@
+These are actions that a creature can choose to do within their Lair when a [[Round]] ends. They can only choose a single Lair Action. Lair actions increase the Challenge of the creature by 4 times the Tier of the creature. If there are multiple creatures that have a Lair Action, only one of them occurs at the end of the [[Round]].

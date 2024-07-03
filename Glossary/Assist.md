@@ -1,0 +1,1 @@
+Without a roll, while threatening a foe, a creature can help an ally's [[Rolls|Roll]] as long as they are trained in the same [[Skills|Skill]]. The ally gains an [[Edge]] on their next [[Rolls|Roll]].

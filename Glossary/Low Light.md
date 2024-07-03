@@ -1,0 +1,1 @@
+Low Light is difficult to see in. Targets in Low Light are within [[Cover]]. Low light continues beyond the light source twice its spaces of [[Bright Light]].

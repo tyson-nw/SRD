@@ -1,0 +1,1 @@
+Huge creatures occupy a 4 by 4 spaces square and [[#Threatened Space|Threaten]] creatures within 3 spaces. If their attack has a longer [[#Reach]] it will be noted and [[#Threatened Space|Threaten]] creatures within that area.

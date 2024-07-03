@@ -1,0 +1,1 @@
+If the wielder moves at least half their speed before striking, deal an additional die of damage. As a [[Perk]] the attack knocks the target [[Prone]].

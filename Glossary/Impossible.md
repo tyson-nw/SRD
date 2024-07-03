@@ -1,0 +1,1 @@
+This is the realm of gods and immortals. Only the highest tier characters can hope to succeed at these tasks. The [[Target Number]] is 24.

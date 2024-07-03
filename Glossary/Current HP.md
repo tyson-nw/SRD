@@ -1,0 +1,1 @@
+The creature's current HP. It can only be equal to or lesser than the Maximum HP, even if healing would increase it further. Once they fall to 0 [[HP]] or below they begin dying.

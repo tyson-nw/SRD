@@ -1,0 +1,1 @@
+If a creature is fully obscured from the vision of their attacker either behind something solid and opaque or within darkness they have Full Cover. Attackers still know the creature is there unless the creature becomes [[Hidden]].

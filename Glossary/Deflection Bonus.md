@@ -1,0 +1,1 @@
+This bonus adds to the character's [[React]] to derive the character's [[Deflect]]. If the Deflection Bonus has a * then it is used as the [[Deflect]] without the [[React]] bonus added in.

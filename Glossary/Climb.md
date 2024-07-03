@@ -1,0 +1,1 @@
+Can move up and down vertical surfaces without a penalty to movement.

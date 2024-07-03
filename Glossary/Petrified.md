@@ -1,0 +1,1 @@
+Petrified creatures and their held items are changed to an inanimate substance. They are [[Paralyzed]], have [[Damage Resistance]], and are immune to poison, disease, and aging. Poisons and diseases are not neutralized, just suspended. Petrified  creatures are [[Expose|Exposed]].

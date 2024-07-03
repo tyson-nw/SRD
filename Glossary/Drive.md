@@ -1,0 +1,1 @@
+What drives your [[#Character]]? Why do they adventure? Why didn't they just take the same job as a parent and stay near their home? They should be active goals that are not permanently achievable but can be acted on in the moment.

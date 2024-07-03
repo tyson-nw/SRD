@@ -1,0 +1,1 @@
+Maneuver's are actions that can don't rise to the level of an Action, but they can be used as an Action. All creatures have access to these following maneuvers.

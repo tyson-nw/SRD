@@ -1,0 +1,1 @@
+The creature cannot make an [[Action]], [[Maneuver]],  [[Response]], [[Interaction]], or speak.  They automatically fail [[React]] and [[Deflect]] rolls. Unconscious creatures are [[Expose|Exposed]]. They can be awakened by taking damage or another creature perform a [[Maneuver]] to awaken them.

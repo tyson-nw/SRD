@@ -1,0 +1,1 @@
+Can be wielded [[Two-Handed]] or single-handed in melee. When wielded [[Two-Handed]] it uses the  Versatile die to deal damage instead of normal damage.

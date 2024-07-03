@@ -1,0 +1,1 @@
+The Game Master facilitates the game, describes the world, controls all other creatures, and is the final arbiter of the rules.

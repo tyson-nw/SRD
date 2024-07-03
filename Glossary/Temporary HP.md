@@ -1,0 +1,2 @@
+#### Temporary HP
+Temporary HP are additional beyond the character's HP. When a character gains Temporary HP they replace the current value if the new value is higher. When the character takes damage the Temporary HP goes away first. [[Dying]] creatures with Temporary HP are still [[Dying]] until they stabilize. If a creature has Temporary HP they are not [[Unconscious]] from having 0 HP.

@@ -1,0 +1,1 @@
+Knowledge is used for recalling information a creature might know and represents the training they have received. 

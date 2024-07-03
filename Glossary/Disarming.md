@@ -1,0 +1,1 @@
+On a hit if the attack roll also exceeds the target's [[Body]] defense the attacker can choose to remove an item being held by the target instead of damage. As a [[Perk]] the target is [[Expose|Exposed]].

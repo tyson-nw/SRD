@@ -1,0 +1,1 @@
+Small creatures occupy a 1 space and threaten creatures within adjacent spaces. They can [[#Move Through]] an occupied square without it being [[#Difficult Terrain]].

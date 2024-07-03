@@ -1,0 +1,3 @@
+A creature is invisible if they cannot be seen, either by a spell, ability, or in complete darkness. A creature can estimate where an invisible target is with a [[Wits]]+[[Senses]] roll using senses other than sight against the target's [[React]]. If the target is moving stealthily they can make an opposing [[Dexterity]]+[[Stealth]] roll.
+
+Even if the target is located, all attempts to hit the creature have [[Hindrance]]. Spells do not have line of effect, so the creature cannot be targeted by non-area spells.

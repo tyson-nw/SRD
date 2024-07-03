@@ -1,0 +1,1 @@
+Can be used to attack as a [[Maneuver]] in the off-hand. 

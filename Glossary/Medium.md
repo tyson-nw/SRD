@@ -1,0 +1,1 @@
+Medium creatures occupy a 1 space and threaten creatures within adjacent spaces. If their attack has a longer [[#Reach]] it will be noted and [[#Threatened Space|Threaten]] creatures within that area.

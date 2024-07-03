@@ -1,0 +1,1 @@
+Comfortable is the average lifestyle of an individual that has steady housing, easy access to food, and is able to regularly clean themselves and their clothes. Costs 100 Coin per week of [[Downtime]] to maintain. [[Social]] [[Rolls]] with [[Noble]] individuals has a [[Hindrance]].

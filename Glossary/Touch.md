@@ -1,0 +1,1 @@
+The spell effects a creature touched by the caster against the listed defense. If there is no defense listed it can only effect willing creatures.

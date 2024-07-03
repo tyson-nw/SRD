@@ -1,0 +1,1 @@
+Creatures that are plants, fungus, or derived from plants or fungus.

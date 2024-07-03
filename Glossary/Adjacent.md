@@ -1,0 +1,1 @@
+Creatures whose occupied space touches another creature’s occupied space are considered Adjacent.

@@ -1,0 +1,1 @@
+Noble requires the employment of others and maintenance of a territory with regular expenditures on food, clothing, and accessories that impress the community. Rolls to integrate as [[Poor]] or [[Common]] individuals have a [[Hindrance]]. Costs 10,000 Coin per week to maintain.

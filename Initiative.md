@@ -1,0 +1,1 @@
+Initiative is rolled when an encounter escalates to violence. Characters that detect this escalation by making a [[React]] [[Rolls|Roll]] against the highest [[React]] [[Target Number]] from among the foes to determine if they act during the first [[Turn]] of the first [[Round]]. Those that fail go with the character's [[Turn]] in the second [[Round]]. 

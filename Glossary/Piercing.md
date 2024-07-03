@@ -1,0 +1,1 @@
+Deals damage by piercing the target. As a [[Perk]] add bypass target's [[Soak]].

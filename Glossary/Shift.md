@@ -1,0 +1,1 @@
+When shifting a target the controlling creature can move them in any direction.

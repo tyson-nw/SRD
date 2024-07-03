@@ -1,0 +1,1 @@
+To cast a spell the character needs to make a Spellcasting Bonus. The [[Target Number]] is both the caster's current [[Burn]] and the target's defense. If there are multiple targets, the character only rolls once and applies that to all the target's defenses. 

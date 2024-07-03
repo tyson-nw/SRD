@@ -1,0 +1,1 @@
+Players have control of a single character and any creatures that player's character may control or direct.

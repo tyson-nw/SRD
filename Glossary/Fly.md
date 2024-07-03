@@ -1,0 +1,1 @@
+The creature must move at least half their fly movement every round. They can only move upward half their total move. If the creature is knocked [[#Prone]] they begin falling.

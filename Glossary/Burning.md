@@ -1,0 +1,1 @@
+At the the beginning of the burning creature's turn they take 1d6 damage and are [[Expose|Exposed]]. To end Burning condition the creature or an adjacent creature can snuff the flames as a [[Maneuver]] or fully be immersed in water.

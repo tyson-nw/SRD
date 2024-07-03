@@ -1,0 +1,1 @@
+Two creatures can share the same space. While they are in the same space both creatures have a [[Hindrance]] on [[Athletics]], [[Enigma]], and [[Weapons]] rolls. As well, both creatures have a [[Hindrance]] on [[React]] and [[Deflect]] defenses. Both creatures are [[Expose|Exposed]].

@@ -1,0 +1,1 @@
+If a creature has Damage Resistance they take half damage, rounded down, before applying their [[Soak]].

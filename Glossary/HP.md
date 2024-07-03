@@ -1,0 +1,1 @@
+HP, or hit points, is an abstraction of how many times a character can be hit. Of a character drops to 0 HP they are [[Unconscious]] and begin [[Dying]].

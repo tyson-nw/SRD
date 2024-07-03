@@ -1,0 +1,1 @@
+A creature makes a [[Wits]]+[[Senses]] roll to reveal hidden enemies, [[Scene Features]] they can take advantage of, or [[Environmental Events]] that are poised to occur granting the an [[Edge]] on resisting them.

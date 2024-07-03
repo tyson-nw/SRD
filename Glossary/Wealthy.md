@@ -1,0 +1,1 @@
+Wealthy requires the employment of others to maintain a high quality of food, clothing, and housing that can impress guests. Rolls to integrate with  [[Poor]] individuals have a [[Hindrance]]. Costs 1,000 Coin per week to maintain.

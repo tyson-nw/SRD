@@ -1,0 +1,3 @@
+A [[Character]] makes a [[Weapons]]+[[Stats|Stat]] (as appropriate for that weapon) roll against a target's [[Deflect]] defense. If the [[Character]] succeeds, the attack connects and it deals damage according to the weapon's [[Tags]]. Some weapon [[Tags]] provide [[Features]] that can be used instead of making an attack. Using those [[Features]] is treated like an attack.
+
+A [[NPC]] declares their intent to attack a [[Character]] and the [[Character]] makes a [[React]] defense against  the to the attack's [[Target Number]]. If the [[Character]] succeeds the attack misses.  

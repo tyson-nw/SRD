@@ -1,0 +1,1 @@
+Sickened creatures have a [[Hindrance]] on all [[Rolls]].

@@ -1,0 +1,1 @@
+Can be used in an [[Offhand Attack]] to deal 1d4 damage. As a [[Defense Perk]] the wielder can [[Push]] attacker back 2 spaces.

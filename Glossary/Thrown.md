@@ -1,0 +1,1 @@
+Can make an attack against a target within the listed distance using [[Strength]]+[[Weapons]] roll. Can be thrown at a target up to twice times the listed distance with [[Hindrance]]. 

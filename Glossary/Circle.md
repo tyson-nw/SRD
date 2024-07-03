@@ -1,0 +1,1 @@
+The radius of a spell extends around a point in the center of a space extending the amount of spaces listed. Circle 0 only covers the space with the point in it.

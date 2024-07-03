@@ -1,0 +1,1 @@
+The maximum HP a creature can have. A character's base [[HP]] is set by their class plus their [[Fortitude]] bonus multiplied by the character's [[Proficiency Bonus]]. 

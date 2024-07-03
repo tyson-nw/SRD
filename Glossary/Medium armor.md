@@ -1,0 +1,1 @@
+Requires a Strength of +1 to wear, otherwise the wearer has a [[Hindrance]] on [[React]] rolls.

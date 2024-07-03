@@ -1,0 +1,1 @@
+The spell projects outward in a ninety degree fan who's origin is an adjacent square to the caster, effecting all creatures in its area.

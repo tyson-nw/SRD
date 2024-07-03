@@ -1,0 +1,1 @@
+Divine magic comes from a being of power beyond the mundane world.

@@ -1,0 +1,1 @@
+A creature can Shove another creature if they're [[Adjacent]] or [[Sharing a Space]]. A creature makes a [[Strength]]+[[Athletics]] against the [[Body]] of a target no more than one size category larger to push the target up to 2 spaces away and knock them [[Prone]].

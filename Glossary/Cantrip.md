@@ -1,0 +1,1 @@
+Cantrips are simple spells that can be cast at any time without increasing Burn. They do have to roll over the current Burn to manifest. Some cantrips scale as the caster advances in the tiers. If so it will be in the description.

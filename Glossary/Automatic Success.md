@@ -1,0 +1,1 @@
+If a creature has proficiency in a [[Skills|Skill]] or an applicable [[Expertise]] they automatically succeed all [[Simple]] rolls. If they have both proficiency in a [[Skills|Skill]] and an applicable [[Expertise]] they also automatically succeed on [[Easy]] rolls.  

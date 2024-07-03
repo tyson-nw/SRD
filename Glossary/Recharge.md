@@ -1,0 +1,1 @@
+Some abilities need to recharge between uses. The [[Game Master]] rolls a [[d6]] at the beginning of the creature's turn to determine if the ability recharges.

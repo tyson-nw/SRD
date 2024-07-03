@@ -1,0 +1,1 @@
+This takes some effort to achieve, but can be achieved with time and focus. The [[Target Number]] is 10

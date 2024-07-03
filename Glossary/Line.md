@@ -1,0 +1,1 @@
+The spell projects forward in a line from the caster, effecting each creature it intersects with.

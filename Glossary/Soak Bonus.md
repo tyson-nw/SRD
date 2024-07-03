@@ -1,0 +1,1 @@
+This bonus adds to the character's [[Body]] to derive the character's [[Soak]].

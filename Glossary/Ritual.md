@@ -1,0 +1,1 @@
+Spells that have the ritual casting time take 10 minutes for every Tier of the spell to cast. Performing a spell as a Ritual gives an [[Edge]] on the [[Spellcasting Roll]].

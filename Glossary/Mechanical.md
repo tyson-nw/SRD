@@ -1,0 +1,1 @@
+Requires a [[Maneuver]] to reload. Uses [[#Wits]] for rolls and damage bonus.

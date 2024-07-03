@@ -1,0 +1,1 @@
+Recovery requires dedicated rest without strenuous exertion or focusing on anything but rest and recovery. It rest restores the character's [[HP]] to their maximum and also restores one level of [[Blighted|Blight]] per [[Stat]]. 

@@ -1,0 +1,1 @@
+Without a roll, a creature has an [[Edge]] on all [[React]] and [[Deflect]] rolls until the beginning of their next turn.

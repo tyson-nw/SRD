@@ -1,0 +1,1 @@
+The challenge rating is a score of relative difficulty of the creature. It is a determined by a combination of Defenses, [[HP]], and Attacks per round.

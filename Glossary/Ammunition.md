@@ -1,0 +1,1 @@
+Weapon uses ammunition that is tracked separately and may add damage dealt or effects granted by the weapon. Ammunition breaks on misses and cannot be recovered.

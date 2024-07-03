@@ -1,0 +1,1 @@
+When pushing a target they can only be pushed directly away from the controlling creature.

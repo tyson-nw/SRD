@@ -1,0 +1,1 @@
+This game uses dice to add randomness to the outcome of choices.

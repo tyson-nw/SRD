@@ -1,0 +1,1 @@
+Prone creatures can only crawl using two spaces of movement for every space traveled. Standing up spends half their movement speed. The prone creature has a [[Hindrance]] on attack rolls. Prone creatures are [[Expose|Exposed]] to melee attacks.

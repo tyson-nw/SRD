@@ -1,0 +1,1 @@
+Characters who are lost need to make an [[Easy]] [[Wits]]+[[Senses]] roll to orient themselves. On a success they find their way back to familiar territory and can make their [[Complex Roll]] once more. As a [[Perk]] they are actually closer to their destination than they expected. As a [[Complication]] they have an encounter, and on a failure they spend a day and remain Lost.

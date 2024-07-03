@@ -1,0 +1,1 @@
+Moving through one space of Difficult Terrain requires two spaces of movement.

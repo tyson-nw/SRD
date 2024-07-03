@@ -1,0 +1,3 @@
+A character can command a pet or mount to move, and also [[Dash]], [[Dodge]], [[Evade]], [[Hide]] as part of the same [[Maneuver]]. If the pet or mount is battle-trained, it may be commanded to [[Attack]] or [[Assist]].
+
+Without a command a pet or mount will attempt to preserve its life by [[Dodge|Dodging]] and staying in place if not threatened, or [[Evade|Evading]] and moving out of combat if they are. If commanded, they will either stay put and [[Dodge]] or move where commanded while [[Evade|Evading]].

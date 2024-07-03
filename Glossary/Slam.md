@@ -1,0 +1,1 @@
+As a [[Perk]] the wielder can choose to push the target up to 2 spaces and [[Expose]] them.

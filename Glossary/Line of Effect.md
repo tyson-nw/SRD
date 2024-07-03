@@ -1,0 +1,1 @@
+For a spell to succeed the caster must be able to see the target and have an unobstructed line of sight on the target. When targeting an area the caster needs to just needs to have an unobstructed line of sight on the point that the spell manifests around. For spells that have a target larger than possible to have line of sight, Line of Effect is not required.

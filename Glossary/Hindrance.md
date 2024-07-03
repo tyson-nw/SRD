@@ -1,0 +1,1 @@
+When a character has a [[Hindrance]] on a roll, they roll the [[D12]] twice and use the lowest roll. If an [[NPC]] has [[Edge]] on an attack or skill the character has a [[Hindrance]] when rolling their defense.

@@ -1,0 +1,1 @@
+What undermines your character? Is this your [[#Character|Character's]] drive taken to extreme? Is it a weakness that your [[#Character]] will revert to when pressed? Acting on the [[#Character|Character's]] Flaw is the easiest to gain [[#Bennies]]. As well, overcoming the flaw at great cost to your character is worth gaining [[#Bennies]]. 

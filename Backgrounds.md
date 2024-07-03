@@ -1,8 +1,7 @@
-## Background
-What did your character do before they became an adventurer?  This also can be used as an expertise when it could apply to the roll. Backgrounds are also broad [[#Expertise|Expertises]] that encompass many aspects of coming from that Background. Some backgrounds may also grant specific an [[#Expertise]].
+What did your character do before they became an adventurer?  This also can be used as an expertise when it could apply to the roll. Backgrounds are also broad [[Expertise|Expertises]] that encompass many aspects of coming from that Background. Some backgrounds may also grant an additional [[Expertise]] of more precise scope.
 
 #### Acolyte
-Acolytes have studied under a series of teachers within a field of study. They gain the [[#Arcana]], [[#History]], or [[#Religion]] [[#Expertise]]. Their pack includes:
+Acolytes have studied under a series of teachers within a field of study. They gain the [[Expertise#Arcana|Arcana]], [[Expertise#History|History]], or [[Expertise#Religion|Religion]] [[Expertise]]. Their pack includes:
 
 * Candles x10
 * Block of incense
@@ -12,7 +11,7 @@ Acolytes have studied under a series of teachers within a field of study. They g
 * 10 Coin
 
 #### Apprentice
-Apprentices have studied under a master of a craft and have standing within a guild for this craft. They have [[#Expertise]] in that craft. Their pack includes:
+Apprentices have studied under a master of a craft and have standing within a guild for this craft. They have [[Expertise]] in that craft. Their pack includes:
 
 * Craft tools
 * Clothing, Common 
@@ -25,6 +24,8 @@ Athletes have trained to push their body to its limits. Their pack includes:
 * Clothing, Common
 * Rations, 2 days
 * Rope, 50ft
+* Tinderbox
+* Torches 5x
 * Waterskin
 * 10 Coin
 
@@ -73,6 +74,29 @@ Entertainers are skilled in capturing attention and entertaining others. Their p
 * Waterskin
 * 15 Coin
 
+#### Gladiator
+Gladiators have spent their time in the pits surviving on their wits, skill, and ability to play to the crowd. They have Expertise in one weapon. Their pack includes:
+* A [[Tags#Martial|Martial]] or [[Tags#Basic|Basic]] weapon
+* Bedroll
+* Clothing, Travel
+* Rope, 50ft
+* Tent, 2 person
+* Tinderbox
+* Torches 5x
+* 20 Coin
+
+#### Highborn
+Highborn are of the blood. It may be thin, but they are related to someone with a title or may be inline for that title and can call on that influence.  Their pack includes:
+* Clothing, Fine
+* Ink Pen
+* Scroll Case
+* Sealing Wax
+* Sheets of Paper 10x
+* Signet Ring
+* Soap
+* Vial of Ink
+* 50 Coin
+
 #### Merchant
 Merchants know the ways of trade, who is buying, who is selling, and where to find obscure things for sale. Their pack includes:
 * Clothing, Fine
@@ -87,27 +111,6 @@ Merchants know the ways of trade, who is buying, who is selling, and where to fi
 * Waterskin
 * 20 Coin
 
-#### Gladiator
-Gladiators have spent their time in the pits surviving on their wits, skill, and ability to play to the crowd. They have Expertise in one weapon. Their pack includes:
-* A [[#Martial]] or [[#Simple]] weapon
-* Bedroll
-* Clothing, Travel
-* Rope, 50ft
-* Tent, 2 person
-* 20 Coin
-
-#### Noble
-Nobles are of the blood. It may be thin, but they are related to someone with a title or may be inline for that title and can call on that influence.  Their pack includes:
-* Clothing, Fine
-* Ink Pen
-* Scroll Case
-* Sealing Wax
-* Sheets of Paper 10x
-* Signet Ring
-* Soap
-* Vial of Ink
-* 50 Coin
-
 #### Rover
 Rovers are well-traveled and versed in geography and trail signs. They have an innate sense of direction and can create paths to their destination even when there are none. Their pack includes:
 * Bedroll
@@ -116,6 +119,8 @@ Rovers are well-traveled and versed in geography and trail signs. They have an i
 * Rope, 50ft
 * Rations, 5 days
 * Tent, 2 person 
+* Tinderbox
+* Torches 5x
 * Travelogue
 * Waterskin
 * 10 Coin
@@ -140,15 +145,15 @@ Sailors are trained in knot work, sail tending, and other tasks required to sail
 * 20 Coin
 
 #### Soldier
-Soldiers are trained in both martial skills and to work together in combat. They have [[#Expertise]] with one [[#Weapon]] and socialize easily with other soldiers. Their pack includes:
-* A [[#Martial]] or [[#Simple]] weapon
+Soldiers are trained in both martial skills and to work together in combat. They have [[Expertise]] with one [[Equipment#Weapons|Weapon]] and socialize easily with other soldiers. Their pack includes:
+* A [[Tags#Martial|Martial]] or [[Tags#Basic|Basic]] weapon
 * Bedroll
 * Clothing, Common
 * Mess kit
 * Rations, 5 days
 * Rope, 50ft
 * Tinderbox
-* Torches x5
+* Torches 5x
 * Waterskin
 * 20 Coin
 

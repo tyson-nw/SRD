@@ -1,0 +1,1 @@
+Features grant new capabilities to characters. They come from the character's [[Ancestries|Ancestry]], [[Archetypes|Archetypes]], and [[Cultures|Culture]]. Some will apply in specific situations, others will give you new opportunities to roll, and most will provide new [[Action|Actions]] for your character to make.

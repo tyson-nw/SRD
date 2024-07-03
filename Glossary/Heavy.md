@@ -1,0 +1,1 @@
+Requires a [[Strength]] modifier of +2, +3 for creatures with small stature. Otherwise, the wielder has a [[Hindrance]] on attack rolls. As a [[Perk]] instead of rolling for damage, the attack deals maximum damage for the weapon.

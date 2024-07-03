@@ -1,0 +1,1 @@
+The creature can move this speed through water and typically can breath in water.

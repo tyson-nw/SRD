@@ -1,0 +1,1 @@
+The creature can move in any direction or not at all. The creature is immune to the [[#Prone]] condition.

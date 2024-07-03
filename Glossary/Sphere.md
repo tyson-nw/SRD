@@ -1,0 +1,1 @@
+The spell manifests around a point to the listed radius, the point is within the listed range.

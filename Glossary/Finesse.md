@@ -1,0 +1,1 @@
+Can use [[Dexterity]] instead of [[Strength]] when making a weapon attack.

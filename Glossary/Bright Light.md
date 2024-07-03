@@ -1,0 +1,1 @@
+Bright light is easy to see in and confers no cover to creatures within it.

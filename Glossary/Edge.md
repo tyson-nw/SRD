@@ -1,0 +1,1 @@
+When a character has an Edge on a roll, they roll the [[D12]] twice and use the highest roll. If an [[NPC]] has a [[Hindrance]] on a defense the attacking character has an [[Edge]] on all rolls against that defense.

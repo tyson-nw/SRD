@@ -1,0 +1,1 @@
+Even with time and focus it requires a steady hand, extensive training, or luck. The [[Target Number]] is 14.
